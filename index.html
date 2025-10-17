@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-10-17 Fri 18:18 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>&lrm;</title>
+<meta name="author" content="Samiddhi" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org336316b">1. Chapter 1</a>
+<ul>
+<li><a href="#org1d4b410">1.1. MN 107</a>
+<ul>
+<li><a href="#org9308686">1.1.1. Dojč/Döïtshke</a></li>
+<li><a href="#org9bf827a">1.1.2. Pāli</a></li>
+<li><a href="#org2e45a65">1.1.3. OWTJ</a></li>
+<li><a href="#org69f56bb">1.1.4. Anigha</a></li>
+</ul>
+</li>
+<li><a href="#org74f2db5">1.2. MN 19</a>
+<ul>
+<li><a href="#org7173aeb">1.2.1. Dojč/Döïtshke</a></li>
+<li><a href="#org70b9d71">1.2.2. Pāli</a></li>
+<li><a href="#org9cab281">1.2.3. OWTJ</a></li>
+<li><a href="#orgfdf9311">1.2.4. Anigha</a></li>
+</ul>
+</li>
+<li><a href="#orgbc577a1">1.3. MN 152</a>
+<ul>
+<li><a href="#org831cdfa">1.3.1. Dojč/Döïtshke</a></li>
+<li><a href="#org6be191b">1.3.2. Pāli</a></li>
+<li><a href="#org87ecf77">1.3.3. OWTJ</a></li>
+</ul>
+</li>
+<li><a href="#org4ffd30d">1.4. UD 5.5</a>
+<ul>
+<li><a href="#org69ca590">1.4.1. Dojč/Döïtshke</a></li>
+<li><a href="#orgaeb1902">1.4.2. Pāli</a></li>
+<li><a href="#org7f6f7ed">1.4.3. OWTJ</a></li>
+</ul>
+</li>
+<li><a href="#orge12d2a7">1.5. HN 12</a>
+<ul>
+<li><a href="#org7ce0bfe">1.5.1. Dojč/Döïtshke</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org336316b" class="outline-2">
+<h2 id="org336316b"><span class="section-number-2">1.</span> Chapter 1</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org1d4b410" class="outline-3">
+<h3 id="org1d4b410"><span class="section-number-3">1.1.</span> MN 107</h3>
+<div class="outline-text-3" id="text-1-1">
+</div>
+<div id="outline-container-org9308686" class="outline-4">
+<h4 id="org9308686"><span class="section-number-4">1.1.1.</span> Dojč/Döïtshke</h4>
+<div class="outline-text-4" id="text-1-1-1">
+<blockquote>
+<p>
+„Ebenso, o Brahmane, wenn der Tathāgata einen Menschen, der zu zähmen ist, in seine Obhut bekommt, unterweist er ihn zuallererst folgendermaßen: ‚Komm, Mönch, sei sittenrein. Lebe, eingeschränkt durch die Ordensregeln, vollkommen im Verhalten und im rechten Wandel, siehst du die Gefahr schon im geringsten Vergehen. Indem du sie übernommen hast, übe dich in den Übungsregeln.‘
+</p>
+
+<p>
+Wenn der Mönch, o Brahmane, sittenrein ist, [&#x2026;] sieht er die Gefahr schon im geringsten Vergehen, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der die Tore der Sinne bewacht. Wenn du mit dem Auge eine Form erblickst, sei einer, der nicht am Anzeichen haftet, nicht am Detail. Denn wenn du unbezähmt mit dem Auge lebst, könnten üble, unheilsame Geisteszustände, Begierde und Widerwille, in dich einströmen. Daher übe dich in deren Bezähmung; bewache das Auge, erlange die Bezähmung des Auges. Wenn du mit dem Ohr einen Ton hörst [&#x2026;] Wenn du mit der Nase einen Duft riechst [&#x2026;] Wenn du mit der Zunge einen Geschmack schmeckst [&#x2026;] Wenn du mit dem Körper eine Berührung fühlst [&#x2026;] Wenn du mit dem Geist ein Geistesobjekt wahrnimmst, sei einer, der nicht am Anzeichen haftet, nicht am Detail. Denn wenn du unbezähmt mit dem Geist lebst, könnten üble, unheilsame Geisteszustände, Begierde und Widerwille, in dich einströmen. Daher übe dich in deren Bezähmung; bewache den Geist, erlange die Bezähmung des Geistes.‘
+</p>
+
+<p>
+Wenn der Mönch, o Brahmane, einer ist, der die Tore der Sinne bewacht, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei maßvoll beim Essen. Indem du weise reflektierst, nimmst du Speise zu dir: nicht zum Vergnügen, nicht zum Rausch, nicht zur Zierde, nicht zur Verschönerung, sondern einzig um diesen Körper am Leben zu erhalten, um Schaden zu beenden, um das heilige Leben zu unterstützen, indem du denkst: So werde ich altes Gefühl beenden und kein neues Gefühl aufsteigen lassen, und ich werde ein untadeliges Leben führen und mich wohl fühlen.‘
+</p>
+
+<p>
+Wenn der Mönch, o Brahmane, maßvoll beim Essen ist, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der sich der Wachsamkeit widmet. Am Tage, beim Gehen und Sitzen, läutere deinen Geist von hemmenden Zuständen. In der ersten Nachtwache, beim Gehen und Sitzen, läutere deinen Geist von hemmenden Zuständen. In der mittleren Nachtwache, bereite dir auf der rechten Seite das Löwenlager, einen Fuß über dem anderen, achtsam und wissensklar, die Vorstellung des Aufstehens im Geiste haltend. In der letzten Nachtwache, erhebe dich und läutere beim Gehen und Sitzen deinen Geist von hemmenden Zuständen.‘
+</p>
+
+<p>
+Wenn der Mönch, o Brahmane, einer ist, der sich der Wachsamkeit widmet, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der mit Achtsamkeit und Wissensklarheit ausgestattet ist. Handle wissensklar beim Hingehen und Zurückkehren; beim Hinblicken und Wegblicken; beim Beugen und Strecken der Glieder; beim Tragen der Ober- und Unterrobe, der Almosenschale; beim Essen, Trinken, Kauen und Schmecken; beim Verrichten der Notdurft; beim Gehen, Stehen, Sitzen, Einschlafen, Aufwachen, Reden und Schweigen.‘
+</p>
+
+<p>
+Wenn der Mönch, o Brahmane, einer ist, der mit Achtsamkeit und Wissensklarheit ausgestattet ist, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, suche eine abgeschiedene Lagerstätte auf: einen Wald, den Fuß eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, ein Walddickicht, eine freie Fläche, einen Strohhaufen.‘
+</p>
+
+<p>
+Er sucht eine abgeschiedene Lagerstätte auf: einen Wald, den Fuß eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, ein Walddickicht, eine freie Fläche, einen Strohhaufen. Nach dem Almosengang, nach der Mahlzeit, setzt er sich mit gekreuzten Beinen nieder, den Oberkörper aufgerichtet, und richtet die Achtsamkeit nach vorn, auf den Gegenwartspunkt.
+</p>
+
+<p>
+Nachdem er Begierde gegenüber der Welt aufgegeben hat, verweilt er mit einem von Begierde freien Geist; er läutert seinen Geist von Begierde. Nachdem er Übelwollen und Hass aufgegeben hat, verweilt er mit einem von Übelwollen freien Geist, voll Mitgefühl für das Wohlergehen aller lebenden Wesen; er läutert seinen Geist von Übelwollen und Hass. Nachdem er Trägheit und Mattheit aufgegeben hat, verweilt er frei von Trägheit und Mattheit, voll Wahrnehmung von Licht, achtsam und wissensklar; er läutert seinen Geist von Trägheit und Mattheit. Nachdem er Rastlosigkeit und Gewissensunruhe aufgegeben hat, verweilt er unaufgeregt, mit einem innerlich beruhigten Geist; er läutert seinen Geist von Rastlosigkeit und Gewissensunruhe. Nachdem er den Zweifel aufgegeben hat, verweilt er dem Zweifel entronnen, ohne Ungewissheit heilsamen Geisteszuständen gegenüber; er läutert seinen Geist von Zweifel.
+</p>
+
+<p>
+Nachdem er diese fünf Hemmnisse aufgegeben hat, diese Befleckungen des Geistes, die die Weisheit schwächen, dann, ganz abgeschieden von Sinnesreizen, abgeschieden von unheilsamen Geisteszuständen, tritt er in die erste Vertiefung ein, die mit Denken und Überlegen geboren wird, mit Verzückung und Glücksgefühl, die aus der Abgeschiedenheit entstanden ist, und verweilt in ihr. Mit der Stillung von Denken und Überlegen tritt er in die zweite Vertiefung ein, die innere Beruhigung und Einheit des Gemüts ohne Denken und Überlegen, mit Verzückung und Glücksgefühl, die aus der Sammlung entstanden sind, und verweilt in ihr. Nach dem Verblassen der Verzückung, in Gleichmut verweilend, achtsam und wissensklar, voll körperlich empfundenen Glücks, tritt er in die dritte Vertiefung ein, von der die Edlen sagen: ‚Glückselig verweilt derjenige, der voll Gleichmut und Achtsamkeit ist‘, und verweilt in ihr. Nach dem Überwinden von Glück und Schmerz und dem schon früheren Schwinden von Frohsinn und Trauer, tritt er in die vierte Vertiefung ein, die aufgrund von Gleichmut und Achtsamkeit Läuterung ist, weder Schmerz noch Glück, und verweilt in ihr.
+</p>
+
+<p>
+Jenen Mönchen, o Brahmane, die Lehrlinge sind, die das Ziel noch nicht erreicht haben und unermüdlich im Streben nach dem höchsten Heil von der Fessel verweilen, gilt diese meine Unterweisung. Doch jenen Mönchen, die Arahants sind, deren Triebe vernichtet sind, die das heilige Leben gelebt, getan was getan werden musste, die Bürde abgelegt, das wahre Ziel erreicht haben, deren Daseinsfesseln völlig zerstört und die durch vollkommene Erkenntnis befreit sind, – diese Dinge führen bei ihnen zu einem gegenwärtig glücklichen Verweilen und zu Achtsamkeit und Wissensklarheit.“
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org9bf827a" class="outline-4">
+<h4 id="org9bf827a"><span class="section-number-4">1.1.2.</span> Pāli</h4>
+<div class="outline-text-4" id="text-1-1-2">
+<blockquote>
+<p>
+evameva kho, brāhmaṇa, tathāgato purisadammaṃ labhitvā paṭhamaṃ evaṃ vineti — ‘ehi tvaṃ, bhikkhu, sīlavā hohi, pātimokkhasaṃvarasaṃvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesū’”ti.
+</p>
+
+<p>
+♦ “yato kho, brāhmaṇa, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi mānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjāhi; rakkhāhi cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjāhi. sotena saddaṃ sutvā &#x2026; pe &#x2026; ghānena gandhaṃ ghāyitvā &#x2026; pe &#x2026; jivhāya rasaṃ sāyitvā &#x2026; pe &#x2026; kāyena phoṭṭhabbaṃ phusitvā &#x2026; pe &#x2026; manasā dhammaṃ viññāya mā nimittaggāhī hohi mānubyañjanaggāhī. yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjāhi; rakkhāhi manindriyaṃ, manindriye saṃvaraṃ āpajjāhī’”ti.
+</p>
+
+<p>
+♦ “yato kho, brāhmaṇa, bhikkhu indriyesu guttadvāro hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi — neva davāya na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya — iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’”ti.
+</p>
+
+<p>
+♦ “yato kho, brāhmaṇa, bhikkhu bhojane mattaññū hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, jāgariyaṃ anuyutto viharāhi, divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā paṭhamaṃ yāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā, rattiyā pacchimaṃ yāmaṃ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehī’”ti.
+</p>
+
+<p>
+♦ “yato kho, brāhmaṇa, bhikkhu jāgariyaṃ anuyutto hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, satisampajaññena samannāgato hohi, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī’”ti.
+</p>
+
+<p>
+♦ “yato kho, brāhmaṇa, bhikkhu satisampajaññena samannāgato hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, vivittaṃ senāsanaṃ bhajāhi araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjan’ti. so vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanappatthaṃ abbhokāsaṃ palālapuñjaṃ. so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā. so abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti; byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodheti; thinamiddhaṃ {thīnamiddhaṃ (sī. syā. kaṃ. pī.)} pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṃ parisodheti; uddhaccakukkuccaṃ pahāya anuddhato viharati ajjhattaṃ vūpasantacitto, uddhaccakukkuccā cittaṃ parisodheti; vicikicchaṃ pahāya tiṇṇavicikiccho viharati akathaṃkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti.
+</p>
+
+<p>
+♦ 76. “so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ &#x2026; pe &#x2026; dutiyaṃ jhānaṃ upasampajja viharati. pītiyā ca virāgā&#x2026; tatiyaṃ jhānaṃ upasampajja viharati. sukhassa ca pahānā&#x2026; catutthaṃ jhānaṃ upasampajja viharati.
+</p>
+
+<p>
+♦ “ye kho te, brāhmaṇa, bhikkhū sekkhā {sekhā (sabbattha)} apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti. ye pana te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññā vimuttā tesaṃ ime dhammā diṭṭhadhammasukhavihārāya ceva saṃvattanti, satisampajaññāya cā”ti.
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-org2e45a65" class="outline-4">
+<h4 id="org2e45a65"><span class="section-number-4">1.1.3.</span> OWTJ</h4>
+<div class="outline-text-4" id="text-1-1-3">
+<blockquote>
+<p>
+… When the Tathāgata gets a person fit to be tamed, he first trains him
+like this:
+‘(1) Come, monk. Be virtuous. Live restrained in accordance with
+the Pāṭimokkha, accomplished in your behavior and sphere of activity.
+Train yourself, having undertaken the training rules, seeing danger in
+the slightest faults.’
+When the monk is virtuous … seeing danger in the slightest faults,
+the Tathāgata then trains him further:
+‘(2) Come, monk. Be one who is guarded in the doors of your sense
+faculties. On seeing a form with the eye, don’t grasp at any signs and
+features (significance) by which—if you were to live without restraint
+over the faculty of the eye—unskilful qualities such as greed or distress
+might assail you. Practice restraint. Protect the faculty of the eye.
+Attain restraint concerning the faculty of the eye. On hearing a sound
+with the ear … On smelling an aroma with the nose … On tasting a
+flavour with the tongue … On touching a tactile sensation with the
+body … On cognising an idea with the intellect, don’t grasp at any signs
+and features by which—if you were to live without restraint over the
+faculty of the intellect—unskilful qualities such as greed or distress
+might assail you. Practice restraint. Protect the faculty of the intellect.
+Attain restraint concerning the faculty of the intellect.’
+When the monk is one who is guarded in the doors of his sense
+faculties … the Tathāgata then trains him further:
+‘(3) Come, monk. Be one who moderates his eating. Concurrently
+reflecting, take your food not playfully, nor for intoxication, nor for
+putting on weight, nor for beautification, but simply for the survival and
+continuance of this body, for ending its afflictions, for the support of the
+holy life, thinking, “I will destroy old feelings and not create new feelings.
+Therefore I will maintain myself, be blameless and live at ease.’
+When the monk is one who moderates his eating … the Tathāgata
+then trains him further:
+</p>
+
+<p>
+‘(4) Come, monk. Be one who is devoted to wakefulness. During
+the day, sitting and walking back and forth, cleanse your mind of
+obstructive things. During the first watch of the night, sitting and
+walking back and forth, cleanse your mind of obstructive things.
+During the second watch of the night, reclining on your right side,
+take up the lion’s posture, one foot placed on top of the other,
+recollected, alert, with your mind set on getting up. During the last
+watch of the night, sitting and walking back and forth, cleanse your
+mind of obstructive things.’
+When the monk is one who is devoted to wakefulness … the
+Tathāgata then trains him further:
+‘(5) Come, monk. Be one who is possessed of recollection and
+awareness. When going forward and returning, make yourself
+aware. When looking toward and looking away … When bending and
+extending your limbs … When carrying your outer cloak, upper robe,
+and bowl … When eating, drinking, chewing, and tasting … When
+urinating and defecating … When walking, standing, sitting, falling
+asleep, waking up, talking, and remaining silent, make yourself aware.’
+When the monk is one who is possessed of recollection and
+awareness … The Tathāgata then trains him further:
+‘(6) Come, monk. Seek out a secluded dwelling: a wilderness, the
+shade of a tree, a mountain, a glen, a hillside cave, a charnel ground, a
+forest grove, the open air, a heap of straw.’
+He seeks out a secluded residence: a wilderness, the shade of a tree,
+a mountain, a glen, a hillside cave, a charnel ground, a forest grove,
+the open air, a heap of straw. After his meal, returning from his alms
+round, he sits down, crosses his legs, holds his body upright, and
+brings recollection to the fore.
+(7) Abandoning lust with regard to the world, he lives with an
+awareness devoid of lust. He cleanses his mind of lust. Abandoning
+ill will and anger, he lives with an awareness devoid of ill will,
+compassionate to the welfare of all living beings. He cleanses his mind
+of ill will and anger. Abandoning indolence and tiredness, he lives
+with an awareness devoid of indolence and tiredness, recollected,
+alert, percipient of light. He cleanses his mind of indolence and
+tiredness. Abandoning restlessness and anxiety, he lives undisturbed,
+his mind inwardly stilled. He cleanses his mind of restlessness and
+anxiety. Abandoning doubt, he lives having crossed over doubt, with
+no perplexity with regard to skilful qualities. He cleanses his mind of
+doubt.
+(8) having abandoned these five hindrances—imperfections of
+mind that weaken discernment—then, withdrawn from sensual
+desire, withdrawn from unskilful qualities, he enters and remains
+in the first comprehension: joy and pleasure born of withdrawal,
+with thinking and pondering … the second comprehension, the third
+comprehension, the fourth comprehension: purity of equanimity and
+recollection, neither pleasure nor pain.
+This is my instruction to those monks in training who have not
+attained the goal, but remain intent on the unsurpassed safety from
+bondage. But for those monks who are arahants—whose defilements
+are ended, who have reached fulfillment
+–
+done the task, laid down
+the burden, attained the true goal, laid to waste the impediment of
+being, and who are released through right understanding—these
+qualities lead both to a pleasant abiding in the here and now, and to
+recollection and awareness.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org69f56bb" class="outline-4">
+<h4 id="org69f56bb"><span class="section-number-4">1.1.4.</span> Anigha</h4>
+<div class="outline-text-4" id="text-1-1-4">
+<blockquote>
+<p>
+when the Realized One obtains a man for training, he first guides him like this: ‘Come, bhikkhu, live fulfilling virtue and the training rules. Live restrained by the code of conduct, endowed with proper behavior and a suitable environment. Seeing danger in the slightest fault, train in the training rules.’ [2]
+</p>
+
+<p>
+When the bhikkhu is virtuous, the Realized One guides him further: ‘Come, bhikkhu, guard your sense doors. When you see a sight with the eyes, do not grasp at signs and features of it [3] on account of which—due to abiding with the eye faculty unrestrained—bad, unbeneficial thoughts of longing and upset would flow in on you. Practice to restrain that; guard the eye faculty and bring about the restraint of the eye faculty.’ When you hear a sound with the ear … When you smell an odor with the nose … When you taste a flavor with the tongue … When you touch a touch with the body … When you cognize a phenomenon with the mind, do not grasp at signs and features of it on account of which—due to abiding with the mental faculty unrestrained—bad, unbeneficial thoughts of longing and upset would flow in on you. Practice to restrain that; guard the mental faculty and bring about the restraint of the mental faculty.
+</p>
+
+<p>
+When the bhikkhu has his sense doors guarded, the Realized One guides him further: ‘Come, bhikkhu, be moderate in eating. [4] Eat with reflection in light of the origin: ‘Not for entertainment, indulgence, beautification, or adornment, but only to sustain this body, to avoid harm, and to support the renunciate life. In this way, I shall put an end to old discomfort and not give rise to new discomfort, and I shall live blamelessly and at ease.’
+</p>
+
+<p>
+When the bhikkhu eats in moderation, the Realized One guides him further: ‘Come, bhikkhu, be committed to vigilance. During the day, cleanse your mind of obstructive states while walking or sitting. During the first watch of the night, cleanse your mind of obstructive states while walking or sitting. During the second watch of the night, you should lie down in the lion’s posture—on the right side, placing one foot on top of the other—recollected and aware, having set the intention to arise. Having arisen in the last watch of the night, continue to cleanse your mind of obstructive states while walking or sitting.’ [5]
+</p>
+
+<p>
+When the bhikkhu is committed to vigilance, the Realized One guides him further: ‘Come, bhikkhu, be possessed of remembrance-and-awareness. Act with awareness when going out and returning; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl, and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.’ [6]
+</p>
+
+<p>
+When the bhikkhu is possessed of remembrance-and-awareness, the Realized One guides him further: ‘Come, bhikkhu, frequent a secluded lodging—a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.’ And he does so.
+</p>
+
+<p>
+After the meal, he returns from almsround, sits down cross-legged, sets his body straight, and establishes remembrance at the fore. With the giving up of longing with regard to the world, he abides with a mind rid of longing; he cleanses the mind of longing. [7] With the giving up of ill will and hatred, he abides with a mind rid of ill will, compassionate for the welfare of all creatures and beings; he cleanses the mind of ill will and hatred. With the giving up of indolence-and-lethargy, he abides with a mind rid of indolence-and-lethargy, perceiving light, recollected, and aware; he cleanses the mind of indolence-and-lethargy. With the giving up of restlessness-and-anxiety, he abides without restlessness, his mind internally appeased; he cleanses the mind of restlessness-and-anxiety. With the giving up of doubt, he abides having gone beyond doubt, not uncertain about beneficial qualities; he cleanses the mind of doubt.
+</p>
+
+<p>
+He gives up these five hindrances, defilements of the mind that weaken understanding. Then, having thoroughly withdrawn from sensuality, having withdrawn from unbeneficial phenomena, with thinking and with pondering, with joy and ease born of withdrawal, he abides having entered upon the first jhāna. [8] With the appeasement of thinking and pondering, with internal confidence and collectedness of mind, without thinking or pondering and with joy and ease born of composure, he abides having entered upon second jhāna. With the fading of joy, he abides equanimous, recollected, and aware, experiencing ease with the body. He abides having entered upon the third jhāna, with regard to which the noble ones say “one abides equanimous, recollected, and at ease.” With the giving up of ease and unease—and with the ending of joys and upsets beforehand—without ease or unease, with purity of equanimity and remembrance, he abides having entered upon the fourth jhāna.
+</p>
+
+<p>
+That is how I instruct the bhikkhus who are trainees—who have not achieved their goal, but live aspiring to the supreme safety from the yoke. But for those bhikkhus who are Arahants—who have destroyed the influxes, fulfilled the training, done what had to be done, laid down the burden, arrived at the highest goal, utterly destroyed the fetters of being, and are liberated by right understanding—these things lead to an easeful abiding in the present experience, and to remembrance-and-awareness.”
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="outline-container-org74f2db5" class="outline-3">
+<h3 id="org74f2db5"><span class="section-number-3">1.2.</span> MN 19</h3>
+<div class="outline-text-3" id="text-1-2">
+</div>
+<div id="outline-container-org7173aeb" class="outline-4">
+<h4 id="org7173aeb"><span class="section-number-4">1.2.1.</span> Dojč/Döïtshke</h4>
+<div class="outline-text-4" id="text-1-2-1">
+<blockquote>
+<p>
+„Da, ihr Mönche, als ich so achtsam, eifrig und entschlossen verweilte, stieg in mir ein sinnlicher Gedanke auf. Da erkannte ich also: ‚Da ist dieser sinnliche Gedanke in mir aufgestiegen. Er führt zu eigenem Leid, er führt zu fremdem Leid, er führt zu beiderseitigem Leid; er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna.‘
+</p>
+
+<p>
+Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu eigenem Leid‘ ihn so durchschaute, verlor er sich.
+Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu fremdem Leid‘ ihn so durchschaute, verlor er sich.
+Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu beiderseitigem Leid‘ ihn so durchschaute, verlor er sich.
+Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna‘ ihn so durchschaute, verlor er sich.“
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org70b9d71" class="outline-4">
+<h4 id="org70b9d71"><span class="section-number-4">1.2.2.</span> Pāli</h4>
+<div class="outline-text-4" id="text-1-2-2">
+<blockquote>
+<p>
+“tassa mayhaṃ, bhikkhave, evaṃ appamattassa ātāpino pahitattassa viharato uppajjati kāmavitakko. so evaṃ pajānāmi — ‘uppanno kho me ayaṃ kāmavitakko. so ca kho attabyābādhāyapi saṃvattati, parabyābādhāyapi saṃvattati, ubhayabyābādhāyapi saṃvattati, paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’ {anibbānasaṃvattaniko””ti (?)} . ‘attabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘parabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘ubhayabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org9cab281" class="outline-4">
+<h4 id="org9cab281"><span class="section-number-4">1.2.3.</span> OWTJ</h4>
+<div class="outline-text-4" id="text-1-2-3">
+<blockquote>
+<p>
+As I was living diligent, ardent, and resolute, a thought of sensual
+desire arose in me. I understood thus: ‘This thought of sensual desire
+has arisen in me. This leads to my own affliction, to others’ affliction,
+and to the affliction of both; it obstructs wisdom, causes difficulties,
+and leads away from Nibbāna.’ When i considered: ‘This leads to my
+own affliction,’ it subsided in me; when i considered: ‘This leads to
+others’ affliction,’ it subsided in me; when i considered: ‘This leads
+to the affliction of both,’ it subsided in me; when i considered: ‘This
+obstructs wisdom, causes difficulties, and leads away from Nibbāna,’ it
+subsided in me.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-orgfdf9311" class="outline-4">
+<h4 id="orgfdf9311"><span class="section-number-4">1.2.4.</span> Anigha</h4>
+<div class="outline-text-4" id="text-1-2-4">
+<blockquote>
+<p>
+Then, as I abided heedful, diligent, and resolute, a sensual thought arose. I understood: ‘This sensual thought has arisen for me. It leads to my affliction, to the affliction of others, and to the affliction of both. It blocks understanding, is bound with trouble, and it does not lead to Nibbāna.’ [4] When I considered that it leads to my affliction, it subsided. [5] When I considered that it leads to the affliction of others, it subsided. When I considered that it leads to the affliction of both, it subsided. When I considered that it blocks understanding, is bound with trouble, and does not lead to Nibbāna, it subsided.
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+
+<div id="outline-container-orgbc577a1" class="outline-3">
+<h3 id="orgbc577a1"><span class="section-number-3">1.3.</span> MN 152</h3>
+<div class="outline-text-3" id="text-1-3">
+</div>
+<div id="outline-container-org831cdfa" class="outline-4">
+<h4 id="org831cdfa"><span class="section-number-4">1.3.1.</span> Dojč/Döïtshke</h4>
+<div class="outline-text-4" id="text-1-3-1">
+<blockquote>
+<p>
+„Und wie, Ānanda, ist einer ein Edler, der die Fähigkeiten entfaltet? Da, Ānanda, steigt in einem Mönch, der mit dem Auge eine Form gesehen hat, Angenehmes auf, es steigt Unangenehmes auf, es steigt Angenehmes-und-Unangenehmes auf. Wenn er es wünscht: ‚Möge ich beim Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Abstoßenden wie auch beim Nicht-Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden wie auch beim Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich, indem ich sowohl das Abstoßende als auch das Nicht-Abstoßende beiseite lassend, gleichmütig weilen, achtsam und wissensklar‘, so weilt er genau dort gleichmütig, achtsam und wissensklar.“
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org6be191b" class="outline-4">
+<h4 id="org6be191b"><span class="section-number-4">1.3.2.</span> Pāli</h4>
+<div class="outline-text-4" id="text-1-3-2">
+<blockquote>
+<p>
+“kathañcānanda, ariyo hoti bhāvitindriyo? idhānanda, bhikkhuno cakkhunā rūpaṃ disvā uppajjati manāpaṃ, uppajjati amanāpaṃ, uppajjati manāpāmanāpaṃ. so sace ākaṅkhati — ‘paṭikūle {paṭikkūle (sabbattha)} appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyyaṃ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org87ecf77" class="outline-4">
+<h4 id="org87ecf77"><span class="section-number-4">1.3.3.</span> OWTJ</h4>
+<div class="outline-text-4" id="text-1-3-3">
+<blockquote>
+<p>
+… And how, Ānanda, is one a noble one developing the faculties? here,
+Ānanda, in a bhikkhu having seen a form with the eye, there arises
+what is pleasant, there arises what is unpleasant, there arises what is
+pleasant and unpleasant. If he should wish: ‘May I remain perceiving
+the unrepulsive in what is repulsive’, he remains there perceiving the
+unrepulsive. If he should wish: ‘May I remain perceiving the repulsive
+in what is unrepulsive’, he remains there perceiving the repulsive.
+If he should wish: ‘May I remain perceiving the unrepulsive in what
+is repulsive and what is unrepulsive’, he remains there perceiving
+the unrepulsive. If he should wish: ‘May I remain perceiving the
+repulsive in what is repulsive and what is unrepulsive’, he remains
+there perceiving the repulsive. If he should wish: ‘May I, surmounting
+both what is repulsive and what is unrepulsive, remain equanimous,
+recollected and aware’, he remains there equanimous, recollected and
+aware …
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+
+<div id="outline-container-org4ffd30d" class="outline-3">
+<h3 id="org4ffd30d"><span class="section-number-3">1.4.</span> UD 5.5</h3>
+<div class="outline-text-3" id="text-1-4">
+</div>
+<div id="outline-container-org69ca590" class="outline-4">
+<h4 id="org69ca590"><span class="section-number-4">1.4.1.</span> Dojč/Döïtshke</h4>
+<div class="outline-text-4" id="text-1-4-1">
+<blockquote>
+<p>
+„Gleichwie, ihr Mönche, das große Meer eine stufenlose Neigung hat, ein stufenloses Gefälle, eine stufenlose Vertiefung, und nicht jäh abstürzt, so hat auch diese Lehre und Zucht eine gestufte Übung, eine gestufte Ausführung, eine gestufte Praxis, und die Durchdringung zur höheren Erkenntnis geschieht nicht unvermittelt.“
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-orgaeb1902" class="outline-4">
+<h4 id="orgaeb1902"><span class="section-number-4">1.4.2.</span> Pāli</h4>
+<div class="outline-text-4" id="text-1-4-2">
+<blockquote>
+<p>
+seyyathāpi, bhikkhave, mahāsamuddo anupubbaninno anupubbapoṇo anupubbapabbhāro, na āyatakeneva papāto; evameva kho, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho. yampi, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org7f6f7ed" class="outline-4">
+<h4 id="org7f6f7ed"><span class="section-number-4">1.4.3.</span> OWTJ</h4>
+<div class="outline-text-4" id="text-1-4-3">
+<blockquote>
+<p>
+Just as the ocean has a gradual shelf, a gradual slope, a gradual
+inclination, with a sudden drop-off only after a long stretch, in the
+same way this discipline of Dhamma has a gradual training, a gradual
+performance, a gradual progression, with attainment of higher
+knowledge only after a long stretch.
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="outline-container-orge12d2a7" class="outline-3">
+<h3 id="orge12d2a7"><span class="section-number-3">1.5.</span> HN 12</h3>
+<div class="outline-text-3" id="text-1-5">
+</div>
+<div id="outline-container-org7ce0bfe" class="outline-4">
+<h4 id="org7ce0bfe"><span class="section-number-4">1.5.1.</span> Dojč/Döïtshke</h4>
+<div class="outline-text-4" id="text-1-5-1">
+<blockquote>
+<p>
+Im Zwischen-Gewebe der Seinsheits-Echos vertieft sich das Eigentliche-wir in die Zeitlichkeit des abschließenden Aufgangs, umhüllend die Kraft des Hier-Kontinuums. Dieser Un-Grund, der eine tiefe Ab-wesenheit-hegt, durchquert das Mit-sein, wo es selbst zum bloßen Geschehnis im ontologischen Schatten des Werdens wird. Doch die Stille des Daseins hallt wider im Meer der Möglichkeiten—wo kein Eigentliches-Anwesen wahrhaft verweilen kann außer in den Murmeln der Zeitlich-Vergänglichkeit. So gibt der vor-ontologische Blick in die Un-Struktur des Seins den Anschein von Sinn—nicht als ob er dem Zugriff des Man-selbst entginge.
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Samiddhi</p>
+<p class="date">Created: 2025-10-17 Fri 18:18</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
