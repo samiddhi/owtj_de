@@ -3,13 +3,11 @@
 * Prompt
 The following is a quotation from a pali text, and two reliable, phenomenologically-informed translation(s). Please use the available text to triangulate an excellent German rendition, true to the original and with echoes of the interpretations found in the provided English translation(s). If established buddhist terms in german do not match the vibe or meanings of the translations, opt for more fitting terms.
 
-#+OPTIONS: num:nil todo:nil
-* DONE Chapter 1
-CLOSED: [2025-10-17 Fri 21:17]
-** DONE MN 107
-CLOSED: [2025-10-17 Fri 21:19]
-*** DONE Dojč/Döïtshke
-CLOSED: [2025-10-17 Fri 21:19]
+#+OPTIONS: num:nil
+#+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
+* TODO Chapter 1
+** TODO MN 107
+*** TODO Deutsch
 #+begin_quote
 „Ebenso, o Brahmane, wenn der Tathāgata einen Menschen, der zu zähmen ist, in seine Obhut bekommt, unterweist er ihn zuallererst folgendermaßen: ‚Komm, Mönch, sei sittenrein. Lebe, eingeschränkt durch die Ordensregeln, vollkommen im Verhalten und im rechten Wandel, siehst du die Gefahr schon im geringsten Vergehen. Indem du sie übernommen hast, übe dich in den Übungsregeln.‘
 
@@ -31,26 +29,6 @@ Nachdem er diese fünf Hemmnisse aufgegeben hat, diese Befleckungen des Geistes,
 
 Jenen Mönchen, o Brahmane, die Lehrlinge sind, die das Ziel noch nicht erreicht haben und unermüdlich im Streben nach dem höchsten Heil von der Fessel verweilen, gilt diese meine Unterweisung. Doch jenen Mönchen, die Arahants sind, deren Triebe vernichtet sind, die das heilige Leben gelebt, getan was getan werden musste, die Bürde abgelegt, das wahre Ziel erreicht haben, deren Daseinsfesseln völlig zerstört und die durch vollkommene Erkenntnis befreit sind, – diese Dinge führen bei ihnen zu einem gegenwärtig glücklichen Verweilen und zu Achtsamkeit und Wissensklarheit.“
 #+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-evameva kho, brāhmaṇa, tathāgato purisadammaṃ labhitvā paṭhamaṃ evaṃ vineti — ‘ehi tvaṃ, bhikkhu, sīlavā hohi, pātimokkhasaṃvarasaṃvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesū’”ti.
-
-♦ “yato kho, brāhmaṇa, bhikkhu sīlavā hoti, pātimokkhasaṃvarasaṃvuto viharati ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, indriyesu guttadvāro hohi, cakkhunā rūpaṃ disvā mā nimittaggāhī hohi mānubyañjanaggāhī. yatvādhikaraṇamenaṃ cakkhundriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjāhi; rakkhāhi cakkhundriyaṃ, cakkhundriye saṃvaraṃ āpajjāhi. sotena saddaṃ sutvā ... pe ... ghānena gandhaṃ ghāyitvā ... pe ... jivhāya rasaṃ sāyitvā ... pe ... kāyena phoṭṭhabbaṃ phusitvā ... pe ... manasā dhammaṃ viññāya mā nimittaggāhī hohi mānubyañjanaggāhī. yatvādhikaraṇamenaṃ manindriyaṃ asaṃvutaṃ viharantaṃ abhijjhādomanassā pāpakā akusalā dhammā anvāssaveyyuṃ tassa saṃvarāya paṭipajjāhi; rakkhāhi manindriyaṃ, manindriye saṃvaraṃ āpajjāhī’”ti.
-
-♦ “yato kho, brāhmaṇa, bhikkhu indriyesu guttadvāro hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, bhojane mattaññū hohi. paṭisaṅkhā yoniso āhāraṃ āhāreyyāsi — neva davāya na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsūparatiyā brahmacariyānuggahāya — iti purāṇañca vedanaṃ paṭihaṅkhāmi, navañca vedanaṃ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’”ti.
-
-♦ “yato kho, brāhmaṇa, bhikkhu bhojane mattaññū hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, jāgariyaṃ anuyutto viharāhi, divasaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā paṭhamaṃ yāmaṃ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehi, rattiyā majjhimaṃ yāmaṃ dakkhiṇena passena sīhaseyyaṃ kappeyyāsi pāde pādaṃ accādhāya sato sampajāno uṭṭhānasaññaṃ manasikaritvā, rattiyā pacchimaṃ yāmaṃ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṃ parisodhehī’”ti.
-
-♦ “yato kho, brāhmaṇa, bhikkhu jāgariyaṃ anuyutto hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, satisampajaññena samannāgato hohi, abhikkante paṭikkante sampajānakārī, ālokite vilokite sampajānakārī, samiñjite pasārite sampajānakārī, saṅghāṭipattacīvaradhāraṇe sampajānakārī, asite pīte khāyite sāyite sampajānakārī, uccārapassāvakamme sampajānakārī, gate ṭhite nisinne sutte jāgarite bhāsite tuṇhībhāve sampajānakārī’”ti.
-
-♦ “yato kho, brāhmaṇa, bhikkhu satisampajaññena samannāgato hoti, tamenaṃ tathāgato uttariṃ vineti — ‘ehi tvaṃ, bhikkhu, vivittaṃ senāsanaṃ bhajāhi araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanapatthaṃ abbhokāsaṃ palālapuñjan’ti. so vivittaṃ senāsanaṃ bhajati araññaṃ rukkhamūlaṃ pabbataṃ kandaraṃ giriguhaṃ susānaṃ vanappatthaṃ abbhokāsaṃ palālapuñjaṃ. so pacchābhattaṃ piṇḍapātapaṭikkanto nisīdati pallaṅkaṃ ābhujitvā, ujuṃ kāyaṃ paṇidhāya, parimukhaṃ satiṃ upaṭṭhapetvā. so abhijjhaṃ loke pahāya vigatābhijjhena cetasā viharati, abhijjhāya cittaṃ parisodheti; byāpādapadosaṃ pahāya abyāpannacitto viharati sabbapāṇabhūtahitānukampī, byāpādapadosā cittaṃ parisodheti; thinamiddhaṃ {thīnamiddhaṃ (sī. syā. kaṃ. pī.)} pahāya vigatathinamiddho viharati ālokasaññī sato sampajāno, thinamiddhā cittaṃ parisodheti; uddhaccakukkuccaṃ pahāya anuddhato viharati ajjhattaṃ vūpasantacitto, uddhaccakukkuccā cittaṃ parisodheti; vicikicchaṃ pahāya tiṇṇavicikiccho viharati akathaṃkathī kusalesu dhammesu, vicikicchāya cittaṃ parisodheti.
-
-♦ 76. “so ime pañca nīvaraṇe pahāya cetaso upakkilese paññāya dubbalīkaraṇe vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṃ savicāraṃ vivekajaṃ pītisukhaṃ paṭhamaṃ jhānaṃ upasampajja viharati. vitakkavicārānaṃ vūpasamā ajjhattaṃ sampasādanaṃ ... pe ... dutiyaṃ jhānaṃ upasampajja viharati. pītiyā ca virāgā... tatiyaṃ jhānaṃ upasampajja viharati. sukhassa ca pahānā... catutthaṃ jhānaṃ upasampajja viharati.
-
-♦ “ye kho te, brāhmaṇa, bhikkhū sekkhā {sekhā (sabbattha)} apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti. ye pana te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññā vimuttā tesaṃ ime dhammā diṭṭhadhammasukhavihārāya ceva saṃvattanti, satisampajaññāya cā”ti.
-#+end_quote
-
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
@@ -144,31 +122,8 @@ being, and who are released through right understanding—these
 qualities lead both to a pleasant abiding in the here and now, and to
 recollection and awareness.
 #+end_quote
-*** DONE Anigha
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-when the Realized One obtains a man for training, he first guides him like this: ‘Come, bhikkhu, live fulfilling virtue and the training rules. Live restrained by the code of conduct, endowed with proper behavior and a suitable environment. Seeing danger in the slightest fault, train in the training rules.’ [2]
-
-When the bhikkhu is virtuous, the Realized One guides him further: ‘Come, bhikkhu, guard your sense doors. When you see a sight with the eyes, do not grasp at signs and features of it [3] on account of which—due to abiding with the eye faculty unrestrained—bad, unbeneficial thoughts of longing and upset would flow in on you. Practice to restrain that; guard the eye faculty and bring about the restraint of the eye faculty.’ When you hear a sound with the ear … When you smell an odor with the nose … When you taste a flavor with the tongue … When you touch a touch with the body … When you cognize a phenomenon with the mind, do not grasp at signs and features of it on account of which—due to abiding with the mental faculty unrestrained—bad, unbeneficial thoughts of longing and upset would flow in on you. Practice to restrain that; guard the mental faculty and bring about the restraint of the mental faculty.
-
-When the bhikkhu has his sense doors guarded, the Realized One guides him further: ‘Come, bhikkhu, be moderate in eating. [4] Eat with reflection in light of the origin: ‘Not for entertainment, indulgence, beautification, or adornment, but only to sustain this body, to avoid harm, and to support the renunciate life. In this way, I shall put an end to old discomfort and not give rise to new discomfort, and I shall live blamelessly and at ease.’
-
-When the bhikkhu eats in moderation, the Realized One guides him further: ‘Come, bhikkhu, be committed to vigilance. During the day, cleanse your mind of obstructive states while walking or sitting. During the first watch of the night, cleanse your mind of obstructive states while walking or sitting. During the second watch of the night, you should lie down in the lion’s posture—on the right side, placing one foot on top of the other—recollected and aware, having set the intention to arise. Having arisen in the last watch of the night, continue to cleanse your mind of obstructive states while walking or sitting.’ [5]
-
-When the bhikkhu is committed to vigilance, the Realized One guides him further: ‘Come, bhikkhu, be possessed of remembrance-and-awareness. Act with awareness when going out and returning; when looking ahead and aside; when bending and extending the limbs; when bearing the outer robe, bowl, and robes; when eating, drinking, chewing, and tasting; when urinating and defecating; when walking, standing, sitting, sleeping, waking, speaking, and keeping silent.’ [6]
-
-When the bhikkhu is possessed of remembrance-and-awareness, the Realized One guides him further: ‘Come, bhikkhu, frequent a secluded lodging—a wilderness, the root of a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the open air, a heap of straw.’ And he does so.
-
-After the meal, he returns from almsround, sits down cross-legged, sets his body straight, and establishes remembrance at the fore. With the giving up of longing with regard to the world, he abides with a mind rid of longing; he cleanses the mind of longing. [7] With the giving up of ill will and hatred, he abides with a mind rid of ill will, compassionate for the welfare of all creatures and beings; he cleanses the mind of ill will and hatred. With the giving up of indolence-and-lethargy, he abides with a mind rid of indolence-and-lethargy, perceiving light, recollected, and aware; he cleanses the mind of indolence-and-lethargy. With the giving up of restlessness-and-anxiety, he abides without restlessness, his mind internally appeased; he cleanses the mind of restlessness-and-anxiety. With the giving up of doubt, he abides having gone beyond doubt, not uncertain about beneficial qualities; he cleanses the mind of doubt.
-
-He gives up these five hindrances, defilements of the mind that weaken understanding. Then, having thoroughly withdrawn from sensuality, having withdrawn from unbeneficial phenomena, with thinking and with pondering, with joy and ease born of withdrawal, he abides having entered upon the first jhāna. [8] With the appeasement of thinking and pondering, with internal confidence and collectedness of mind, without thinking or pondering and with joy and ease born of composure, he abides having entered upon second jhāna. With the fading of joy, he abides equanimous, recollected, and aware, experiencing ease with the body. He abides having entered upon the third jhāna, with regard to which the noble ones say “one abides equanimous, recollected, and at ease.” With the giving up of ease and unease—and with the ending of joys and upsets beforehand—without ease or unease, with purity of equanimity and remembrance, he abides having entered upon the fourth jhāna.
-
-That is how I instruct the bhikkhus who are trainees—who have not achieved their goal, but live aspiring to the supreme safety from the yoke. But for those bhikkhus who are Arahants—who have destroyed the influxes, fulfilled the training, done what had to be done, laid down the burden, arrived at the highest goal, utterly destroyed the fetters of being, and are liberated by right understanding—these things lead to an easeful abiding in the present experience, and to remembrance-and-awareness.”
-#+end_quote
-** DONE MN 19
-CLOSED: [2025-10-17 Fri 21:19]
-*** DONE Dojč/Döïtshke
-CLOSED: [2025-10-17 Fri 21:19]
+** TODO MN 19
+*** TODO Deutsch
 #+begin_quote
 „Da, ihr Mönche, als ich so achtsam, eifrig und entschlossen verweilte, stieg in mir ein sinnlicher Gedanke auf. Da erkannte ich also: ‚Da ist dieser sinnliche Gedanke in mir aufgestiegen. Er führt zu eigenem Leid, er führt zu fremdem Leid, er führt zu beiderseitigem Leid; er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna.‘
 
@@ -176,11 +131,6 @@ Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu eigenem Leid‘ ih
 Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu fremdem Leid‘ ihn so durchschaute, verlor er sich.
 Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu beiderseitigem Leid‘ ihn so durchschaute, verlor er sich.
 Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna‘ ihn so durchschaute, verlor er sich.“
-#+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-“tassa mayhaṃ, bhikkhave, evaṃ appamattassa ātāpino pahitattassa viharato uppajjati kāmavitakko. so evaṃ pajānāmi — ‘uppanno kho me ayaṃ kāmavitakko. so ca kho attabyābādhāyapi saṃvattati, parabyābādhāyapi saṃvattati, ubhayabyābādhāyapi saṃvattati, paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’ {anibbānasaṃvattaniko””ti (?)} . ‘attabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘parabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘ubhayabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati.
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
@@ -196,26 +146,13 @@ to the affliction of both,’ it subsided in me; when i considered: ‘This
 obstructs wisdom, causes difficulties, and leads away from Nibbāna,’ it
 subsided in me.
 #+end_quote
-*** DONE Anigha
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-Then, as I abided heedful, diligent, and resolute, a sensual thought arose. I understood: ‘This sensual thought has arisen for me. It leads to my affliction, to the affliction of others, and to the affliction of both. It blocks understanding, is bound with trouble, and it does not lead to Nibbāna.’ [4] When I considered that it leads to my affliction, it subsided. [5] When I considered that it leads to the affliction of others, it subsided. When I considered that it leads to the affliction of both, it subsided. When I considered that it blocks understanding, is bound with trouble, and does not lead to Nibbāna, it subsided.
-#+end_quote
-
-** DONE MN 152
-CLOSED: [2025-10-17 Fri 21:19]
-*** DONE Dojč/Döïtshke
-CLOSED: [2025-10-17 Fri 21:19]
+** TODO MN 152
+*** TODO Deutsch
 #+begin_quote
 „Und wie, Ānanda, ist einer ein Edler, der die Fähigkeiten entfaltet? Da, Ānanda, steigt in einem Mönch, der mit dem Auge eine Form gesehen hat, Angenehmes auf, es steigt Unangenehmes auf, es steigt Angenehmes-und-Unangenehmes auf. Wenn er es wünscht: ‚Möge ich beim Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Abstoßenden wie auch beim Nicht-Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden wie auch beim Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich, indem ich sowohl das Abstoßende als auch das Nicht-Abstoßende beiseite lassend, gleichmütig weilen, achtsam und wissensklar‘, so weilt er genau dort gleichmütig, achtsam und wissensklar.“
 #+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-“kathañcānanda, ariyo hoti bhāvitindriyo? idhānanda, bhikkhuno cakkhunā rūpaṃ disvā uppajjati manāpaṃ, uppajjati amanāpaṃ, uppajjati manāpāmanāpaṃ. so sace ākaṅkhati — ‘paṭikūle {paṭikkūle (sabbattha)} appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyyaṃ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno.
-#+end_quote
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:19]
+CLOSED: [2025-10-18 Sat 16:07]
 #+begin_quote
 … And how, Ānanda, is one a noble one developing the faculties? here,
 Ānanda, in a bhikkhu having seen a form with the eye, there arises
@@ -234,18 +171,11 @@ recollected and aware’, he remains there equanimous, recollected and
 aware …
 #+end_quote
 
-** DONE UD 5.5
-CLOSED: [2025-10-17 Fri 21:19]
-*** DONE Dojč/Döïtshke
-CLOSED: [2025-10-17 Fri 21:19]
+** TODO UD 5.5
+*** TODO Deutsch
 #+begin_quote
 „Gleichwie, ihr Mönche, das große Meer eine stufenlose Neigung hat, ein stufenloses Gefälle, eine stufenlose Vertiefung, und nicht jäh abstürzt, so hat auch diese Lehre und Zucht eine gestufte Übung, eine gestufte Ausführung, eine gestufte Praxis, und die Durchdringung zur höheren Erkenntnis geschieht nicht unvermittelt.“
-#+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-seyyathāpi, bhikkhave, mahāsamuddo anupubbaninno anupubbapoṇo anupubbapabbhāro, na āyatakeneva papāto; evameva kho, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho. yampi, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho
-#+end_quote
+#+end_
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
@@ -255,28 +185,14 @@ same way this discipline of Dhamma has a gradual training, a gradual
 performance, a gradual progression, with attainment of higher
 knowledge only after a long stretch.
 #+end_quote
-** DONE HN 12
-CLOSED: [2025-10-17 Fri 21:19]
-*** DONE Dojč/Döïtshke
-CLOSED: [2025-10-17 Fri 21:19]
-#+begin_quote
-Im Zwischen-Gewebe der Seinsheits-Echos vertieft sich das Eigentliche-wir in die Zeitlichkeit des abschließenden Aufgangs, umhüllend die Kraft des Hier-Kontinuums. Dieser Un-Grund, der eine tiefe Ab-wesenheit-hegt, durchquert das Mit-sein, wo es selbst zum bloßen Geschehnis im ontologischen Schatten des Werdens wird. Doch die Stille des Daseins hallt wider im Meer der Möglichkeiten—wo kein Eigentliches-Anwesen wahrhaft verweilen kann außer in den Murmeln der Zeitlich-Vergänglichkeit. So gibt der vor-ontologische Blick in die Un-Struktur des Seins den Anschein von Sinn—nicht als ob er dem Zugriff des Man-selbst entginge.
-#+end_quote
 
 * TODO Chapter 2
 ** TODO AN 9.41
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:18]
-#+begin_quote
-Atha kho āyasmā ānando tapussena gahapatinā saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
-“Ayaṁ, bhante, tapusso gahapati evamāha: ‘mayaṁ, bhante ānanda, gihī kāmabhogino kāmārāmā kāmaratā kāmasammuditā, tesaṁ no, bhante, amhākaṁ gihīnaṁ kāmabhogīnaṁ kāmārāmānaṁ kāmaratānaṁ kāmasammuditānaṁ papāto viya khāyati, yadidaṁ nekkhammaṁ’. Sutaṁ metaṁ, bhante, ‘imasmiṁ dhammavinaye daharānaṁ daharānaṁ bhikkhūnaṁ nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati etaṁ santanti passato. Tayidaṁ, bhante, imasmiṁ dhammavinaye bhikkhūnaṁ bahunā janena visabhāgo yadidaṁ nekkhamman’”ti.
-“Evametaṁ, ānanda, evametaṁ, ānanda. Mayhampi kho, ānanda, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘sādhu nekkhammaṁ, sādhu paviveko’ti. Tassa mayhaṁ, ānanda, nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato. Tassa mayhaṁ, ānanda, etadahosi: ‘ko nu kho hetu ko paccayo, yena me nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato’? Tassa mayhaṁ, ānanda, etadahosi: ‘kāmesu kho me ādīnavo adiṭṭho, so ca me abahulīkato, nekkhamme ca ānisaṁso anadhigato, so ca me anāsevito. Tasmā me nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato’. Tassa mayhaṁ, ānanda, etadahosi: ‘sace kho ahaṁ kāmesu ādīnavaṁ disvā taṁ bahulaṁ kareyyaṁ, nekkhamme ānisaṁsaṁ adhigamma tamāseveyyaṁ, Variant: bahulaṁ kareyyaṁ → bahulīkareyyaṁ (bj, sya-all, pts1ed) ṭhānaṁ kho panetaṁ vijjati yaṁ me nekkhamme cittaṁ pakkhandeyya pasīdeyya santiṭṭheyya vimucceyya etaṁ santanti passato’. So kho ahaṁ, ānanda, aparena samayena kāmesu ādīnavaṁ disvā taṁ bahulamakāsiṁ, nekkhamme ānisaṁsaṁ adhigamma tamāseviṁ. Tassa mayhaṁ, ānanda, nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati etaṁ santanti passato. So kho ahaṁ, ānanda, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharāmi. 
-#+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
@@ -318,23 +234,10 @@ unwholesome states, i entered and remained in the first
 comprehension: pleasure and happiness born from withdrawal, with
 thinking and pondering.’
 #+end_quote
-*** DONE Anigha
-CLOSED: [2025-10-17 Fri 21:18]
-#+begin_quote
-Then Venerable Ānanda together with Tapussa approached the Auspicious One, bowed, and sat down to one side. Venerable Ānanda [this translation here says "informed him of the matter", but in the german translation, include the full unabridged version].
-
-“That is exactly how it is, Ānanda. Before my awakening—when I was still unawakened but intent on awakening—I too thought, ‘Renunciation is good! Seclusion is good!’ But my mind did not see renunciation as peaceful, and so it did not leap at it, and was not confident, settled, and liberated in it. Then I thought, ‘What is the cause, what is the reason why my mind does not see renunciation as peaceful, and so it does not leap at it, and is not confident, settled, and liberated in it?’ Then I thought, ‘I have not seen the peril of sensuality, and I have not cultivated that. I have not realized the value of renunciation, and I have not fostered that. That is why my mind does not see renunciation as peaceful, and so does not leap at it, and is not confident, settled, and liberated in it.’ [1] Then I thought, ‘Suppose that, having seen the peril of sensuality, I were to cultivate that. And suppose that, having realized the value of renunciation, I were to foster that. [2] It is possible that, seeing it as peaceful, my mind would leap at renunciation, and be confident, settled, and liberated in it.’ And so, after some time, having seen the peril of sensuality, I cultivated that, and having realized the value of renunciation, I fostered that. Then, seeing it as peaceful, my mind leapt at renunciation, and was confident, settled, and liberated in it. And so, having thoroughly withdrawn from sensuality, having withdrawn from unbeneficial phenomena, with thinking and with pondering, with joy and ease born of withdrawal, I abided having entered upon the first jhāna. 
-#+end_quote
-
 ** TODO Vin. Kd 16
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
-#+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:18]
-#+begin_quote
-Atha kho bhagavā anāthapiṇḍikassa gahapatissa anupubbiṁ kathaṁ kathesi, seyyathidaṁ—Variant: anupubbiṁ kathaṁ → ānupubbikathaṁ (bj); anupubbikathaṁ (cck, sya1ed, pts1ed); anupubbīkathaṁ (sya2ed) dānakathaṁ sīlakathaṁ saggakathaṁ, kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi anāthapiṇḍikaṁ gahapatiṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā taṁ pakāsesi—dukkhaṁ, samudayaṁ, nirodhaṁ, maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva anāthapiṇḍikassa gahapatissa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi—“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. Atha kho anāthapiṇḍiko gahapati diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
@@ -358,17 +261,9 @@ of others in the Teacher’s instruction.
 #+end_quote
 
 ** TODO MN 125
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
-#+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:18]
-#+begin_quote
-Seyyathāpi, aggivessana, gāmassa vā nigamassa vā avidūre mahāpabbato. Tamenaṁ dve sahāyakā tamhā gāmā vā nigamā vā nikkhamitvā hatthavilaṅghakena yena so pabbato tenupasaṅkameyyuṁ; upasaṅkamitvā eko sahāyako heṭṭhā pabbatapāde tiṭṭheyya, eko sahāyako uparipabbataṁ āroheyya. Tamenaṁ heṭṭhā pabbatapāde ṭhito sahāyako uparipabbate ṭhitaṁ sahāyakaṁ evaṁ vadeyya: ‘yaṁ, samma, kiṁ tvaṁ passasi uparipabbate ṭhito’ti? So evaṁ vadeyya: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti.
-So evaṁ vadeyya: ‘aṭṭhānaṁ kho etaṁ, samma, anavakāso yaṁ tvaṁ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. Tamenaṁ uparipabbate ṭhito sahāyako heṭṭhimapabbatapādaṁ orohitvā taṁ sahāyakaṁ bāhāyaṁ gahetvā uparipabbataṁ āropetvā muhuttaṁ assāsetvā evaṁ vadeyya: ‘yaṁ, samma, kiṁ tvaṁ passasi uparipabbate ṭhito’ti? So evaṁ vadeyya: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti.
-So evaṁ vadeyya: ‘idāneva kho te, samma, bhāsitaṁ—mayaṁ evaṁ ājānāma—aṭṭhānaṁ kho etaṁ samma, anavakāso yaṁ tvaṁ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. Idāneva ca pana te bhāsitaṁ mayaṁ evaṁ ājānāma: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. So evaṁ vadeyya: ‘tathā hi panāhaṁ, samma, iminā mahatā pabbatena āvuto daṭṭheyyaṁ nāddasan’ti. Variant: āvuto → āvaṭo (bj-a, pts1ed); āvuṭo (sya-all, km, mr)
-Ato mahantatarena, aggivessana, ‘avijjākhandhena jayaseno rājakumāro āvuto nivuto ophuṭo pariyonaddho. Variant: nivuto → nivuṭo (sya-all, km, pts1ed, mr) | ophuṭo → ovuto (bj); ovuṭo (sya-all, km, pts1ed) So vata yaṁ taṁ nekkhammena ñātabbaṁ nekkhammena daṭṭhabbaṁ nekkhammena pattabbaṁ nekkhammena sacchikātabbaṁ taṁ vata jayaseno rājakumāro kāmamajjhe vasanto kāme paribhuñjanto kāmavitakkehi khajjamāno kāmapariḷāhena pariḍayhamāno kāmapariyesanāya ussuko ñassati vā dakkhati vā sacchi vā karissatī’ti—netaṁ ṭhānaṁ vijjati.
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
@@ -411,75 +306,9 @@ renunciation: That is impossible. …
 #+end_quote
 
 ** TODO MN 81
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
-#+end_quote
-*** DONE Pāli
-CLOSED: [2025-10-17 Fri 21:18]
-#+begin_quote
-“Bhūtapubbaṁ, ānanda, imasmiṁ padese vegaḷiṅgaṁ nāma gāmanigamo ahosi iddho ceva phīto ca bahujano ākiṇṇamanusso. Variant: vegaḷiṅgaṁ → vehaliṅgaṁ (bj); vebhaḷigaṁ (sya-all, km); vebhaḷiṅgaṁ (pts1ed) Vegaḷiṅgaṁ kho, ānanda, gāmanigamaṁ kassapo bhagavā arahaṁ sammāsambuddho upanissāya vihāsi. Idha sudaṁ, ānanda, kassapassa bhagavato arahato sammāsambuddhassa ārāmo ahosi. Idha sudaṁ, ānanda, kassapo bhagavā arahaṁ sammāsambuddho nisinnako bhikkhusaṅghaṁ ovadatī”ti.
-Atha kho āyasmā ānando catugguṇaṁ saṅghāṭiṁ paññapetvā bhagavantaṁ etadavoca: “tena hi, bhante, bhagavā nisīdatu ettha. Ayaṁ bhūmipadeso dvīhi arahantehi sammāsambuddhehi paribhutto bhavissatī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā āyasmantaṁ ānandaṁ āmantesi:
-“Bhūtapubbaṁ, ānanda, imasmiṁ padese vegaḷiṅgaṁ nāma gāmanigamo ahosi iddho ceva phīto ca bahujano ākiṇṇamanusso. Vegaḷiṅgaṁ kho, ānanda, gāmanigamaṁ kassapo bhagavā arahaṁ sammāsambuddho upanissāya vihāsi. Idha sudaṁ, ānanda, kassapassa bhagavato arahato sammāsambuddhassa ārāmo ahosi. Idha sudaṁ, ānanda, kassapo bhagavā arahaṁ sammāsambuddho nisinnako bhikkhusaṅghaṁ ovadati.
-Vegaḷiṅge kho, ānanda, gāmanigame ghaṭikāro nāma kumbhakāro kassapassa bhagavato arahato sammāsambuddhassa upaṭṭhāko ahosi aggupaṭṭhāko. Variant: ghaṭikāro → ghaṭīkāro (bj, cck, pts1ed) Ghaṭikārassa kho, ānanda, kumbhakārassa jotipālo nāma māṇavo sahāyo ahosi piyasahāyo. Atha kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ āmantesi: ‘āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Evaṁ vutte, ānanda, jotipālo māṇavo ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘alaṁ, samma ghaṭikāra. Kiṁ pana tena muṇḍakena samaṇakena diṭṭhenā’ti?
-Dutiyampi kho, ānanda …pe… tatiyampi kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ etadavoca: ‘āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Tatiyampi kho, ānanda, jotipālo māṇavo ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘alaṁ, samma ghaṭikāra. Kiṁ pana tena muṇḍakena samaṇakena diṭṭhenā’ti?
-‘Tena hi, samma jotipāla, sottisināniṁ ādāya nadiṁ gamissāma sināyitun’ti. Variant: ādāya → āhara (mr) | sottisināniṁ → sottiṁ sināniṁ (bj, pts1ed); sottisinānaṁ (sya-all, km, mr)
-‘Evaṁ, sammā’ti kho, ānanda, jotipālo māṇavo ghaṭikārassa kumbhakārassa paccassosi. Atha kho, ānanda, ghaṭikāro ca kumbhakāro jotipālo ca māṇavo sottisināniṁ ādāya nadiṁ agamaṁsu sināyituṁ.
-Atha kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ āmantesi: ‘ayaṁ, samma jotipāla, kassapassa bhagavato arahato sammāsambuddhassa avidūre ārāmo. Āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Evaṁ vutte, ānanda, jotipālo māṇavo ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘alaṁ, samma ghaṭikāra. Kiṁ pana tena muṇḍakena samaṇakena diṭṭhenā’ti?
-Dutiyampi kho, ānanda …pe… tatiyampi kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ etadavoca: ‘ayaṁ, samma jotipāla, kassapassa bhagavato arahato sammāsambuddhassa avidūre ārāmo. Āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Tatiyampi kho, ānanda, jotipālo māṇavo ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘alaṁ, samma ghaṭikāra. Kiṁ pana tena muṇḍakena samaṇakena diṭṭhenā’ti?
-Atha kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ ovaṭṭikāyaṁ parāmasitvā etadavoca: ‘ayaṁ, samma jotipāla, kassapassa bhagavato arahato sammāsambuddhassa avidūre ārāmo. Āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Atha kho, ānanda, jotipālo māṇavo ovaṭṭikaṁ vinivaṭṭetvā ghaṭikāraṁ kumbhakāraṁ etadavoca: Variant: vinivaṭṭetvā → viniveṭhetvā (bj, sya1ed, sya2ed, km, pts1ed); vinivedhetvā (cck) ‘alaṁ, samma ghaṭikāra. Kiṁ pana tena muṇḍakena samaṇakena diṭṭhenā’ti?
-Atha kho, ānanda, ghaṭikāro kumbhakāro jotipālaṁ māṇavaṁ sīsaṁnhātaṁ kesesu parāmasitvā etadavoca: Variant: sīsaṁnhātaṁ → sasīsaṁ nahātaṁ (bj); sīsanhātaṁ (sya-all, km); sīsanahātaṁ (pts1ed) ‘ayaṁ, samma jotipāla, kassapassa bhagavato arahato sammāsambuddhassa avidūre ārāmo. Āyāma, samma jotipāla, kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya upasaṅkamissāma. Sādhusammatañhi me tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-Atha kho, ānanda, jotipālassa māṇavassa etadahosi: ‘acchariyaṁ vata bho, abbhutaṁ vata bho. Yatra hi nāmāyaṁ ghaṭikāro kumbhakāro ittarajacco samāno amhākaṁ sīsaṁnhātānaṁ kesesu parāmasitabbaṁ maññissati; na vatidaṁ kira orakaṁ maññe bhavissatī’ti; ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘yāvatādohipi, samma ghaṭikārā’ti? Variant: yāvatādohipi → yāvetadohipi (bj, sya-all, km, pts1ed)
-‘Yāvatādohipi, samma jotipāla. Tathā hi pana me sādhusammataṁ tassa bhagavato dassanaṁ arahato sammāsambuddhassā’ti.
-‘Tena hi, samma ghaṭikāra, muñca; gamissāmā’ti.
-Atha kho, ānanda, ghaṭikāro ca kumbhakāro jotipālo ca māṇavo yena kassapo bhagavā arahaṁ sammāsambuddho tenupasaṅkamiṁsu; upasaṅkamitvā ghaṭikāro kumbhakāro kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdi. Jotipālo pana māṇavo kassapena bhagavatā arahatā sammāsambuddhena saddhiṁ sammodi. Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi.
-Ekamantaṁ nisinno kho, ānanda, ghaṭikāro kumbhakāro kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘ayaṁ me, bhante, jotipālo māṇavo sahāyo piyasahāyo. Imassa bhagavā dhammaṁ desetū’ti. Atha kho, ānanda, kassapo bhagavā arahaṁ sammāsambuddho ghaṭikārañca kumbhakāraṁ jotipālañca māṇavaṁ dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi. Atha kho, ānanda, ghaṭikāro ca kumbhakāro jotipālo ca māṇavo kassapena bhagavatā arahatā sammāsambuddhena dhammiyā kathāya sandassitā samādapitā samuttejitā sampahaṁsitā kassapassa bhagavato arahato sammāsambuddhassa bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā padakkhiṇaṁ katvā pakkamiṁsu.
-Atha kho, ānanda, jotipālo māṇavo ghaṭikāraṁ kumbhakāraṁ etadavoca: ‘imaṁ nu tvaṁ, samma ghaṭikāra, dhammaṁ suṇanto atha ca pana agārasmā anagāriyaṁ na pabbajissasī’ti?
-‘Nanu maṁ, samma jotipāla, jānāsi, andhe jiṇṇe mātāpitaro posemī’ti?
-‘Tena hi, samma ghaṭikāra, ahaṁ agārasmā anagāriyaṁ pabbajissāmī’ti.
-Atha kho, ānanda, ghaṭikāro ca kumbhakāro jotipālo ca māṇavo yena kassapo bhagavā arahaṁ sammāsambuddho tenupasaṅkamiṁsu; upasaṅkamitvā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdiṁsu. Ekamantaṁ nisinno kho, ānanda, ghaṭikāro kumbhakāro kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘ayaṁ me, bhante, jotipālo māṇavo sahāyo piyasahāyo. Imaṁ bhagavā pabbājetū’ti. Alattha kho, ānanda, jotipālo māṇavo kassapassa bhagavato arahato sammāsambuddhassa santike pabbajjaṁ, alattha upasampadaṁ.
-Atha kho, ānanda, kassapo bhagavā arahaṁ sammāsambuddho acirūpasampanne jotipāle māṇave aḍḍhamāsupasampanne vegaḷiṅge yathābhirantaṁ viharitvā yena bārāṇasī tena cārikaṁ pakkāmi. Anupubbena cārikaṁ caramāno yena bārāṇasī tadavasari. Tatra sudaṁ, ānanda, kassapo bhagavā arahaṁ sammāsambuddho bārāṇasiyaṁ viharati isipatane migadāye. Assosi kho, ānanda, kikī kāsirājā: ‘kassapo kira bhagavā arahaṁ sammāsambuddho bārāṇasiṁ anuppatto bārāṇasiyaṁ viharati isipatane migadāye’ti. Atha kho, ānanda, kikī kāsirājā bhadrāni bhadrāni yānāni yojāpetvā bhadraṁ yānaṁ abhiruhitvā bhadrehi bhadrehi yānehi bārāṇasiyā niyyāsi mahaccarājānubhāvena kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ dassanāya. Variant: bhadrāni yānāni yojāpetvā bhadraṁ → bhadraṁ bhadraṁ (mr) Yāvatikā yānassa bhūmi yānena gantvā yānā paccorohitvā pattikova yena kassapo bhagavā arahaṁ sammāsambuddho tenupasaṅkami; upasaṅkamitvā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho, ānanda, kikiṁ kāsirājānaṁ kassapo bhagavā arahaṁ sammāsambuddho dhammiyā kathāya sandassesi samādapesi samuttejesi sampahaṁsesi.
-Atha kho, ānanda, kikī kāsirājā kassapena bhagavatā arahatā sammāsambuddhena dhammiyā kathāya sandassito samādapito samuttejito sampahaṁsito kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘adhivāsetu me, bhante, bhagavā svātanāya bhattaṁ saddhiṁ bhikkhusaṅghenā’ti. Adhivāsesi kho, ānanda, kassapo bhagavā arahaṁ sammāsambuddho tuṇhībhāvena.
-Atha kho, ānanda, kikī kāsirājā kassapassa bhagavato sammāsambuddhassa adhivāsanaṁ viditvā uṭṭhāyāsanā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi. Atha kho, ānanda, kikī kāsirājā tassā rattiyā accayena sake nivesane paṇītaṁ khādanīyaṁ bhojanīyaṁ paṭiyādāpetvā paṇḍupuṭakassa sālino vigatakāḷakaṁ anekasūpaṁ anekabyañjanaṁ, kassapassa bhagavato arahato sammāsambuddhassa kālaṁ ārocāpesi: Variant: paṇḍupuṭakassa → paṇḍumuṭikassa (bj, pts1ed); paṇḍumudikassa (sya-all, km) ‘kālo, bhante, niṭṭhitaṁ bhattan’ti.
-Atha kho, ānanda, kassapo bhagavā arahaṁ sammāsambuddho pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena kikissa kāsirañño nivesanaṁ tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi saddhiṁ bhikkhusaṅghena. Atha kho, ānanda, kikī kāsirājā buddhappamukhaṁ bhikkhusaṅghaṁ paṇītena khādanīyena bhojanīyena sahatthā santappesi sampavāresi.
-Atha kho, ānanda, kikī kāsirājā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ bhuttāviṁ onītapattapāṇiṁ aññataraṁ nīcaṁ āsanaṁ gahetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho, ānanda, kikī kāsirājā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘adhivāsetu me, bhante, bhagavā bārāṇasiyaṁ vassāvāsaṁ; evarūpaṁ saṅghassa upaṭṭhānaṁ bhavissatī’ti.
-‘Alaṁ, mahārāja. Adhivuttho me vassāvāso’ti.
-Dutiyampi kho, ānanda … tatiyampi kho, ānanda, kikī kāsirājā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘adhivāsetu me, bhante, bhagavā bārāṇasiyaṁ vassāvāsaṁ; evarūpaṁ saṅghassa upaṭṭhānaṁ bhavissatī’ti.
-‘Alaṁ, mahārāja. Adhivuttho me vassāvāso’ti.
-Atha kho, ānanda, kikissa kāsirañño ‘na me kassapo bhagavā arahaṁ sammāsambuddho adhivāseti bārāṇasiyaṁ vassāvāsan’ti ahudeva aññathattaṁ, ahu domanassaṁ. Atha kho, ānanda, kikī kāsirājā kassapaṁ bhagavantaṁ arahantaṁ sammāsambuddhaṁ etadavoca: ‘atthi nu kho, bhante, añño koci mayā upaṭṭhākataro’ti?
-‘Atthi, mahārāja, vegaḷiṅgaṁ nāma gāmanigamo. Tattha ghaṭikāro nāma kumbhakāro; so me upaṭṭhāko aggupaṭṭhāko. Tuyhaṁ kho pana, mahārāja, na me kassapo bhagavā arahaṁ sammāsambuddho adhivāseti bārāṇasiyaṁ vassāvāsanti attheva aññathattaṁ, atthi domanassaṁ. Variant: attheva → atthi (bj, pts1ed) Tayidaṁ ghaṭikārassa kumbhakārassa natthi ca na ca bhavissati. Variant: ghaṭikārassa kumbhakārassa → ghaṭikāre kumbhakāre (bj, sya1ed, sya2ed, km); ghaṭīkāre kumbhakāre (cck, pts1ed)
-Ghaṭikāro kho, mahārāja, kumbhakāro buddhaṁ saraṇaṁ gato, dhammaṁ saraṇaṁ gato, saṅghaṁ saraṇaṁ gato. Ghaṭikāro kho, mahārāja, kumbhakāro pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato, musāvādā paṭivirato, surāmerayamajjapamādaṭṭhānā paṭivirato. Ghaṭikāro kho, mahārāja, kumbhakāro buddhe aveccappasādena samannāgato, dhamme aveccappasādena samannāgato, saṅghe aveccappasādena samannāgato, ariyakantehi sīlehi samannāgato. Ghaṭikāro kho, mahārāja, kumbhakāro dukkhe nikkaṅkho, dukkhasamudaye nikkaṅkho, dukkhanirodhe nikkaṅkho, dukkhanirodhagāminiyā paṭipadāya nikkaṅkho. Ghaṭikāro kho, mahārāja, kumbhakāro ekabhattiko brahmacārī sīlavā kalyāṇadhammo. Ghaṭikāro kho, mahārāja, kumbhakāro nikkhittamaṇisuvaṇṇo apetajātarūparajato. Ghaṭikāro kho, mahārāja, kumbhakāro pannamusalo na sahatthā pathaviṁ khaṇati. Variant: kumbhakāro pannamusalo na sahatthā pathaviṁ khaṇati → kumbhakāro na musalena na sahatthā paṭhaviñca khanati (sya-all, km); kumbhakāro na musalena na sahatthā paṭhaviṁ khaṇati (pts1ed); kumbhakāro na musalena sahatthā pathaviñca khaṇati (mr) Yaṁ hoti kūlapaluggaṁ vā mūsikukkaro vā taṁ kājena āharitvā bhājanaṁ karitvā evamāha: Variant: mūsikukkaro → mūsikukkāro (bj); mūsikukkuro (si, sya-all, km, pts1ed) “ettha yo icchati taṇḍulapaṭibhastāni vā muggapaṭibhastāni vā kaḷāyapaṭibhastāni vā nikkhipitvā yaṁ icchati taṁ haratū”ti. Ghaṭikāro kho, mahārāja, kumbhakāro andhe jiṇṇe mātāpitaro poseti. Ghaṭikāro kho, mahārāja, kumbhakāro pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko tattha parinibbāyī anāvattidhammo tasmā lokā.
-Ekamidāhaṁ, mahārāja, samayaṁ vegaḷiṅge nāma gāmanigame viharāmi. Atha khvāhaṁ, mahārāja, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena ghaṭikārassa kumbhakārassa mātāpitaro tenupasaṅkamiṁ; upasaṅkamitvā ghaṭikārassa kumbhakārassa mātāpitaro etadavocaṁ: “handa ko nu kho ayaṁ bhaggavo gato”ti?
-“Nikkhanto kho te, bhante, upaṭṭhāko antokumbhiyā odanaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjā”ti. Atha khvāhaṁ, mahārāja, kumbhiyā odanaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkamiṁ. Variant: pakkamiṁ → pakkāmiṁ (sya-all, km, pts1ed)
-Atha kho, mahārāja, ghaṭikāro kumbhakāro yena mātāpitaro tenupasaṅkami; upasaṅkamitvā mātāpitaro etadavoca: “ko kumbhiyā odanaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkanto”ti?
-“Kassapo, tāta, bhagavā arahaṁ sammāsambuddho kumbhiyā odanaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkanto”ti?
-Atha kho, mahārāja, ghaṭikārassa kumbhakārassa etadahosi: “lābhā vata me, suladdhaṁ vata me, yassa me kassapo bhagavā arahaṁ sammāsambuddho evaṁ abhivissattho”ti. Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ. Variant: na vijahati → na vijahi (bj, sya-all, km, pts1ed)
-Ekamidāhaṁ, mahārāja, samayaṁ tattheva vegaḷiṅge nāma gāmanigame viharāmi. Atha khvāhaṁ, mahārāja, pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya yena ghaṭikārassa kumbhakārassa mātāpitaro tenupasaṅkamiṁ; upasaṅkamitvā ghaṭikārassa kumbhakārassa mātāpitaro etadavocaṁ: “handa ko nu kho ayaṁ bhaggavo gato”ti?
-“Nikkhanto kho te, bhante, upaṭṭhāko anto kaḷopiyā kummāsaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjā”ti. Atha khvāhaṁ, mahārāja, kaḷopiyā kummāsaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkamiṁ.
-Atha kho, mahārāja, ghaṭikāro kumbhakāro yena mātāpitaro tenupasaṅkami; upasaṅkamitvā mātāpitaro etadavoca: “ko kaḷopiyā kummāsaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkanto”ti?
-“Kassapo, tāta, bhagavā arahaṁ sammāsambuddho kaḷopiyā kummāsaṁ gahetvā pariyogā sūpaṁ gahetvā paribhuñjitvā uṭṭhāyāsanā pakkanto”ti.
-Atha kho, mahārāja, ghaṭikārassa kumbhakārassa etadahosi: “lābhā vata me, suladdhaṁ vata me, yassa me kassapo bhagavā arahaṁ sammāsambuddho evaṁ abhivissattho”ti. Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ.
-Ekamidāhaṁ, mahārāja, samayaṁ tattheva vegaḷiṅge nāma gāmanigame viharāmi. Tena kho pana samayena kuṭi ovassati. Variant: kuṭi → gandhakuṭi (bj); kuṭī (pts1ed) Atha khvāhaṁ, mahārāja, bhikkhū āmantesiṁ:
-“gacchatha, bhikkhave, ghaṭikārassa kumbhakārassa nivesane tiṇaṁ jānāthā”ti.
-Evaṁ vutte, mahārāja, te bhikkhū maṁ etadavocuṁ: “natthi kho, bhante, ghaṭikārassa kumbhakārassa nivesane tiṇaṁ, atthi ca khvāssa āvesane tiṇacchadanan”ti. Variant: āvesane → āvesanaṁ (bj, sya-all, km, pts1ed)
-“Gacchatha, bhikkhave, ghaṭikārassa kumbhakārassa āvesanaṁ uttiṇaṁ karothā”ti. Atha kho te, mahārāja, bhikkhū ghaṭikārassa kumbhakārassa āvesanaṁ uttiṇamakaṁsu.
-Atha kho, mahārāja, ghaṭikārassa kumbhakārassa mātāpitaro te bhikkhū etadavocuṁ: “ke āvesanaṁ uttiṇaṁ karontī”ti?
-“Bhikkhū, bhagini, kassapassa bhagavato arahato sammāsambuddhassa kuṭi ovassatī”ti.
-“Haratha, bhante, haratha, bhadramukhā”ti.
-Atha kho, mahārāja, ghaṭikāro kumbhakāro yena mātāpitaro tenupasaṅkami; upasaṅkamitvā mātāpitaro etadavoca: “ke āvesanaṁ uttiṇamakaṁsū”ti?
-“Bhikkhū, tāta, kassapassa kira bhagavato arahato sammāsambuddhassa kuṭi ovassatī”ti.
-Atha kho, mahārāja, ghaṭikārassa kumbhakārassa etadahosi: “lābhā vata me, suladdhaṁ vata me, yassa me kassapo bhagavā arahaṁ sammāsambuddho evaṁ abhivissattho”ti. Atha kho, mahārāja, ghaṭikāraṁ kumbhakāraṁ aḍḍhamāsaṁ pītisukhaṁ na vijahati, sattāhaṁ mātāpitūnaṁ.
-Atha kho, mahārāja, āvesanaṁ sabbantaṁ temāsaṁ ākāsacchadanaṁ aṭṭhāsi, na devotivassi. Variant: na devotivassi → na cātivassi (bj, sya-all, km, pts1ed) Evarūpo ca, mahārāja, ghaṭikāro kumbhakāro’ti.
-‘Lābhā, bhante, ghaṭikārassa kumbhakārassa, suladdhā, bhante, ghaṭikārassa kumbhakārassa yassa bhagavā evaṁ abhivissattho’ti.
-Atha kho, ānanda, kikī kāsirājā ghaṭikārassa kumbhakārassa pañcamattāni taṇḍulavāhasatāni pāhesi paṇḍupuṭakassa sālino tadupiyañca sūpeyyaṁ. Atha kho te, ānanda, rājapurisā ghaṭikāraṁ kumbhakāraṁ upasaṅkamitvā etadavocuṁ: ‘imāni kho, bhante, pañcamattāni taṇḍulavāhasatāni kikinā kāsirājena pahitāni paṇḍupuṭakassa sālino tadupiyañca sūpeyyaṁ. Tāni, bhante, paṭiggaṇhathā’ti. Variant: paṭiggaṇhathā’ti → patigaṇhātūti (bj, pts1ed); paṭiggaṇhātūti (sya-all, km)
-‘Rājā kho bahukicco bahukaraṇīyo. Alaṁ me. Raññova hotū’ti.
-Siyā kho pana te, ānanda, evamassa: ‘añño nūna tena samayena jotipālo māṇavo ahosī’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Ahaṁ tena samayena jotipālo māṇavo ahosin”ti.
-Idamavoca bhagavā. Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti.
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
@@ -712,12 +541,7 @@ happy with what the Buddha said.
 
 * TODO Chapter 3
 ** TODO SN 36.6
-*** TODO Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** TODO Pāli
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
@@ -728,33 +552,20 @@ CLOSED: [2025-10-17 Fri 21:17]
 Being pressured by a painful feeling, he harbours aversion towards it. When he harbours aversion towards painful feeling, the underlying tendency to aversion towards painful feeling lies behind this. Being pressured by painful feeling, he seeks delight in sensual pleasure. For what reason? Because the ordinary person does not know of any escape from painful feeling other than sensual pleasure.
 #+end_quote
 
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
-
 * TODO Chapter 4
 ** TODO SN 45.8
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO Pāli
-#+begin_quote
-
-#+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:16]
 #+begin_quote
 And what, monks, is the right effort? (1) There is the case where a monk generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the non-arising of unskilful qualities that have not yet arisen. (2) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the abandonment of unskilful qualities that have arisen. (3) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the arising of skilful qualities that have not yet arisen. (4) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the maintenance, non-confusion, increase, abundance, fulfilment, and development of skilful qualities that have arisen: This is called right effort.
 #+end_quote
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
 ** TODO SN 51.15
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
@@ -806,13 +617,8 @@ What do you think, brahmin, such being the case, is the situation never-ending o
 ‘Surely, Master Ānanda, such being the case, the situation has an end, and is not never ending. Magnificent, Master Ānanda! … from today let Master Ānanda remember me as a lay follower taken refuge for life.’
 #+end_quote
 
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
-
 ** TODO MN 13
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
@@ -828,13 +634,8 @@ CLOSED: [2025-10-17 Fri 21:16]
 Any contemplatives who do not discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they themselves would understand sensuality; or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is impossible. But any contemplatives who discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they would themselves understand sensuality or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is possible. 
 #+end_quote
 
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
-
 ** TODO AN 4.159
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
@@ -860,13 +661,8 @@ CLOSED: [2025-10-17 Fri 21:16]
 “This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.”’
 #+end_quote
 
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
-
 ** TODO AN 10.61
-*** TODO Dojč/Döïtshke
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
@@ -897,83 +693,43 @@ Lack of trust, too, I say, has a nutriment; it is not without nutriment. And wha
 Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for not hearing the good Dhamma? It should be said: not associating with good people.
 #+end_quote
 
-*** TODO Anigha
-#+begin_quote
-
-#+end_quote
-
 
 * Chapter 5
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
@@ -983,121 +739,54 @@ Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutr
 
 #+end_quote
 
-*** Anigha
+
+
+** SUTTA
+*** Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
 #+begin_quote
 
 #+end_quote
 
 ** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
+*** Deutsch
 #+begin_quote
 
 #+end_quote
@@ -1107,153 +796,3 @@ Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutr
 
 #+end_quote
 
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Dojč/Döïtshke
-#+begin_quote
-
-#+end_quote
-
-*** Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-*** Anigha
-#+begin_quote
-
-#+end_quote
