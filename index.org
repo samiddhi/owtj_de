@@ -1,9 +1,15 @@
+
+
 * Prompt
 The following is a quotation from a pali text, and two reliable, phenomenologically-informed translation(s). Please use the available text to triangulate an excellent German rendition, true to the original and with echoes of the interpretations found in the provided English translation(s). If established buddhist terms in german do not match the vibe or meanings of the translations, opt for more fitting terms.
 
-* Chapter 1
-** MN 107
-*** Dojč/Döïtshke
+#+OPTIONS: num:nil todo:nil
+* DONE Chapter 1
+CLOSED: [2025-10-17 Fri 21:17]
+** DONE MN 107
+CLOSED: [2025-10-17 Fri 21:19]
+*** DONE Dojč/Döïtshke
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 „Ebenso, o Brahmane, wenn der Tathāgata einen Menschen, der zu zähmen ist, in seine Obhut bekommt, unterweist er ihn zuallererst folgendermaßen: ‚Komm, Mönch, sei sittenrein. Lebe, eingeschränkt durch die Ordensregeln, vollkommen im Verhalten und im rechten Wandel, siehst du die Gefahr schon im geringsten Vergehen. Indem du sie übernommen hast, übe dich in den Übungsregeln.‘
 
@@ -25,7 +31,8 @@ Nachdem er diese fünf Hemmnisse aufgegeben hat, diese Befleckungen des Geistes,
 
 Jenen Mönchen, o Brahmane, die Lehrlinge sind, die das Ziel noch nicht erreicht haben und unermüdlich im Streben nach dem höchsten Heil von der Fessel verweilen, gilt diese meine Unterweisung. Doch jenen Mönchen, die Arahants sind, deren Triebe vernichtet sind, die das heilige Leben gelebt, getan was getan werden musste, die Bürde abgelegt, das wahre Ziel erreicht haben, deren Daseinsfesseln völlig zerstört und die durch vollkommene Erkenntnis befreit sind, – diese Dinge führen bei ihnen zu einem gegenwärtig glücklichen Verweilen und zu Achtsamkeit und Wissensklarheit.“
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 evameva kho, brāhmaṇa, tathāgato purisadammaṃ labhitvā paṭhamaṃ evaṃ vineti — ‘ehi tvaṃ, bhikkhu, sīlavā hohi, pātimokkhasaṃvarasaṃvuto viharāhi ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī, samādāya sikkhassu sikkhāpadesū’”ti.
 
@@ -44,7 +51,8 @@ evameva kho, brāhmaṇa, tathāgato purisadammaṃ labhitvā paṭhamaṃ eva�
 ♦ “ye kho te, brāhmaṇa, bhikkhū sekkhā {sekhā (sabbattha)} apattamānasā anuttaraṃ yogakkhemaṃ patthayamānā viharanti tesu me ayaṃ evarūpī anusāsanī hoti. ye pana te bhikkhū arahanto khīṇāsavā vusitavanto katakaraṇīyā ohitabhārā anuppattasadatthā parikkhīṇabhavasaṃyojanā sammadaññā vimuttā tesaṃ ime dhammā diṭṭhadhammasukhavihārāya ceva saṃvattanti, satisampajaññāya cā”ti.
 #+end_quote
 
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 … When the Tathāgata gets a person fit to be tamed, he first trains him
 like this:
@@ -136,7 +144,8 @@ being, and who are released through right understanding—these
 qualities lead both to a pleasant abiding in the here and now, and to
 recollection and awareness.
 #+end_quote
-*** Anigha
+*** DONE Anigha
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 when the Realized One obtains a man for training, he first guides him like this: ‘Come, bhikkhu, live fulfilling virtue and the training rules. Live restrained by the code of conduct, endowed with proper behavior and a suitable environment. Seeing danger in the slightest fault, train in the training rules.’ [2]
 
@@ -156,8 +165,10 @@ He gives up these five hindrances, defilements of the mind that weaken understan
 
 That is how I instruct the bhikkhus who are trainees—who have not achieved their goal, but live aspiring to the supreme safety from the yoke. But for those bhikkhus who are Arahants—who have destroyed the influxes, fulfilled the training, done what had to be done, laid down the burden, arrived at the highest goal, utterly destroyed the fetters of being, and are liberated by right understanding—these things lead to an easeful abiding in the present experience, and to remembrance-and-awareness.”
 #+end_quote
-** MN 19
-*** Dojč/Döïtshke
+** DONE MN 19
+CLOSED: [2025-10-17 Fri 21:19]
+*** DONE Dojč/Döïtshke
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 „Da, ihr Mönche, als ich so achtsam, eifrig und entschlossen verweilte, stieg in mir ein sinnlicher Gedanke auf. Da erkannte ich also: ‚Da ist dieser sinnliche Gedanke in mir aufgestiegen. Er führt zu eigenem Leid, er führt zu fremdem Leid, er führt zu beiderseitigem Leid; er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna.‘
 
@@ -166,11 +177,13 @@ Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu fremdem Leid‘ ih
 Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu beiderseitigem Leid‘ ihn so durchschaute, verlor er sich.
 Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna‘ ihn so durchschaute, verlor er sich.“
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 “tassa mayhaṃ, bhikkhave, evaṃ appamattassa ātāpino pahitattassa viharato uppajjati kāmavitakko. so evaṃ pajānāmi — ‘uppanno kho me ayaṃ kāmavitakko. so ca kho attabyābādhāyapi saṃvattati, parabyābādhāyapi saṃvattati, ubhayabyābādhāyapi saṃvattati, paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’ {anibbānasaṃvattaniko””ti (?)} . ‘attabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘parabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘ubhayabyābādhāya saṃvattatī’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati; ‘paññānirodhiko vighātapakkhiko anibbānasaṃvattaniko’tipi me, bhikkhave, paṭisañcikkhato abbhatthaṃ gacchati.
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 As I was living diligent, ardent, and resolute, a thought of sensual
 desire arose in me. I understood thus: ‘This thought of sensual desire
@@ -183,21 +196,26 @@ to the affliction of both,’ it subsided in me; when i considered: ‘This
 obstructs wisdom, causes difficulties, and leads away from Nibbāna,’ it
 subsided in me.
 #+end_quote
-*** Anigha
+*** DONE Anigha
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 Then, as I abided heedful, diligent, and resolute, a sensual thought arose. I understood: ‘This sensual thought has arisen for me. It leads to my affliction, to the affliction of others, and to the affliction of both. It blocks understanding, is bound with trouble, and it does not lead to Nibbāna.’ [4] When I considered that it leads to my affliction, it subsided. [5] When I considered that it leads to the affliction of others, it subsided. When I considered that it leads to the affliction of both, it subsided. When I considered that it blocks understanding, is bound with trouble, and does not lead to Nibbāna, it subsided.
 #+end_quote
 
-** MN 152
-*** Dojč/Döïtshke
+** DONE MN 152
+CLOSED: [2025-10-17 Fri 21:19]
+*** DONE Dojč/Döïtshke
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 „Und wie, Ānanda, ist einer ein Edler, der die Fähigkeiten entfaltet? Da, Ānanda, steigt in einem Mönch, der mit dem Auge eine Form gesehen hat, Angenehmes auf, es steigt Unangenehmes auf, es steigt Angenehmes-und-Unangenehmes auf. Wenn er es wünscht: ‚Möge ich beim Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Abstoßenden wie auch beim Nicht-Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden wie auch beim Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich, indem ich sowohl das Abstoßende als auch das Nicht-Abstoßende beiseite lassend, gleichmütig weilen, achtsam und wissensklar‘, so weilt er genau dort gleichmütig, achtsam und wissensklar.“
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 “kathañcānanda, ariyo hoti bhāvitindriyo? idhānanda, bhikkhuno cakkhunā rūpaṃ disvā uppajjati manāpaṃ, uppajjati amanāpaṃ, uppajjati manāpāmanāpaṃ. so sace ākaṅkhati — ‘paṭikūle {paṭikkūle (sabbattha)} appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūle ca appaṭikūle ca appaṭikūlasaññī vihareyyan’ti, appaṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘appaṭikūle ca paṭikūle ca paṭikūlasaññī vihareyyan’ti, paṭikūlasaññī tattha viharati. sace ākaṅkhati — ‘paṭikūlañca appaṭikūlañca tadubhayaṃ abhinivajjetvā upekkhako vihareyyaṃ sato sampajāno’ti, upekkhako tattha viharati sato sampajāno.
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 … And how, Ānanda, is one a noble one developing the faculties? here,
 Ānanda, in a bhikkhu having seen a form with the eye, there arises
@@ -216,16 +234,20 @@ recollected and aware’, he remains there equanimous, recollected and
 aware …
 #+end_quote
 
-** UD 5.5
-*** Dojč/Döïtshke
+** DONE UD 5.5
+CLOSED: [2025-10-17 Fri 21:19]
+*** DONE Dojč/Döïtshke
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 „Gleichwie, ihr Mönche, das große Meer eine stufenlose Neigung hat, ein stufenloses Gefälle, eine stufenlose Vertiefung, und nicht jäh abstürzt, so hat auch diese Lehre und Zucht eine gestufte Übung, eine gestufte Ausführung, eine gestufte Praxis, und die Durchdringung zur höheren Erkenntnis geschieht nicht unvermittelt.“
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 seyyathāpi, bhikkhave, mahāsamuddo anupubbaninno anupubbapoṇo anupubbapabbhāro, na āyatakeneva papāto; evameva kho, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho. yampi, bhikkhave, imasmiṃ dhammavinaye anupubbasikkhā anupubbakiriyā anupubbapaṭipadā, na āyatakeneva aññāpaṭivedho
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 Just as the ocean has a gradual shelf, a gradual slope, a gradual
 inclination, with a sudden drop-off only after a long stretch, in the
@@ -233,25 +255,30 @@ same way this discipline of Dhamma has a gradual training, a gradual
 performance, a gradual progression, with attainment of higher
 knowledge only after a long stretch.
 #+end_quote
-** HN 12
-*** Dojč/Döïtshke
+** DONE HN 12
+CLOSED: [2025-10-17 Fri 21:19]
+*** DONE Dojč/Döïtshke
+CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
 Im Zwischen-Gewebe der Seinsheits-Echos vertieft sich das Eigentliche-wir in die Zeitlichkeit des abschließenden Aufgangs, umhüllend die Kraft des Hier-Kontinuums. Dieser Un-Grund, der eine tiefe Ab-wesenheit-hegt, durchquert das Mit-sein, wo es selbst zum bloßen Geschehnis im ontologischen Schatten des Werdens wird. Doch die Stille des Daseins hallt wider im Meer der Möglichkeiten—wo kein Eigentliches-Anwesen wahrhaft verweilen kann außer in den Murmeln der Zeitlich-Vergänglichkeit. So gibt der vor-ontologische Blick in die Un-Struktur des Seins den Anschein von Sinn—nicht als ob er dem Zugriff des Man-selbst entginge.
 #+end_quote
-* Chapter 2
-** AN 9.41
-*** Dojč/Döïtshke
+
+* TODO Chapter 2
+** TODO AN 9.41
+*** TODO Dojč/Döïtshke
 #+begin_quote
 
 #+end_quote
 
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Atha kho āyasmā ānando tapussena gahapatinā saddhiṁ yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ etadavoca:
 “Ayaṁ, bhante, tapusso gahapati evamāha: ‘mayaṁ, bhante ānanda, gihī kāmabhogino kāmārāmā kāmaratā kāmasammuditā, tesaṁ no, bhante, amhākaṁ gihīnaṁ kāmabhogīnaṁ kāmārāmānaṁ kāmaratānaṁ kāmasammuditānaṁ papāto viya khāyati, yadidaṁ nekkhammaṁ’. Sutaṁ metaṁ, bhante, ‘imasmiṁ dhammavinaye daharānaṁ daharānaṁ bhikkhūnaṁ nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati etaṁ santanti passato. Tayidaṁ, bhante, imasmiṁ dhammavinaye bhikkhūnaṁ bahunā janena visabhāgo yadidaṁ nekkhamman’”ti.
 “Evametaṁ, ānanda, evametaṁ, ānanda. Mayhampi kho, ānanda, pubbeva sambodhā anabhisambuddhassa bodhisattasseva sato etadahosi: ‘sādhu nekkhammaṁ, sādhu paviveko’ti. Tassa mayhaṁ, ānanda, nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato. Tassa mayhaṁ, ānanda, etadahosi: ‘ko nu kho hetu ko paccayo, yena me nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato’? Tassa mayhaṁ, ānanda, etadahosi: ‘kāmesu kho me ādīnavo adiṭṭho, so ca me abahulīkato, nekkhamme ca ānisaṁso anadhigato, so ca me anāsevito. Tasmā me nekkhamme cittaṁ na pakkhandati nappasīdati na santiṭṭhati na vimuccati etaṁ santanti passato’. Tassa mayhaṁ, ānanda, etadahosi: ‘sace kho ahaṁ kāmesu ādīnavaṁ disvā taṁ bahulaṁ kareyyaṁ, nekkhamme ānisaṁsaṁ adhigamma tamāseveyyaṁ, Variant: bahulaṁ kareyyaṁ → bahulīkareyyaṁ (bj, sya-all, pts1ed) ṭhānaṁ kho panetaṁ vijjati yaṁ me nekkhamme cittaṁ pakkhandeyya pasīdeyya santiṭṭheyya vimucceyya etaṁ santanti passato’. So kho ahaṁ, ānanda, aparena samayena kāmesu ādīnavaṁ disvā taṁ bahulamakāsiṁ, nekkhamme ānisaṁsaṁ adhigamma tamāseviṁ. Tassa mayhaṁ, ānanda, nekkhamme cittaṁ pakkhandati pasīdati santiṭṭhati vimuccati etaṁ santanti passato. So kho ahaṁ, ānanda, vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharāmi. 
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Then Ven. Ānanda, together with Tapussa the householder, went to
 the Blessed One and, on arrival, having bowed down to him, sat to
@@ -291,23 +318,26 @@ unwholesome states, i entered and remained in the first
 comprehension: pleasure and happiness born from withdrawal, with
 thinking and pondering.’
 #+end_quote
-*** Anigha
+*** DONE Anigha
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Then Venerable Ānanda together with Tapussa approached the Auspicious One, bowed, and sat down to one side. Venerable Ānanda [this translation here says "informed him of the matter", but in the german translation, include the full unabridged version].
 
 “That is exactly how it is, Ānanda. Before my awakening—when I was still unawakened but intent on awakening—I too thought, ‘Renunciation is good! Seclusion is good!’ But my mind did not see renunciation as peaceful, and so it did not leap at it, and was not confident, settled, and liberated in it. Then I thought, ‘What is the cause, what is the reason why my mind does not see renunciation as peaceful, and so it does not leap at it, and is not confident, settled, and liberated in it?’ Then I thought, ‘I have not seen the peril of sensuality, and I have not cultivated that. I have not realized the value of renunciation, and I have not fostered that. That is why my mind does not see renunciation as peaceful, and so does not leap at it, and is not confident, settled, and liberated in it.’ [1] Then I thought, ‘Suppose that, having seen the peril of sensuality, I were to cultivate that. And suppose that, having realized the value of renunciation, I were to foster that. [2] It is possible that, seeing it as peaceful, my mind would leap at renunciation, and be confident, settled, and liberated in it.’ And so, after some time, having seen the peril of sensuality, I cultivated that, and having realized the value of renunciation, I fostered that. Then, seeing it as peaceful, my mind leapt at renunciation, and was confident, settled, and liberated in it. And so, having thoroughly withdrawn from sensuality, having withdrawn from unbeneficial phenomena, with thinking and with pondering, with joy and ease born of withdrawal, I abided having entered upon the first jhāna. 
 #+end_quote
 
-** Vin. Kd 16
-*** Dojč/Döïtshke
+** TODO Vin. Kd 16
+*** TODO Dojč/Döïtshke
 #+begin_quote
 
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Atha kho bhagavā anāthapiṇḍikassa gahapatissa anupubbiṁ kathaṁ kathesi, seyyathidaṁ—Variant: anupubbiṁ kathaṁ → ānupubbikathaṁ (bj); anupubbikathaṁ (cck, sya1ed, pts1ed); anupubbīkathaṁ (sya2ed) dānakathaṁ sīlakathaṁ saggakathaṁ, kāmānaṁ ādīnavaṁ okāraṁ saṅkilesaṁ, nekkhamme ānisaṁsaṁ pakāsesi. Yadā bhagavā aññāsi anāthapiṇḍikaṁ gahapatiṁ kallacittaṁ muducittaṁ vinīvaraṇacittaṁ udaggacittaṁ pasannacittaṁ, atha yā buddhānaṁ sāmukkaṁsikā dhammadesanā taṁ pakāsesi—dukkhaṁ, samudayaṁ, nirodhaṁ, maggaṁ. Seyyathāpi nāma suddhaṁ vatthaṁ apagatakāḷakaṁ sammadeva rajanaṁ paṭiggaṇheyya; evameva anāthapiṇḍikassa gahapatissa tasmiṁyeva āsane virajaṁ vītamalaṁ dhammacakkhuṁ udapādi—“yaṁ kiñci samudayadhammaṁ sabbaṁ taṁ nirodhadhamman”ti. Atha kho anāthapiṇḍiko gahapati diṭṭhadhammo pattadhammo viditadhammo pariyogāḷhadhammo tiṇṇavicikiccho vigatakathaṅkatho vesārajjappatto aparappaccayo satthusāsane bhagavantaṁ
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Then the Lord talked a progressive talk to the householder
 Anāthapiṇḍika, that is to say talk on giving, talk on moral habit, talk on
@@ -327,19 +357,21 @@ over doubt, having put away uncertainty, having become independent
 of others in the Teacher’s instruction.
 #+end_quote
 
-** MN 125
-*** Dojč/Döïtshke
+** TODO MN 125
+*** TODO Dojč/Döïtshke
 #+begin_quote
 
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Seyyathāpi, aggivessana, gāmassa vā nigamassa vā avidūre mahāpabbato. Tamenaṁ dve sahāyakā tamhā gāmā vā nigamā vā nikkhamitvā hatthavilaṅghakena yena so pabbato tenupasaṅkameyyuṁ; upasaṅkamitvā eko sahāyako heṭṭhā pabbatapāde tiṭṭheyya, eko sahāyako uparipabbataṁ āroheyya. Tamenaṁ heṭṭhā pabbatapāde ṭhito sahāyako uparipabbate ṭhitaṁ sahāyakaṁ evaṁ vadeyya: ‘yaṁ, samma, kiṁ tvaṁ passasi uparipabbate ṭhito’ti? So evaṁ vadeyya: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti.
 So evaṁ vadeyya: ‘aṭṭhānaṁ kho etaṁ, samma, anavakāso yaṁ tvaṁ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. Tamenaṁ uparipabbate ṭhito sahāyako heṭṭhimapabbatapādaṁ orohitvā taṁ sahāyakaṁ bāhāyaṁ gahetvā uparipabbataṁ āropetvā muhuttaṁ assāsetvā evaṁ vadeyya: ‘yaṁ, samma, kiṁ tvaṁ passasi uparipabbate ṭhito’ti? So evaṁ vadeyya: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti.
 So evaṁ vadeyya: ‘idāneva kho te, samma, bhāsitaṁ—mayaṁ evaṁ ājānāma—aṭṭhānaṁ kho etaṁ samma, anavakāso yaṁ tvaṁ uparipabbate ṭhito passeyyāsi ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. Idāneva ca pana te bhāsitaṁ mayaṁ evaṁ ājānāma: ‘passāmi kho ahaṁ, samma, uparipabbate ṭhito ārāmarāmaṇeyyakaṁ vanarāmaṇeyyakaṁ bhūmirāmaṇeyyakaṁ pokkharaṇīrāmaṇeyyakan’ti. So evaṁ vadeyya: ‘tathā hi panāhaṁ, samma, iminā mahatā pabbatena āvuto daṭṭheyyaṁ nāddasan’ti. Variant: āvuto → āvaṭo (bj-a, pts1ed); āvuṭo (sya-all, km, mr)
 Ato mahantatarena, aggivessana, ‘avijjākhandhena jayaseno rājakumāro āvuto nivuto ophuṭo pariyonaddho. Variant: nivuto → nivuṭo (sya-all, km, pts1ed, mr) | ophuṭo → ovuto (bj); ovuṭo (sya-all, km, pts1ed) So vata yaṁ taṁ nekkhammena ñātabbaṁ nekkhammena daṭṭhabbaṁ nekkhammena pattabbaṁ nekkhammena sacchikātabbaṁ taṁ vata jayaseno rājakumāro kāmamajjhe vasanto kāme paribhuñjanto kāmavitakkehi khajjamāno kāmapariḷāhena pariḍayhamāno kāmapariyesanāya ussuko ñassati vā dakkhati vā sacchi vā karissatī’ti—netaṁ ṭhānaṁ vijjati.
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 … Aggivessana, it’s as if there were a great mountain and two
 companions would go to that mountain. On arrival, one of the
@@ -378,12 +410,13 @@ renunciation, attained through renunciation, realized through
 renunciation: That is impossible. …
 #+end_quote
 
-** MN 81
-*** Dojč/Döïtshke
+** TODO MN 81
+*** TODO Dojč/Döïtshke
 #+begin_quote
 
 #+end_quote
-*** Pāli
+*** DONE Pāli
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 “Bhūtapubbaṁ, ānanda, imasmiṁ padese vegaḷiṅgaṁ nāma gāmanigamo ahosi iddho ceva phīto ca bahujano ākiṇṇamanusso. Variant: vegaḷiṅgaṁ → vehaliṅgaṁ (bj); vebhaḷigaṁ (sya-all, km); vebhaḷiṅgaṁ (pts1ed) Vegaḷiṅgaṁ kho, ānanda, gāmanigamaṁ kassapo bhagavā arahaṁ sammāsambuddho upanissāya vihāsi. Idha sudaṁ, ānanda, kassapassa bhagavato arahato sammāsambuddhassa ārāmo ahosi. Idha sudaṁ, ānanda, kassapo bhagavā arahaṁ sammāsambuddho nisinnako bhikkhusaṅghaṁ ovadatī”ti.
 Atha kho āyasmā ānando catugguṇaṁ saṅghāṭiṁ paññapetvā bhagavantaṁ etadavoca: “tena hi, bhante, bhagavā nisīdatu ettha. Ayaṁ bhūmipadeso dvīhi arahantehi sammāsambuddhehi paribhutto bhavissatī”ti. Nisīdi bhagavā paññatte āsane. Nisajja kho bhagavā āyasmantaṁ ānandaṁ āmantesi:
@@ -448,7 +481,8 @@ Atha kho, ānanda, kikī kāsirājā ghaṭikārassa kumbhakārassa pañcamattā
 Siyā kho pana te, ānanda, evamassa: ‘añño nūna tena samayena jotipālo māṇavo ahosī’ti. Na kho panetaṁ, ānanda, evaṁ daṭṭhabbaṁ. Ahaṁ tena samayena jotipālo māṇavo ahosin”ti.
 Idamavoca bhagavā. Attamano āyasmā ānando bhagavato bhāsitaṁ abhinandīti.
 #+end_quote
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:18]
 #+begin_quote
 Once, Ānanda, there was a market town in this spot named
 Vebhaliṅga. it was prosperous and full of people. And Kassapa, a
@@ -676,83 +710,549 @@ That is what the Buddha said. Satisfied, Venerable Ānanda was
 happy with what the Buddha said.
 #+end_quote
 
+* TODO Chapter 3
+** TODO SN 36.6
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:17]
+#+begin_quote
+Being pressured by a painful feeling, he harbours aversion towards it. When he harbours aversion towards painful feeling, the underlying tendency to aversion towards painful feeling lies behind this. Being pressured by painful feeling, he seeks delight in sensual pleasure. For what reason? Because the ordinary person does not know of any escape from painful feeling other than sensual pleasure.
+#+end_quote
+
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
+
+* TODO Chapter 4
+** TODO SN 45.8
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:16]
+#+begin_quote
+And what, monks, is the right effort? (1) There is the case where a monk generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the non-arising of unskilful qualities that have not yet arisen. (2) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the abandonment of unskilful qualities that have arisen. (3) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the arising of skilful qualities that have not yet arisen. (4) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the maintenance, non-confusion, increase, abundance, fulfilment, and development of skilful qualities that have arisen: This is called right effort.
+#+end_quote
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
+** TODO SN 51.15
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:16]
+#+begin_quote
+Then a brahmin approached the Venerable Ānanda … and said: ‘for what purpose, Master Ānanda, is the holy life lived under the ascetic Gotama?’
+
+‘It is for the sake of abandoning desire, brahmin, that the holy life is lived under the Blessed One.’
+
+‘But, Master Ānanda, is there a path for the abandoning of this desire?’
+
+‘There is a path, brahmin, for the abandoning of this desire.’
+
+‘But, Master Ānanda, what is the path for the abandoning of this desire?’
+
+‘Here, brahmin, a bhikkhu develops the basis for potency that possesses composure due to desire and intentions of striving. He develops the basis for potency that possesses composure due to energy … composure due to mind … composure due to investigation and intentions of striving. This, brahmin, is the path for the abandoning of this desire.’
+
+‘Such being the case, Master Ānanda, the situation is never ending. It is impossible that one can abandon desire by means of desire itself.’
+
+‘Well then, brahmin, I will question you about this matter. Answer as you see fit.
+
+What do you think, did you earlier have the desire, “I will go to the park,” and after you went to the park, did the corresponding desire subside?’
+
+‘Yes, sir.’
+
+‘Did you earlier arouse energy, thinking, “I will go to the park,” and after you went to the park, did the corresponding energy subside?’
+
+‘Yes, sir.’
+
+‘Did you earlier make up your mind, “I will go to the park,” and after you went to the park, did the corresponding resolution subside?’
+
+‘Yes, sir.’
+
+‘Did you earlier make an investigation, “Shall I go to the park?” and after you went to the park, did the corresponding investigation subside?’
+
+‘Yes, sir.’
+
+‘It is exactly the same with a bhikkhu who is an arahant, one whose taints are destroyed, who has lived the holy life, done what had to be done, laid down the burden, reached his own goal, utterly destroyed the fetters of existence, and is completely liberated through final knowledge. He earlier had the desire for the attainment of arahantship, and when he attained arahantship, the corresponding desire subsided. He earlier had aroused energy for the attainment of arahantship, and when he attained arahantship, the corresponding energy subsided. He earlier had made up his mind to attain arahantship, and when he attained arahantship, the corresponding resolution subsided. He earlier made an investigation for the attainment of arahantship, and when he attained arahantship, the corresponding investigation subsided.
+
+What do you think, brahmin, such being the case, is the situation never-ending or is there an end?’
+
+‘Surely, Master Ānanda, such being the case, the situation has an end, and is not never ending. Magnificent, Master Ānanda! … from today let Master Ānanda remember me as a lay follower taken refuge for life.’
+#+end_quote
+
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
+
+** TODO MN 13
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:16]
+#+begin_quote
+Any contemplatives who do not discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they themselves would understand sensuality; or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is impossible. But any contemplatives who discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they would themselves understand sensuality or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is possible. 
+#+end_quote
+
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
+
+** TODO AN 4.159
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-17 Fri 21:16]
+#+begin_quote
+… Then Ānanda said to the nun:
+
+‘Sister, this body is produced by food. Relying on food, you should give up food. This body is produced by craving. Relying on craving, you should give up craving. This body is produced by conceit. Relying on conceit, you should give up conceit. This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.
+
+“This body is produced by food. Relying on food, you should give up food.” This is what I said, but why did I say it? Take a bhikkhu who concurrently reflects on the food that they eat (while they eat): “Not for fun, indulgence, adornment, or decoration, but only to sustain this body, to avoid harm, and to support the holy life. In this way, I shall put an end to old feelings and not give rise to new feelings, and I will live blamelessly and at ease.” After some time, relying on food, they give up food. That’s why I said what I said.
+
+“This body is produced by craving. Relying on craving, you should give up craving.” This is what I said, but why did I say it? Take a bhikkhu who hears this: “They say that the bhikkhu named so-and-so has realized the undefiled freedom of mind and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.” They think: “Oh, when will I too realize the undefiled freedom of mind and freedom by wisdom in this very life. …” After some time, relying on craving, they give up craving. That’s why I said what I said.
+
+“This body is produced by conceit. Relying on conceit, you should give up conceit.” This is what I said, but why did I say it? Take a bhikkhu who hears this: “They say that the bhikkhu named so-and-so has realized the undefiled freedom of mind and freedom by wisdom in this very life. And they live having realized it with their own insight due to the ending of defilements.” They think: “Well, that venerable person can realize the undefiled freedom of mind and freedom by wisdom in this very life. … Why can’t I?” After some time, relying on conceit, they give up conceit. That’s why I said what I said.
+
+“This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.”’
+#+end_quote
+
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
+
+** TODO AN 10.61
+*** TODO Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** TODO Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+Bhikkhus, this is said: ‘A first point of ignorance, bhikkhus, is not seen such that before this there was no ignorance and afterward it came into being.’ Still, ignorance is seen to have a specific condition.
+
+I say, bhikkhus, that ignorance has a nutriment; it is not without nutriment. And what is the nutriment for ignorance? It should be said: the five hindrances.
+
+The five hindrances, too, I say, have a nutriment; they are not without nutriment. And what is the nutriment for the five hindrances? It should be said: the three kinds of misconduct.
+
+The three kinds of misconduct, too, I say, have a nutriment; they are not without nutriment. And what is the nutriment for the three kinds of misconduct? It should be said: non-restraint of the sense faculties.
+
+Non-restraint of the sense faculties, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for non-restraint of the sense faculties? It should be said: lack of recollection and awareness.
+
+Lack of recollection and awareness, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for lack of recollection and awareness? It should be said: no concurrent attention.
+
+No concurrent attention too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for no concurrent attention? It should be said: lack of trust.
+
+Lack of trust, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for lack of trust? It should be said: not hearing the good Dhamma.
+
+Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for not hearing the good Dhamma? It should be said: not associating with good people.
+#+end_quote
+
+*** TODO Anigha
+#+begin_quote
+
+#+end_quote
 
 
-* Chapter 3
+* Chapter 5
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
 *** Anigha
 #+begin_quote
 
 #+end_quote
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
 *** Anigha
 #+begin_quote
 
 #+end_quote
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
 *** Anigha
 #+begin_quote
 
 #+end_quote
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
 *** Anigha
 #+begin_quote
 
 #+end_quote
+
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
 *** Anigha
 #+begin_quote
 
 #+end_quote
+
 ** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
 *** Pāli
 #+begin_quote
 
 #+end_quote
+
 *** OWTJ
 #+begin_quote
 
 #+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
+*** Anigha
+#+begin_quote
+
+#+end_quote
+
+** SUTTA
+*** Dojč/Döïtshke
+#+begin_quote
+
+#+end_quote
+
+*** Pāli
+#+begin_quote
+
+#+end_quote
+
+*** OWTJ
+#+begin_quote
+
+#+end_quote
+
 *** Anigha
 #+begin_quote
 

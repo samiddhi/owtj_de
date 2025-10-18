@@ -1,0 +1,7 @@
+h2 .done, h3 .done, h4 .doneh4 .done {
+    display: none;
+}
+
+section-number-2, section-number-3, section-number-4 {
+    display: none;
+}
