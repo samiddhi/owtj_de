@@ -1,34 +1,44 @@
 
 
 * Prompt
-The following is a quotation from a pali text, and two reliable, phenomenologically-informed translation(s). Please use the available text to triangulate an excellent German rendition, true to the original and with echoes of the interpretations found in the provided English translation(s). If established buddhist terms in german do not match the vibe or meanings of the translations, opt for more fitting terms.
+The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular. 
 
 #+OPTIONS: num:nil
 #+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
-* TODO Chapter 1
-** TODO MN 107
-*** TODO Deutsch
+* DONE Chapter 1
+CLOSED: [2025-10-19 Sun 12:29]
+** DONE MN 107 (pg. 9)
+CLOSED: [2025-10-19 Sun 12:18]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:18]
 #+begin_quote
-„Ebenso, o Brahmane, wenn der Tathāgata einen Menschen, der zu zähmen ist, in seine Obhut bekommt, unterweist er ihn zuallererst folgendermaßen: ‚Komm, Mönch, sei sittenrein. Lebe, eingeschränkt durch die Ordensregeln, vollkommen im Verhalten und im rechten Wandel, siehst du die Gefahr schon im geringsten Vergehen. Indem du sie übernommen hast, übe dich in den Übungsregeln.‘
+… Wenn der Tathāgata eine Person antrifft, die geeignet ist, gezähmt zu werden, unterweist er sie zunächst so:
+‚(1) Komm, Mönch. Sei tugendhaft. Lebe zurückhaltend gemäß dem Pāṭimokkha, bewandert in deinem Verhalten und deinem Tätigkeitsbereich. Schule dich selbst, nachdem du die Übungsregeln auf dich genommen hast, und sieh Gefahr in den geringsten Verfehlungen.‘
 
-Wenn der Mönch, o Brahmane, sittenrein ist, [...] sieht er die Gefahr schon im geringsten Vergehen, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der die Tore der Sinne bewacht. Wenn du mit dem Auge eine Form erblickst, sei einer, der nicht am Anzeichen haftet, nicht am Detail. Denn wenn du unbezähmt mit dem Auge lebst, könnten üble, unheilsame Geisteszustände, Begierde und Widerwille, in dich einströmen. Daher übe dich in deren Bezähmung; bewache das Auge, erlange die Bezähmung des Auges. Wenn du mit dem Ohr einen Ton hörst [...] Wenn du mit der Nase einen Duft riechst [...] Wenn du mit der Zunge einen Geschmack schmeckst [...] Wenn du mit dem Körper eine Berührung fühlst [...] Wenn du mit dem Geist ein Geistesobjekt wahrnimmst, sei einer, der nicht am Anzeichen haftet, nicht am Detail. Denn wenn du unbezähmt mit dem Geist lebst, könnten üble, unheilsame Geisteszustände, Begierde und Widerwille, in dich einströmen. Daher übe dich in deren Bezähmung; bewache den Geist, erlange die Bezähmung des Geistes.‘
+Wenn der Mönch tugendhaft ist … und Gefahr in den geringsten Verfehlungen sieht, unterweist der Tathāgata ihn weiter:
+‚(2) Komm, Mönch. Sei einer, der an den Toren seiner Sinnesfähigkeiten bewacht ist. Wenn du eine Form mit dem Auge siehst, klammere dich nicht an irgendwelche Zeichen und Merkmale (Bedeutungen), durch die – falls du ohne Zügelung der Fähigkeit des Auges leben würdest – unheilsame Eigenschaften wie Gier oder Bedrängnis dich überwältigen könnten. Übe Zügelung. Beschütze die Fähigkeit des Auges. Erlange Zügelung in Bezug auf die Fähigkeit des Auges. Wenn du einen Klang mit dem Ohr hörst … Wenn du einen Duft mit der Nase riechst … Wenn du einen Geschmack mit der Zunge schmeckst … Wenn du ein taktiles Gefühl mit dem Körper berührst … Wenn du eine Vorstellung mit dem Intellekt erkennst, klammere dich nicht an irgendwelche Zeichen und Merkmale, durch die – falls du ohne Zügelung der Fähigkeit des Intellekts leben würdest – unheilsame Eigenschaften wie Gier oder Bedrängnis dich überwältigen könnten. Übe Zügelung. Beschütze die Fähigkeit des Intellekts. Erlange Zügelung in Bezug auf die Fähigkeit des Intellekts.‘
 
-Wenn der Mönch, o Brahmane, einer ist, der die Tore der Sinne bewacht, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei maßvoll beim Essen. Indem du weise reflektierst, nimmst du Speise zu dir: nicht zum Vergnügen, nicht zum Rausch, nicht zur Zierde, nicht zur Verschönerung, sondern einzig um diesen Körper am Leben zu erhalten, um Schaden zu beenden, um das heilige Leben zu unterstützen, indem du denkst: So werde ich altes Gefühl beenden und kein neues Gefühl aufsteigen lassen, und ich werde ein untadeliges Leben führen und mich wohl fühlen.‘
+Wenn der Mönch einer ist, der an den Toren seiner Sinnesfähigkeiten bewacht ist … unterweist der Tathāgata ihn weiter:
+‚(3) Komm, Mönch. Sei einer, der sein Essen mäßigt. In reflektierender Weise nimm deine Nahrung ein, nicht zum Vergnügen, noch zur Berauschung, noch zum Zunehmen, noch zur Verschönerung, sondern einzig für das Fortbestehen und Weiterfunktionieren dieses Körpers, um seine Beschwerden zu beenden, für die Unterstützung des heiligen Lebens, in der Erwägung: "Ich werde alte Gefühle zerstören und keine neuen Gefühle erzeugen. So werde ich mich erhalten, tadelfrei sein und in Muße leben."‘
 
-Wenn der Mönch, o Brahmane, maßvoll beim Essen ist, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der sich der Wachsamkeit widmet. Am Tage, beim Gehen und Sitzen, läutere deinen Geist von hemmenden Zuständen. In der ersten Nachtwache, beim Gehen und Sitzen, läutere deinen Geist von hemmenden Zuständen. In der mittleren Nachtwache, bereite dir auf der rechten Seite das Löwenlager, einen Fuß über dem anderen, achtsam und wissensklar, die Vorstellung des Aufstehens im Geiste haltend. In der letzten Nachtwache, erhebe dich und läutere beim Gehen und Sitzen deinen Geist von hemmenden Zuständen.‘
+Wenn der Mönch einer ist, der sein Essen mäßigt … unterweist der Tathāgata ihn weiter:
+‚(4) Komm, Mönch. Sei einer, der der Wachsamkeit ergeben ist. Am Tage, sitzend und auf und ab gehend, reinige deinen Geist von hinderlichen Dingen. In der ersten Nachtwache, sitzend und auf und ab gehend, reinige deinen Geist von hinderlichen Dingen. In der zweiten Nachtwache, auf der rechten Seite liegend, nimm die Löwenlage ein, einen Fuß über dem anderen, gegenwärtig, wachsam, mit dem Geist darauf eingestellt, aufzustehen. In der letzten Nachtwache, sitzend und auf und ab gehend, reinige deinen Geist von hinderlichen Dingen.‘
 
-Wenn der Mönch, o Brahmane, einer ist, der sich der Wachsamkeit widmet, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, sei einer, der mit Achtsamkeit und Wissensklarheit ausgestattet ist. Handle wissensklar beim Hingehen und Zurückkehren; beim Hinblicken und Wegblicken; beim Beugen und Strecken der Glieder; beim Tragen der Ober- und Unterrobe, der Almosenschale; beim Essen, Trinken, Kauen und Schmecken; beim Verrichten der Notdurft; beim Gehen, Stehen, Sitzen, Einschlafen, Aufwachen, Reden und Schweigen.‘
+Wenn der Mönch einer ist, der der Wachsamkeit ergeben ist … unterweist der Tathāgata ihn weiter:
+‚(5) Komm, Mönch. Sei einer, der mit Gegenwärtigsein und Gewahrsein ausgestattet ist. Wenn du vorwärts gehst und zurückkehrst, mach dich gewahr. Wenn du hinblickst und wegschaust … Wenn du deine Glieder beugst und streckst … Wenn du deine äußere Robe, deine obere Robe und deine Schale trägst … Wenn du isst, trinkst, kaust und schmeckst … Wenn du urinierst und defäkierst … Wenn du gehst, stehst, sitzt, einschläfst, aufwachst, sprichst und schweigst, mach dich gewahr.‘
 
-Wenn der Mönch, o Brahmane, einer ist, der mit Achtsamkeit und Wissensklarheit ausgestattet ist, dann unterweist ihn der Tathāgata weiter: ‚Komm, Mönch, suche eine abgeschiedene Lagerstätte auf: einen Wald, den Fuß eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, ein Walddickicht, eine freie Fläche, einen Strohhaufen.‘
+Wenn der Mönch einer ist, der mit Gegenwärtigsein und Gewahrsein ausgestattet ist … unterweist der Tathāgata ihn weiter:
+‚(6) Komm, Mönch. Suche dir eine abgeschiedene Behausung: eine Wildnis, den Schatten eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, einen Waldhain, die freie Luft, einen Strohhaufen.‘
 
-Er sucht eine abgeschiedene Lagerstätte auf: einen Wald, den Fuß eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, ein Walddickicht, eine freie Fläche, einen Strohhaufen. Nach dem Almosengang, nach der Mahlzeit, setzt er sich mit gekreuzten Beinen nieder, den Oberkörper aufgerichtet, und richtet die Achtsamkeit nach vorn, auf den Gegenwartspunkt.
+Er sucht sich eine abgeschiedene Behausung: eine Wildnis, den Schatten eines Baumes, einen Berg, eine Schlucht, eine Berghöhle, einen Leichenacker, einen Waldhain, die freie Luft, einen Strohhaufen. Nach seiner Mahlzeit, von seinem Almosengang zurückgekehrt, setzt er sich hin, schlägt die Beine übereinander, hält seinen Körper aufrecht und bringt das Gegenwärtigsein in den Vordergrund.
 
-Nachdem er Begierde gegenüber der Welt aufgegeben hat, verweilt er mit einem von Begierde freien Geist; er läutert seinen Geist von Begierde. Nachdem er Übelwollen und Hass aufgegeben hat, verweilt er mit einem von Übelwollen freien Geist, voll Mitgefühl für das Wohlergehen aller lebenden Wesen; er läutert seinen Geist von Übelwollen und Hass. Nachdem er Trägheit und Mattheit aufgegeben hat, verweilt er frei von Trägheit und Mattheit, voll Wahrnehmung von Licht, achtsam und wissensklar; er läutert seinen Geist von Trägheit und Mattheit. Nachdem er Rastlosigkeit und Gewissensunruhe aufgegeben hat, verweilt er unaufgeregt, mit einem innerlich beruhigten Geist; er läutert seinen Geist von Rastlosigkeit und Gewissensunruhe. Nachdem er den Zweifel aufgegeben hat, verweilt er dem Zweifel entronnen, ohne Ungewissheit heilsamen Geisteszuständen gegenüber; er läutert seinen Geist von Zweifel.
+(7) Die Begierde in Bezug auf die Welt aufgebend, lebt er mit einem Gewahrsein, frei von Begierde. Er reinigt seinen Geist von Begierde. Übelwollen und Zorn aufgebend, lebt er mit einem Gewahrsein, frei von Übelwollen, mit Mitgefühl für das Wohlergehen aller lebenden Wesen. Er reinigt seinen Geist von Übelwollen und Zorn. Trägheit und Erschöpfung aufgebend, lebt er mit einem Gewahrsein, frei von Trägheit und Erschöpfung, gegenwärtig, wachsam, eine Helligkeit wahrnehmend. Er reinigt seinen Geist von Trägheit und Erschöpfung. Rastlosigkeit und Besorgnis aufgebend, lebt er ungestört, sein Geist innerlich still geworden. Er reinigt seinen Geist von Rastlosigkeit und Besorgnis. Zweifel aufgebend, lebt er, nachdem er den Zweifel überwunden hat, ohne Verwirrung in Bezug auf heilsame Eigenschaften. Er reinigt seinen Geist von Zweifel.
 
-Nachdem er diese fünf Hemmnisse aufgegeben hat, diese Befleckungen des Geistes, die die Weisheit schwächen, dann, ganz abgeschieden von Sinnesreizen, abgeschieden von unheilsamen Geisteszuständen, tritt er in die erste Vertiefung ein, die mit Denken und Überlegen geboren wird, mit Verzückung und Glücksgefühl, die aus der Abgeschiedenheit entstanden ist, und verweilt in ihr. Mit der Stillung von Denken und Überlegen tritt er in die zweite Vertiefung ein, die innere Beruhigung und Einheit des Gemüts ohne Denken und Überlegen, mit Verzückung und Glücksgefühl, die aus der Sammlung entstanden sind, und verweilt in ihr. Nach dem Verblassen der Verzückung, in Gleichmut verweilend, achtsam und wissensklar, voll körperlich empfundenen Glücks, tritt er in die dritte Vertiefung ein, von der die Edlen sagen: ‚Glückselig verweilt derjenige, der voll Gleichmut und Achtsamkeit ist‘, und verweilt in ihr. Nach dem Überwinden von Glück und Schmerz und dem schon früheren Schwinden von Frohsinn und Trauer, tritt er in die vierte Vertiefung ein, die aufgrund von Gleichmut und Achtsamkeit Läuterung ist, weder Schmerz noch Glück, und verweilt in ihr.
+(8) Nachdem er diese fünf Hindernisse – Unvollkommenheiten des Geistes, die die Einsicht schwächen – aufgegeben hat, tritt er dann, zurückgezogen von Sinnesbegierde, zurückgezogen von unheilsamen Eigenschaften, in das erste Verstehensein ein und verweilt darin: Freude und Wohlsein, geboren aus der Rückziehung, mit Denken und Erwägen … das zweite Verstehensein, das dritte Verstehensein, das vierte Verstehensein: Reinheit von Gleichmut und Gegenwärtigsein, weder Wohlsein noch Schmerz.
 
-Jenen Mönchen, o Brahmane, die Lehrlinge sind, die das Ziel noch nicht erreicht haben und unermüdlich im Streben nach dem höchsten Heil von der Fessel verweilen, gilt diese meine Unterweisung. Doch jenen Mönchen, die Arahants sind, deren Triebe vernichtet sind, die das heilige Leben gelebt, getan was getan werden musste, die Bürde abgelegt, das wahre Ziel erreicht haben, deren Daseinsfesseln völlig zerstört und die durch vollkommene Erkenntnis befreit sind, – diese Dinge führen bei ihnen zu einem gegenwärtig glücklichen Verweilen und zu Achtsamkeit und Wissensklarheit.“
+Dies ist meine Unterweisung für jene Mönche in der Schulung, die das Ziel noch nicht erreicht haben, sondern auf die unübertroffene Sicherheit von der Bindung bedacht sind. Doch für jene Mönche, die Arahants sind – deren Beeinträchtigungen beendet sind, die die Erfüllung erreicht haben, die Aufgabe getan, die Bürde abgelegt, das wahre Ziel erlangt haben, das Hindernis des Daseins zerstört und die durch rechtes Verstehen befreit sind – diese Eigenschaften führen sowohl zu einem angenehmen Verweilen im Hier und Jetzt als auch zu Gegenwärtigsein und Gewahrsein.
 #+end_quote
+
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
@@ -122,15 +132,12 @@ being, and who are released through right understanding—these
 qualities lead both to a pleasant abiding in the here and now, and to
 recollection and awareness.
 #+end_quote
-** TODO MN 19
-*** TODO Deutsch
+** DONE MN 19 (pg. 14)
+CLOSED: [2025-10-19 Sun 12:27]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:27]
 #+begin_quote
-„Da, ihr Mönche, als ich so achtsam, eifrig und entschlossen verweilte, stieg in mir ein sinnlicher Gedanke auf. Da erkannte ich also: ‚Da ist dieser sinnliche Gedanke in mir aufgestiegen. Er führt zu eigenem Leid, er führt zu fremdem Leid, er führt zu beiderseitigem Leid; er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna.‘
-
-Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu eigenem Leid‘ ihn so durchschaute, verlor er sich.
-Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu fremdem Leid‘ ihn so durchschaute, verlor er sich.
-Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er führt zu beiderseitigem Leid‘ ihn so durchschaute, verlor er sich.
-Wenn ich, ihr Mönche, bei meiner Überlegung ‚Er behindert die Weisheit, bringt Beschwerlichkeit mit sich und führt weg vom Nibbāna‘ ihn so durchschaute, verlor er sich.“
+„Als ich voller Eifer, Achtsamkeit und Entschlossenheit lebte, stieg ein Gedanke sinnlichen Verlangens in mir auf. Ich erkannte folgendermaßen: ‚Dieser Gedanke sinnlichen Verlangens ist in mir aufgestiegen. Dies führt zu meiner eigenen Beeinträchtigung, zur Beeinträchtigung anderer und zur Beeinträchtigung beider; er versperrt die Einsicht, verursacht Schwierigkeiten und führt weg von Nibbāna.‘ Als ich bedachte: ‚Dies führt zu meiner eigenen Beeinträchtigung‘, legte er sich in mir. Als ich bedachte: ‚Dies führt zur Beeinträchtigung anderer‘, legte er sich in mir. Als ich bedachte: ‚Dies führt zur Beeinträchtigung beider‘, legte er sich in mir. Als ich bedachte: ‚Dies versperrt die Einsicht, verursacht Schwierigkeiten und führt weg von Nibbāna‘, legte er sich in mir.“
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
@@ -146,10 +153,12 @@ to the affliction of both,’ it subsided in me; when i considered: ‘This
 obstructs wisdom, causes difficulties, and leads away from Nibbāna,’ it
 subsided in me.
 #+end_quote
-** TODO MN 152
-*** TODO Deutsch
+** DONE MN 152 (pg. 14)
+CLOSED: [2025-10-19 Sun 12:28]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:28]
 #+begin_quote
-„Und wie, Ānanda, ist einer ein Edler, der die Fähigkeiten entfaltet? Da, Ānanda, steigt in einem Mönch, der mit dem Auge eine Form gesehen hat, Angenehmes auf, es steigt Unangenehmes auf, es steigt Angenehmes-und-Unangenehmes auf. Wenn er es wünscht: ‚Möge ich beim Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Abstoßenden wie auch beim Nicht-Abstoßenden eine Wahrnehmung des Nicht-Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Nicht-Abstoßenden. Wenn er es wünscht: ‚Möge ich beim Nicht-Abstoßenden wie auch beim Abstoßenden eine Wahrnehmung des Abstoßenden pflegen‘, so pflegt er genau dort eine Wahrnehmung des Abstoßenden. Wenn er es wünscht: ‚Möge ich, indem ich sowohl das Abstoßende als auch das Nicht-Abstoßende beiseite lassend, gleichmütig weilen, achtsam und wissensklar‘, so weilt er genau dort gleichmütig, achtsam und wissensklar.“
+… Und wie, Ānanda, ist einer ein Edler, der die Fähigkeiten entfaltet? Da, Ānanda, entsteht in einem Bhikkhu, der mit dem Auge eine Form gesehen hat, was angenehm ist, entsteht was unangenehm ist, entsteht was angenehm und unangenehm ist. Wenn er wünscht: ‚Möge ich im Widerwärtigen das Unwiderwärtige wahrnehmend verweilen‘, so verweilt er dort, das Unwiderwärtige wahrnehmend. Wenn er wünscht: ‚Möge ich im Unwiderwärtigen das Widerwärtige wahrnehmend verweilen‘, so verweilt er dort, das Widerwärtige wahrnehmend. Wenn er wünscht: ‚Möge ich im Widerwärtigen und Unwiderwärtigen das Unwiderwärtige wahrnehmend verweilen‘, so verweilt er dort, das Unwiderwärtige wahrnehmend. Wenn er wünscht: ‚Möge ich im Widerwärtigen und Unwiderwärtigen das Widerwärtige wahrnehmend verweilen‘, so verweilt er dort, das Widerwärtige wahrnehmend. Wenn er wünscht: ‚Möge ich, indem ich sowohl das Widerwärtige als auch das Unwiderwärtige übersteige, gleichmütig, eingedenk und bewusst verweilen‘, so verweilt er dort gleichmütig, eingedenk und bewusst …
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-18 Sat 16:07]
@@ -171,11 +180,13 @@ recollected and aware’, he remains there equanimous, recollected and
 aware …
 #+end_quote
 
-** TODO UD 5.5
-*** TODO Deutsch
+** DONE UD 5.5 (pg. 19)
+CLOSED: [2025-10-19 Sun 12:29]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:29]
 #+begin_quote
-„Gleichwie, ihr Mönche, das große Meer eine stufenlose Neigung hat, ein stufenloses Gefälle, eine stufenlose Vertiefung, und nicht jäh abstürzt, so hat auch diese Lehre und Zucht eine gestufte Übung, eine gestufte Ausführung, eine gestufte Praxis, und die Durchdringung zur höheren Erkenntnis geschieht nicht unvermittelt.“
-#+end_
+Genau so, wie das Meer ein allmähliches Abfallen, ein allmähliches Gefälle, eine allmähliche Neigung hat, mit einem plötzlichen Absturz erst nach einer langen Strecke, so hat auch diese Disziplin des Dhamma ein allmähliches Training, eine allmähliche Ausführung, ein allmähliches Fortschreiten, mit einem Erlangen höheren Wissens erst nach einer langen Strecke.
+#+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:19]
 #+begin_quote
