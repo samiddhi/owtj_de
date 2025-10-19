@@ -5,10 +5,9 @@ The following is a quotation from a sutta, and a reliable, phenomenologically-in
 
 #+OPTIONS: num:nil
 #+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
-* DONE Chapter 1
-CLOSED: [2025-10-19 Sun 12:29]
+* Chapter 1  [4/4]
 ** DONE MN 107 (pg. 9)
-CLOSED: [2025-10-19 Sun 12:18]
+CLOSED: [2025-10-19 Sun 14:50]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:18]
 #+begin_quote
@@ -197,10 +196,9 @@ performance, a gradual progression, with attainment of higher
 knowledge only after a long stretch.
 #+end_quote
 
-* DONE Chapter 2
-CLOSED: [2025-10-19 Sun 12:43]
+* Chapter 2  [4/4]
 ** DONE AN 9.41 (pg. 21)
-CLOSED: [2025-10-19 Sun 12:34]
+CLOSED: [2025-10-19 Sun 14:50]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:34]
 #+begin_quote
@@ -700,8 +698,8 @@ That is what the Buddha said. Satisfied, Venerable Ānanda was
 happy with what the Buddha said.
 #+end_quote
 
-* TODO Chapter 3
-** TODO SN 36.6
+* Chapter 3  [0/1]
+** TODO SN 36.6 (pg. 34) [/]
 *** TODO Deutsch
 #+begin_quote
 
@@ -713,8 +711,8 @@ CLOSED: [2025-10-17 Fri 21:17]
 Being pressured by a painful feeling, he harbours aversion towards it. When he harbours aversion towards painful feeling, the underlying tendency to aversion towards painful feeling lies behind this. Being pressured by painful feeling, he seeks delight in sensual pleasure. For what reason? Because the ordinary person does not know of any escape from painful feeling other than sensual pleasure.
 #+end_quote
 
-* TODO Chapter 4
-** TODO SN 45.8
+* Chapter 4 [0/5]
+** TODO SN 45.8 (pg. 37)
 *** TODO Deutsch
 #+begin_quote
 
@@ -725,7 +723,7 @@ CLOSED: [2025-10-17 Fri 21:16]
 #+begin_quote
 And what, monks, is the right effort? (1) There is the case where a monk generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the non-arising of unskilful qualities that have not yet arisen. (2) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the abandonment of unskilful qualities that have arisen. (3) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the arising of skilful qualities that have not yet arisen. (4) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the maintenance, non-confusion, increase, abundance, fulfilment, and development of skilful qualities that have arisen: This is called right effort.
 #+end_quote
-** TODO SN 51.15
+** TODO SN 51.15 (pg. 38)
 *** TODO Deutsch
 #+begin_quote
 
@@ -778,7 +776,7 @@ What do you think, brahmin, such being the case, is the situation never-ending o
 ‘Surely, Master Ānanda, such being the case, the situation has an end, and is not never ending. Magnificent, Master Ānanda! … from today let Master Ānanda remember me as a lay follower taken refuge for life.’
 #+end_quote
 
-** TODO MN 13
+** TODO MN 13 (pg. 40)
 *** TODO Deutsch
 #+begin_quote
 
@@ -795,7 +793,7 @@ CLOSED: [2025-10-17 Fri 21:16]
 Any contemplatives who do not discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they themselves would understand sensuality; or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is impossible. But any contemplatives who discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they would themselves understand sensuality or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is possible. 
 #+end_quote
 
-** TODO AN 4.159
+** TODO AN 4.159 (pg. 41)
 *** TODO Deutsch
 #+begin_quote
 
@@ -822,7 +820,7 @@ CLOSED: [2025-10-17 Fri 21:16]
 “This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.”’
 #+end_quote
 
-** TODO AN 10.61
+** TODO AN 10.61 (pg. 44)
 *** TODO Deutsch
 #+begin_quote
 
@@ -855,104 +853,507 @@ Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutr
 #+end_quote
 
 
-* Chapter 5
-** SUTTA
-*** Deutsch
+* Chapter 5 [0/2]
+** TODO MN 36 (pg. 45)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-19 Sun 15:00]
+#+begin_quote
+Thus have I heard. On one occasion the Blessed One was living at
+Vesālī in the Great Wood in the hall with the Peaked Roof.
+Now on that occasion, when it was morning, the Blessed One had
+finished dressing and had taken his bowl and outer robe, desiring to go
+into Vesālī for alms.
+Then, as Saccaka the Nigaṇṭha’s son was walking and wandering for
+exercise, he came to the Hall with the Peaked Roof in the Great Wood.
+The venerable Ānanda saw him coming in the distance and said to the
+Blessed One: ‘Venerable sir, here comes Saccaka the Nigaṇṭha’s son,
+a debater and a clever speaker regarded by many as a saint. He wants
+to discredit the Buddha, the Dhamma, and the Sangha. It would be
+good if the Blessed One would sit down for a while out of compassion.’
+The Blessed One sat down on the seat made ready. Then Saccaka the
+Nigaṇṭha’s son went up to the Blessed One and exchanged greetings
+with him. When this courteous talk was finished, he sat down at one
+side and said to the Blessed One:
+‘Master Gotama, there are some contemplatives who live pursuing
+development of body, but not development of mind. They are touched
+by bodily painful feeling. In the past, when one was touched by bodily
+painful feeling, one’s thighs would become rigid, one’s heart would
+burst, hot blood would gush from one’s mouth, and one would go mad,
+go out of one’s mind. So then the mind was subservient to the body,
+the body wielded mastery over it. Why is that? Because the mind was
+not developed.
+But there are some contemplatives who live pursuing development of
+mind, but not development of body. They are touched by mental painful
+feeling. In the past, when one was touched by mental painful feeling,
+one’s thighs would become rigid, one’s heart would burst, hot blood
+would gush from one’s mouth, and one would go mad, go out of one’s
+mind. So then the body was subservient to the mind, the mind wielded
+mastery over it. Why is that? Because the body was not developed.
+Master Gotama, it has occurred to me: “Surely Master Gotama’s
+disciples abide pursuing development of mind, but not development of
+body.”’
+‘But, Aggivessana, what have you learned about development of
+body?’
+‘Well, there are other monastics who go naked, rejecting
+conventions, licking their hands, not coming when asked, not stopping
+when asked; they do not accept food brought or food specially made or
+an invitation to a meal; they receive nothing from a pot, from a bowl,
+across a threshold, across a stick, across a pestle, from two eating
+together, from a pregnant woman, from a woman breastfeeding,
+from a woman in the midst of men, from where food is advertised
+to be distributed, from where a dog is waiting, from where flies are
+buzzing; they accept no fish or meat, they drink no liquor, wine, or
+fermented brew. They keep to one house, to one morsel; they keep
+to two houses, to two morsels … they keep to seven houses, to seven
+morsels. They live on one saucerful a day, on two saucerfuls a day … on
+seven saucerfuls a day. They take food once a day, once every two days
+… once every seven days; thus even up to once every fortnight, they
+dwell pursuing the practice of taking food at stated intervals.’
+‘But do they subsist on so little, Aggivessana?’
+‘No, Master Gotama, sometimes they consume excellent food, taste
+excellent delicacies, drink excellent drinks. Thereby they regain their
+strength, fortify themselves, and become fat.’
+‘What they earlier abandoned, Aggivessana, they later gather
+together again. That is how there is increase and decrease of this body.
+But what have you learned about development of mind?’
+When Saccaka the Nigaṇṭha’s son was asked by the Blessed One
+about development of mind, he was unable to answer.
+Then the Blessed One told him: ‘What you have just spoken of
+as development of body, Aggivessana, is not development of body
+according to the Dhamma in the Noble One’s Discipline. Since you do
+not know what development of body is, how could you know what
+development of mind is? Nevertheless, Aggivessana, as to how one is
+undeveloped in body and undeveloped in mind, and developed in body
+and developed in mind, listen and attend closely to what i shall say.’
+–
+‘Yes, sir,’ Saccaka replied. The Blessed One said this:
+‘How, Aggivessana, is one undeveloped in body and undeveloped
+in mind? here, Aggivessana, pleasant feeling arises in an ordinary
+person. Touched by that pleasant feeling, he lusts after pleasure and
+continues to lust after pleasure. That pleasant feeling of his ends. With
+the ending of the pleasant feeling, painful feeling arises. Touched by
+that painful feeling, he sorrows, grieves, and laments, he weeps and
+becomes distraught. When that pleasant feeling has arisen in him,
+it invades his mind and remains because body is not developed. And
+when that painful feeling has arisen in him, it invades his mind and
+remains because mind is not developed. Anyone in whom, in this
+double manner, arisen pleasant feeling invades his mind and remains
+because body is not developed, and arisen painful feeling invades his
+mind and remains because mind is not developed, is thus undeveloped
+in body and undeveloped in mind.
+
+**DEVELOPED IN BODY AND DEVELOPED IN MIND**
+
+And how, Aggivessana, is one developed in body and developed in
+mind? here, Aggivessana, pleasant feeling arises in a noble disciple.
+Touched by that pleasant feeling, he does not lust after pleasure or
+continue to lust after pleasure. That pleasant feeling of his ends. With
+the ending of the pleasant feeling, painful feeling arises. Touched by
+that painful feeling, he does not sorrow, grieve, and lament, he does
+not weep and become distraught. When that pleasant feeling has
+arisen in him, it does not invade his mind and remain because body
+is developed. And when that painful feeling has arisen in him, it does
+not invade his mind and remain because mind is developed. Anyone
+in whom, in this double manner, arisen pleasant feeling does not
+invade his mind and remain because body is developed, and arisen
+painful feeling does not invade his mind and remain because mind is
+developed, is thus developed in body and developed in mind.’
+‘i have confidence in Master Gotama thus: “Master Gotama is
+developed in body and developed in mind.”’
+‘Surely, Aggivessana, your words are rude and discourteous, but
+still I will answer you. Since I shaved off my hair and beard, put on
+the robe, and went forth from the home life into homelessness, it has
+not been possible for arisen pleasant feeling to invade my mind and
+remain or for arisen painful feeling to invade my mind and remain.’
+‘Has there never arisen in Master Gotama a feeling so pleasant that
+it could invade his mind and remain? has there never arisen in Master
+Gotama a feeling so painful that it could invade his mind and remain?’
+‘Why not, Aggivessana? here, Aggivessana, before my awakening,
+while I was still only an unawakened Bodhisatta, I thought:
+“Household life is crowded and dusty; life gone forth is wide open. It is
+not easy, while living in a home, to lead the holy life perfect and pure
+as a polished shell. Suppose I shave off my hair and beard, put on the
+robe, and go forth from the home life into homelessness.”
+
+**Simile of the wet sticks**
+
+1. ‘Now these three similes occurred to me spontaneously. Suppose
+there were a wet sappy piece of wood lying in water, and a man came
+with an upper fire-stick, thinking:
+“i shall light a fire, i shall produce
+heat.” What do you think, Aggivessana? Could the man light a fire and
+produce heat by taking the upper fire-stick and rubbing it against the
+wet sappy piece of wood lying in the water?’
+‘No, Master Gotama. Why not? Because it is a wet sappy piece of
+wood, and it is lying in water. Eventually the man would reap only
+weariness and disappointment.’
+‘So too, Aggivessana, as to those contemplatives who still do not live
+bodily withdrawn from sensual pleasures, and whose sensual desire,
+affection, infatuation, thirst, and fever for sensual pleasures has not
+been fully abandoned internally, even if those good contemplatives
+feel painful, piercing feelings due to striving, they are incapable
+of knowledge and vision and supreme enlightenment; and even if
+those good contemplatives do not feel painful, piercing feelings
+due to striving, they are incapable of knowledge and vision and
+supreme enlightenment. This was the first simile that occurred to me
+spontaneously.
+2. Again, Aggivessana, a second simile occurred to me
+spontaneously. Suppose there were a wet sappy piece of wood lying
+on dry land far from water, and a man came with an upper fire-stick,
+thinking:
+“i shall light a fire, i shall produce heat.” What do you think,
+Aggivessana? Could the man light a fire and produce heat by taking
+the upper fire-stick and rubbing it against the wet sappy piece of wood
+lying on dry land far from water?’
+‘No, Master Gotama. Why not? Because it is a wet sappy piece of wood, even though it is lying on dry land far from water. Eventually
+the man would reap only weariness and disappointment.’
+‘So too, Aggivessana, as to those contemplatives who live bodily
+withdrawn from sensual pleasures, but whose sensual desire,
+affection, infatuation, thirst, and fever for sensual pleasures has not
+been fully abandoned internally, even if those good contemplatives
+feel painful, piercing feelings due to striving, they are incapable of
+knowledge and vision and supreme enlightenment; and even if those
+good contemplatives do not feel painful, piercing feelings due to
+striving, they are incapable of knowledge and vision and supreme
+enlightenment. This was the second simile that occurred to me
+spontaneously.
+3. Again, Aggivessana, a third simile occurred to me spontaneously.
+Suppose there were a dry sapless piece of wood lying on dry land far
+from water, and a man came with an upper fire-stick, thinking:
+“i shall
+light a fire, i shall produce heat.” What do you think, Aggivessana?
+Could the man light a fire and produce heat by rubbing it against the
+dry sapless piece of wood lying on dry land far from water?‘
+‘Yes, Master Gotama. Why so? Because it is a dry sapless piece of
+wood, and it is lying on dry land far from water.’
+‘So too, Aggivessana, as to those contemplatives who live bodily
+withdrawn from sensual pleasures, and whose sensual desire,
+affection, infatuation, thirst, and fever for sensual pleasures has
+been fully abandoned and suppressed internally, even if those good
+contemplatives feel painful, piercing feelings due to striving, they
+are capable of knowledge and vision and supreme enlightenment;
+and even if those good contemplatives do not feel painful, piercing
+feelings due to striving, they are capable of knowledge and vision and
+supreme enlightenment. This was the third simile that occurred to
+me spontaneously. These are the three similes that occurred to me
+spontaneously, never heard before.
+
+**Description of extreme ascetic practices**
+
+I thought: “Suppose, with my teeth clenched and my tongue pressed
+against the roof of my mouth, I beat down, constrain, and crush
+mind with mind.” So, with my teeth clenched and my tongue pressed
+against the roof of my mouth, I beat down, constrained, and crushed
+mind with mind. While I did so, sweat ran from my armpits. Just as a strong man might seize a weaker man by the head or shoulders and
+beat him down, constrain him, and crush him, so too, with my teeth
+clenched and my tongue pressed against the roof of my mouth, I
+beat down, constrained, and crushed mind with mind, and sweat ran
+from my armpits. But although tireless energy was aroused in me and
+persistent mindfulness was established, my body was not calm because
+I was exhausted by the painful striving. But such painful feeling that
+arose in me did not invade my mind and remain.
+I thought: “Suppose I practise the breathless meditation.” So I
+stopped the in-breaths and out-breaths through my mouth and nose.
+While I did so, there was a loud sound of winds coming out from my
+earholes. Just as there is a loud sound when a smith’s bellows are blown,
+violent winds cut through my head. … Just as if a strong man were to
+crush my head with the tip of a sharp sword, … there were violent pains
+in my head. Just as if a strong man were tightening a tough leather strap
+around my head as a headband, … violent winds carved up my belly. Just
+as if a skilled butcher or his apprentice were to carve up an ox’s belly
+with a sharp butcher’s knife, … there was a violent burning in my body.
+Just as if two strong men were to seize a weaker man by both arms and
+roast him over a pit of hot coals, so too, while I stopped the in-breaths
+and out-breaths through my mouth, nose, and ears, there was a violent
+burning in my body. But although tireless energy was aroused in me and
+persistent mindfulness was established, my body was not calm because
+I was exhausted by the painful striving. But such painful feeling that
+arose in me did not invade my mind and remain.
+Now when deities saw me, some said: “The recluse Gotama is dead.”
+Other deities said: “The recluse Gotama is not dead, he is dying.” And
+other deities said: “The recluse Gotama is not dead nor dying; he is an
+arahant, for such is the way arahants live.”
+I thought: “Suppose I practise entirely cutting off food.” Then
+deities came to me and said: “Good sir, do not practise entirely cutting
+off food. If you do so, we shall infuse heavenly food into the pores
+of your skin and you will live on that.” I considered: “If I claim to be
+completely fasting while these deities infuse heavenly food into the
+pores of my skin and I live on that, then I shall be lying.” So I dismissed
+those deities, saying: “There is no need.”
+I thought: “Suppose I take very little food, a handful each time,
+whether of bean soup or lentil soup or vetch soup or pea soup.” SoI took very little food, a handful each time. While I did so, my body
+reached a state of extreme emaciation. Because of eating so little my
+limbs became like the jointed segments of bamboo stems. Because of
+eating so little my backside became like a camel’s hoof. Because of
+eating so little the projections on my spine stood forth like corded
+beads. Because of eating so little my ribs jutted out as gaunt as the
+crazy rafters of an old roofless barn. Because of eating so little the
+gleam of my eyes sank far down in their sockets, looking like the
+gleam of water that has sunk far down in a deep well. Because of
+eating so little my scalp shrivelled and withered as a green bitter
+gourd shrivels and withers in the wind and sun. Because of eating
+so little my belly skin adhered to my backbone; thus if I touched my
+belly skin I encountered my backbone and if I touched my backbone
+I encountered my belly skin. Because of eating so little, if I defecated
+or urinated, I fell over on my face there. Because of eating so little, if
+I tried to ease my body by rubbing my limbs with my hands, the hair,
+rotted at its roots, fell from my body as I rubbed.
+Now when people saw me, some said: “The contemplative Gotama
+is black.” Other people said: “The contemplative Gotama is not black,
+he is brown.” Other people said: “The contemplative Gotama is neither
+black nor brown, he is golden-skinned.” So much had the clear, bright
+colour of my skin deteriorated through eating so little.
+I thought: “Whatever contemplatives in the past have experienced
+painful, piercing feelings due to striving, this is the utmost, there
+is none beyond this. And whatever contemplatives in the future
+will experience painful, piercing feelings due to striving, this is the
+utmost, there is none beyond this. And whatever contemplatives at
+present experience painful, piercing feelings due to striving, this is
+the utmost, there is none beyond this. But by this painful practice of
+austerities I have not attained any superhuman states, any distinction
+in knowledge and vision worthy of the noble ones. Could there be
+another path to enlightenment?”
+
+**RECOlleCTION Of fiRST JHĀNA**
+
+I considered: “I recall that when my father was occupied, while I
+was sitting in the cool shade of a rose-apple tree, withdrawn from
+sensual pleasures, withdrawn from unwholesome states, I entered
+upon the first comprehension, which is accompanied by thinking and pondering, with joy and pleasure born of withdrawal. Could that
+be the path to awakening?” Then, following that memory, came the
+realisation: “That is indeed the path to awakening.”
+I thought: “Why am I afraid of that pleasure that has nothing to
+do with sensual pleasures and unwholesome states?” i thought:
+“i
+am not afraid of that pleasure since it has nothing to do with sensual
+pleasures and unwholesome states.”
+I considered: “It is not easy to attain that pleasure with a body
+so emaciated. Suppose I ate some solid food, some boiled rice and
+porridge.” And I ate some solid food, some boiled rice and porridge.
+Now at that time five monks were waiting upon me, thinking:
+“If the
+contemplative Gotama achieves some higher state, he will inform
+us.” But when i ate the boiled rice and porridge, the five monks were
+disgusted and left me, thinking: “The contemplative Gotama now lives
+luxuriously; he has given up his striving and reverted to luxury.”
+Now when I had eaten solid food and regained my strength, then
+withdrawn from sensual pleasures, withdrawn from unwholesome
+states, i entered upon and abided in the first comprehension, which
+is accompanied by thinking and pondering, with joy and pleasure
+born of withdrawal. But such pleasant feeling that arose in me did not
+invade my mind and remain.
+With the stilling of thinking and pondering, I entered upon the
+second comprehension … With the fading away as well of joy … I
+entered upon the third comprehension … With the abandoning of
+pleasure and pain … I entered upon the fourth comprehension … But
+such pleasant feeling that arose in me did not invade my mind and
+remain.
+When my composed mind was thus purified, bright, unblemished,
+rid of imperfection, malleable, wieldy, steady, and attained to
+imperturbability, I directed it to knowledge and recollection of past
+lives. I recollected my manifold past lives, that is, one birth, two births
+… (as in MN 4) … Thus with their aspects and particulars I recollected
+my manifold past lives.
+This was the first true knowledge attained by me in the first watch
+of the night. Ignorance was banished and true knowledge arose,
+darkness was banished and light arose, as happens in one who lives
+diligent, ardent, and resolute. But such pleasant feeling that arose in
+me did not invade my mind and remain.
+When my composed mind was thus purified, bright, unblemished,
+rid of imperfection, malleable, wieldy, steady, and attained to
+imperturbability, I directed it to knowledge of the passing away and
+reappearance of beings … (as in MN 4) … Thus with the divine eye,
+which is purified and surpasses the human, i saw beings passing away
+and reappearing, inferior and superior, fair and ugly, fortunate and
+unfortunate, and I understood how beings pass on according to their
+actions.
+This was the second true knowledge attained by me in the middle
+watch of the night. Ignorance was banished and true knowledge arose,
+darkness was banished and light arose, as happens in one who lives
+diligent, ardent, and resolute. But such pleasant feeling that arose in
+me did not invade my mind and remain.
+When my composed mind was thus purified, bright, unblemished,
+rid of imperfection, malleable, wieldy, steady, and attained to
+imperturbability, I directed it to knowledge of the destruction of the
+taints. I directly knew: “This is suffering”; … “This is the origin of
+suffering”; … “This is the cessation of suffering”; … “This is the way
+leading to the cessation of suffering”; … “These are the taints”; … “This
+is the origin of the taints”; … “This is the cessation of the taints”; …
+“This is the way leading to the cessation of the taints.”
+When I knew and saw thus, my mind was liberated from the
+taint of sensual desire, from the taint of being, and from the taint of
+ignorance. When it was liberated there came the knowledge: “It is
+liberated.” I directly knew: “Birth is destroyed, the holy life has been
+lived, what had to be done has been done, there is no more coming to
+any state of being.”
+This was the third true knowledge attained by me in the last watch
+of the night. Ignorance was banished and true knowledge arose,
+darkness was banished and light arose, as happens in one who livess
+diligent, ardent, and resolute. But such pleasant feeling that arose in
+me did not invade my mind and remain.
+
+**TEACHING DHAMMA**
+
+Aggivessana, I recall teaching the Dhamma to an assembly of
+many hundreds, and even then each person thinks of me: “The
+contemplative Gotama is teaching the Dhamma especially for me.”
+But it should not be so regarded; the Tathāgata teaches the Dhamma
+to others only to give them knowledge. When the talk is finished,
+Aggivessana, then I steady my mind internally, calm it, elevate and
+compose it on that same sign of composure as before, in which I
+constantly live.’
+
+**QUESTIONED ABOUT LIVING IN DELUSION**
+
+‘This is a matter about which Master Gotama can be trusted, as an
+accomplished and fully awakened one should be. But does Master
+Gotama recall sleeping during the day?’
+‘I recall, Aggivessana, in the last month of the hot season, on
+returning from my alms round, after my meal I lay out my outer
+robe folded in four, and lying down on my right side, I fall asleep
+recollected and aware.’
+‘Some contemplatives call that living in delusion, Master Gotama.’
+‘It is not in such a way that one is deluded or undeluded,
+Aggivessana. As to how one is deluded or undeluded, listen and attend
+closely to what I shall say.’—‘Yes, sir,’ Saccaka replied. The Blessed One
+said this:
+‘Him I call deluded, Aggivessana, who has not abandoned the taints
+that defile, which perpetuate being, give trouble, ripen in suffering,
+and lead to future birth, ageing, and death; for it is with the non-
+abandoning of the taints that one is deluded. Him I call undeluded who
+has abandoned the taints that defile, which perpetuate being, give
+trouble, ripen in suffering, and lead to future birth, ageing, and death;
+for it is with the abandoning of the taints that one is undeluded. The
+Tathāgata, Aggivessana, has abandoned the taints that defile, which
+perpetuate being, give trouble, ripen in suffering, and lead to future
+birth, ageing, and death; he has cut them off at the root, made them
+like a palm stump, done away with them so that they are no longer
+subject to future arising.’
+When this was said, Saccaka said: ‘It is wonderful, Master Gotama, it
+is marvellous how when Master Gotama is spoken to offensively again
+and again, assailed by discourteous courses of speech, the colour of his
+skin brightens and the colour of his face clears, as is to be expected of
+one who is accomplished and fully awakened. I recall, Master Gotama,
+engaging Pūraṇa Kassapa in debate, engaging Makkhali Gosāla … Ajita
+Kesakambalin … Pakudha Kaccāyana … Sañjaya Belaṭṭhiputta … the
+Nigaṇṭha Nātaputta in debate, they prevaricated, led the talk aside,
+and showed anger, hate, and bitterness. But when Master Gotama
+is spoken to offensively again and again, assailed by discourteous
+courses of speech, the colour of his skin brightens and the colour of his
+face clears, as is to be expected of one who is accomplished and fully
+awakened. And now, Master Gotama, I must depart. I am busy and
+have much to do.’
+‘Now is the time, Aggivessana, to do as you think fit.’
+Then Saccaka the Nigaṇṭha’s son, having delighted and rejoiced in
+the Blessed One’s words, got up from his seat and departed.
+#+end_quote
+
+** TODO MN 107 (pg. 57)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-** SUTTA
-*** Deutsch
+*** DONE OWTJ
+CLOSED: [2025-10-19 Sun 15:00]
+#+begin_quote
+… When he had spoken, Moggallāna the Accountant said to the Buddha: ‘When your disciples are instructed and advised like this, do all of them achieve the ultimate goal, Nibbāna, or do some of them fail?’
+‘Some succeed, while others fail.’
+‘What is the cause, Master Gotama, what is the reason why, though Nibbāna is present, the path leading to Nibbāna is present, and Master Gotama is present to encourage them, still some succeed while others fail?’
+‘Well then, brahmin, I’ll ask you about this in return, and you can answer as you like. What do you think? Are you skilled in the road to Rājagaha?’
+‘Yes, I am.’
+‘What do you think, brahmin? Suppose a person were to come along who wanted to go to Rājagaha. He’d approach you and say: “Sir, I wish to go to Rājagaha. Please point out the road to Rājagaha.” Then you’d say to him: “This road goes to Rājagaha. Go along it for a while, and you’ll see a certain village. Go along a while further, and you’ll see a certain town. Go along a while further and you’ll see Rājagaha with its delightful parks, woods, meadows, and lotus ponds.” Instructed like this by you, he might still take the wrong road, heading west. But a second person might come with the same question and receive the same instructions. Instructed by you, he might safely arrive at Rājagaha. What is the cause, what is the reason why, though Rājagaha is present, the path leading to Rājagaha is present, and you are there to encourage him, one person takes the wrong path and heads west, while another arrives safely at Rājagaha?’
+‘What can I do about that, Master Gotama? I am the one who shows the way.’
+‘In the same way, though Nibbāna is present, the path leading to Nibbāna is present, and I am present to encourage them, still some of my disciples, instructed and advised like this, achieve the ultimate goal, Nibbāna, while some of them fail. What can I do about that, brahmin? The Tathāgata is the one who shows the way.’
+#+end_quote
+
+* Chapter 6 [0/5]
+** TODO MN 75 (pg. 62)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-19 Sun 15:01]
+#+begin_quote
+Māgandiya, the eye delights in forms, takes delight in forms, rejoices in forms; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint.
+The ear delights in sounds … The nose delights in odours … The tongue delights in flavours … The body delights in touches … The mind delights in ideas, takes delight in ideas, rejoices in ideas; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint.
+#+end_quote
+
+** TODO SN 35.56 (pg. 64)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-** SUTTA
-*** Deutsch
+*** DONE OWTJ
+CLOSED: [2025-10-19 Sun 15:03]
+#+begin_quote
+Venerable sir, how should one know, how should one see, for the taints to be abandoned? … for the taints to be uprooted? … for the underlying tendencies to be abandoned? … for the underlying tendencies to be uprooted?
+Bhikkhu, when one knows and sees the eye as not-self, the underlying tendencies are uprooted. When one knows and sees forms as not-self … When one knows and sees like this, the underlying tendencies are uprooted.
+#+end_quote
+
+** TODO SN 35.243 (pg. 65)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-19 Sun 15:03]
+#+begin_quote
+And how, friends, is one uncorrupted? Here, having seen a form with the eye, a bhikkhu is not intent upon a pleasing form and not repelled by a displeasing form. He lives having set up recollection of the body, with a measureless mind, and he understands that liberation of mind, liberation by wisdom, wherein those unwholesome states end without remainder. Having heard a sound with the ear … Having cognized a mental phenomenon with the mind, he is not intent upon a pleasing mental phenomenon and not repelled by a displeasing mental phenomenon. He lives having set up recollection of the body, with a measureless mind, and he understands that liberation of mind, liberation by wisdom, wherein those unwholesome states end without remainder.
+This is called a bhikkhu who is uncorrupted amidst forms cognizable by the eye, uncorrupted amidst sounds cognizable by the ear, uncorrupted amidst odours cognizable by the nose, uncorrupted amidst tastes cognizable by the tongue, uncorrupted amidst tactile objects cognizable by the body, uncorrupted amidst mental phenomena cognizable by the mind. When a bhikkhu lives like this, if Mara approaches him through any of the sense bases, Mara fails to gain access to him, Mara fails to get a hold on him.
+When a bhikkhu dwells thus, he overwhelms forms; forms do not overwhelm him. He overwhelms sounds; sounds do not overwhelm him. He overwhelms odours; odours do not overwhelm him. He overwhelms tastes; tastes do not overwhelm him. He overwhelms tactile objects; tactile objects do not overwhelm him. He overwhelms mental phenomena; mental phenomena do not overwhelm him. This is called a bhikkhu who overwhelms forms, who overwhelms sounds, who overwhelms odours, who overwhelms tastes, who overwhelms tactile objects, who overwhelms mental phenomena—one who overwhelms and who is not overwhelmed. He has overwhelmed those unwholesome states that defile, that lead to future being, that bring trouble, that result in suffering, and that lead to future birth, ageing, and death. It is in this way that one is uncorrupted. 
+#+end_quote
+
+** TODO SN 8.4 (pg. 65)
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-** SUTTA
-*** Deutsch
+*** TODO OWTJ
+#+begin_quote
+‘I’ve got a burning desire for pleasure,
+my mind is on fire!
+Please, out of compassion, Gotama,
+tell me how to quench the flames?’
+
+‘Your mind is on fire
+because of a perversion of perception.
+Turn away from the feature of things that’s attractive,
+provoking lust.
+
+See all underlying activations as other and foreign,
+as suffering and not-self.
+Extinguish the great fire of lust,
+don’t burn up again and again.
+
+With a mind elevated and calm,
+reflect on the unattractive aspects of the body.
+With recollection of the body,
+be full of disenchantment.
+
+Cultivate the signlessness,
+give up the underlying tendency to conceit
+and when you comprehend conceit,
+you will live at peace.’
+#+end_quote
+
+** TODO SUTTA (pg. )
+*** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-
-
-** SUTTA
-*** Deutsch
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Deutsch
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Deutsch
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Deutsch
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
-#+begin_quote
-
-#+end_quote
-
-** SUTTA
-*** Deutsch
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
+*** TODO OWTJ
 #+begin_quote
 
 #+end_quote
