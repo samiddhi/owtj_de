@@ -197,11 +197,20 @@ performance, a gradual progression, with attainment of higher
 knowledge only after a long stretch.
 #+end_quote
 
-* TODO Chapter 2
-** TODO AN 9.41
-*** TODO Deutsch
+* DONE Chapter 2
+CLOSED: [2025-10-19 Sun 12:43]
+** DONE AN 9.41 (pg. 21)
+CLOSED: [2025-10-19 Sun 12:34]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:34]
 #+begin_quote
+Da begab sich der ehrwürdige Ānanda zusammen mit dem Haushälter Tapussa dorthin, wo der Erhabene weilte. Dort angelangt, brachte er ihm ehrerbietige Huldigung dar und setzte sich seitwärts nieder. Während er so dasaß, sprach er zum Erhabenen: „Der Haushälter Tapussa hier hat zu mir gesagt: ‚Ehrwürdiger Ānanda, Herr, wir sind Haushälter, die in Sinnlichkeit schwelgen, an Sinnlichkeit Gefallen finden, Sinnlichkeit genießen, in Sinnlichkeit frohlocken. Für uns – in Sinnlichkeit schwelgend, an Sinnlichkeit Gefallen findend, Sinnlichkeit genießend, in Sinnlichkeit frohlockend – da erscheint Entsagung wie ein reiner Abgrund. Doch ich habe gehört, dass in dieser Lehre und Disziplin die Herzen junger Mönche bei der Entsagung aufspringen, Zuversicht gewinnen, standhaft und fest werden, da sie sie als Frieden erkennen. Das genau ist also der Punkt, wo diese Lehre und Disziplin der großen Masse der Menschen entgegengesetzt ist: nämlich die Entsagung.‘“
 
+„So ist es, Ānanda. So ist es.
+Selbst ich selbst, vor meinem Erwachen, als ich noch unerwacht, aber auf das Erwachen ausgerichtet war, dachte: ‚Entsagung ist gut. Abgeschiedenheit ist gut.‘ Aber mein Herz sprang nicht auf bei der Entsagung, gewann keine Zuversicht, wurde nicht standhaft und fest, indem es sie als Frieden erkannte. Da kam mir der Gedanke: ‚Was ist die Ursache, was ist der Grund, warum mein Herz nicht bei der Entsagung aufspringt, keine Zuversicht gewinnt, nicht standhaft und fest wird, indem es sie als Frieden erkennt?‘ Da kam mir der Gedanke:
+‚Ich habe die Gefahr der sinnlichen Genüsse nicht gesehen; ich bin ihr nicht nachgegangen. Ich habe den Lohn der Entsagung nicht verstanden; ich habe ihn nicht entfaltet. Darum springt mein Herz nicht bei der Entsagung auf, gewinnt keine Zuversicht, wird nicht standhaft und fest, indem es sie als Frieden erkennt.‘
+Da kam mir der Gedanke: ‚Wenn ich, nachdem ich die Gefahr der sinnlichen Genüsse gesehen habe, dieser nachginge; und wenn ich, nachdem ich den Lohn der Entsagung verstanden habe, ihn entfalten würde, dann bestünde die Möglichkeit, dass mein Herz bei der Entsagung aufspränge, Zuversicht gewänne, standhaft und fest würde, indem es sie als Frieden erkennt.‘ So ging ich denn zu einer späteren Zeit, nachdem ich die Gefahr der sinnlichen Genüsse gesehen hatte, dieser Sache nach; nachdem ich den Lohn der Entsagung verstanden hatte, eignete ich mir ihn an. Mein Herz sprang bei der Entsagung auf, gewann Zuversicht, wurde standhaft und fest, indem es sie als Frieden erkannte.
+Dann, zurückgezogen von sinnlichen Begierden, zurückgezogen von unheilsamen Geisteszuständen, trat ich in die erste Verstehensstufe ein und verweilte in ihr: von der Zurückgezogenheit geborenem Vergnügen und Glück, begleitet von denken und erwägen.
 #+end_quote
 
 *** DONE OWTJ
@@ -245,10 +254,12 @@ unwholesome states, i entered and remained in the first
 comprehension: pleasure and happiness born from withdrawal, with
 thinking and pondering.’
 #+end_quote
-** TODO Vin. Kd 16
-*** TODO Deutsch
+** DONE Vin. Kd 16 (pg. 23)
+CLOSED: [2025-10-19 Sun 12:36]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:36]
 #+begin_quote
-
+Daraufhin hielt der Herr einen fortschreitenden Vortrag für den Haushälter Anāthapiṇḍika, nämlich einen Vortrag über Geben, einen Vortrag über moralische Gewohnheit, einen Vortrag über den Himmel; er erläuterte die Gefahr, die Nichtigkeit, die Verderbtheit der Sinnesfreuden, den Vorteil ihres Aufgebens. Als der Herr wusste, dass der Geist des Haushälters Anāthapiṇḍika bereit, formbar, frei von Hindernissen, erhoben und erfreut war, da erläuterte er ihm jene Lehre des Dhamma, die die Erwachten selbst entdeckt haben: das Leid, den Ursprung, die Aufhebung und den zur Aufhebung des Leidens führenden Weg. Und wie ein sauberes Tuch ohne schwarze Flecken leicht Farbe annimmt, so entstand auch in ihm, während er auf ebendiesem Sitz saß, die Dhamma-Schau, staubfrei, fleckenlos, dem Haushälter Anāthapiṇḍika: ‚Was auch immer sich manifestiert, all das muss aufhören.‘ Daraufhin hatte der Haushälter Anāthapiṇḍika, nachdem er das Dhamma geschaut, das Dhamma erreicht, das Dhamma gefunden, war er in das Dhamma eingetaucht, hatte er den Zweifel überwunden, die Ungewissheit beiseitegelegt, war er in der Unterweisung des Lehrers unabhängig von anderen geworden.
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
@@ -271,10 +282,26 @@ over doubt, having put away uncertainty, having become independent
 of others in the Teacher’s instruction.
 #+end_quote
 
-** TODO MN 125
-*** TODO Deutsch
+** DONE MN 125 (pg. 24)
+CLOSED: [2025-10-19 Sun 12:38]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:38]
 #+begin_quote
+… Aggivessana, es ist, als ob da ein großer Berg wäre und zwei Gefährten zu diesem Berg gehen würden. Bei ihrer Ankunft würde einer der Gefährten am Fuß des Berges bleiben und einer würde auf die Spitze klettern. Der Gefährte, der am Fuß des Berges bliebe, würde den Gefährten, der auf der Spitze steht, fragen: ‚Was siehst du, mein Freund, während du auf der Spitze des Berges stehst?‘
 
+Er würde sagen: ‚Ich sehe entzückende Parks, entzückende Wälder, entzückende Landstriche und entzückende Seen.‘
+
+Der andere würde sagen: ‚Es ist unmöglich, mein Freund. Es kann nicht sein, dass du, während du auf der Spitze des Berges stehst, entzückende Parks, entzückende Wälder, entzückende Landstriche und entzückende Seen sehen würdest.‘
+
+Dann würde der Gefährte, der auf der Spitze steht, zum Fuß des Berges hinabsteigen, seinen Gefährten am Arm packen und ihn dazu bringen, hinaufzuklettern. Nachdem er ihm einen Moment lang Zeit gelassen hat, seinen Atem zu beruhigen, würde er ihn fragen: ‚Was siehst du, mein Freund, während du auf der Spitze des Berges stehst?‘
+
+Er würde sagen: ‚Ich sehe entzückende Parks, entzückende Wälder, entzückende Landstriche und entzückende Seen.‘
+
+Der andere würde sagen: ‚Aber hast du nicht gerade erst gesagt: "Es ist unmöglich, mein Freund. Es kann nicht sein, dass du, während du auf der Spitze des Berges stehst, entzückende Parks, entzückende Wälder, entzückende Landstriche und entzückende Seen sehen würdest"? Doch jetzt verstehe ich, dass du sagst: "Ich sehe entzückende Parks, entzückende Wälder, entzückende Landstriche und entzückende Seen."‘
+
+Der andere würde sagen: ‚Aber das lag daran, dass ich, blockiert von diesem großen Berg, stand und nichts sah.‘
+
+Genauso, Aggivessana, ist Prinz Jayasena blockiert, behindert, gehemmt und eingehüllt von der noch größeren Masse der Unwissenheit. Für ihn, der in Sinnlichkeit lebt, Sinnlichkeit genießt, von Gedanken an Sinnlichkeit verzehrt wird, mit dem Fieber der Sinnlichkeit brennt, auf die Suche nach Sinnlichkeit erpicht ist, ist es unmöglich, das zu wissen oder zu sehen oder zu verwirklichen, was durch Entsagung zu wissen, durch Entsagung zu sehen, durch Entsagung zu erlangen, durch Entsagung zu verwirklichen ist. …
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
@@ -316,10 +343,133 @@ renunciation, attained through renunciation, realized through
 renunciation: That is impossible. …
 #+end_quote
 
-** TODO MN 81
-*** TODO Deutsch
+** DONE MN 81 (pg. 26)
+CLOSED: [2025-10-19 Sun 12:43]
+*** DONE Deutsch
+CLOSED: [2025-10-19 Sun 12:43]
 #+begin_quote
+Einmal, Ānanda, gab es an dieser Stelle eine Marktstadt namens Vebhaliṅga. Sie war wohlhabend und voller Menschen. Und Kassapa, ein Gesegneter, ein Vollendeter, ein vollständig Erwachter Buddha, lebte von Vebhaliṅga unterstützt. Es war hier, tatsächlich, dass er sein Kloster hatte, wo er saß und die Gemeinschaft der Bettler beriet.
 
+Der Buddha Kassapa hatte in Vebhaliṅga einen Hauptunterstützer namens Ghaṭīkāra, einen Töpfer. Ghaṭīkāra hatte einen lieben Freund namens Jotipāla, einen brahmanischen Studenten.
+
+Da sprach Ghaṭīkāra zu Jotipāla: ‚Komm, lieber Jotipāla, lass uns gehen, um den Gesegneten Kassapa, den Vollendeten, den vollständig Erwachten Buddha zu sehen. Denn ich betrachte es als heilig, diesen Gesegneten zu sehen.‘ Als er das sagte, erwiderte Jotipāla ihm:
+‚Genug, was nützt es, diesen kahlen, falschen Asketen zu sehen?‘
+
+Ein zweites Mal … und ein drittes Mal sprach Ghaṭīkāra zu Jotipāla: ‚Komm, lieber Jotipāla, lass uns gehen, um den Gesegneten Kassapa, den Vollendeten, den vollständig Erwachten Buddha zu sehen. Denn ich betrachte es als heilig, diesen Gesegneten zu sehen.‘ Zum dritten Mal sagte Jotipāla zu ihm:
+‚Genug, was nützt es, diesen kahlen, falschen Asketen zu sehen?‘
+
+–
+‚Nun dann, Jotipāla, lass uns etwas Badepaste aus gemahlener Muschel nehmen und zum Fluss gehen, um zu baden.‘
+–
+‚Ja‘, antwortete Jotipāla.
+
+So taten sie das. Dann sprach Ghaṭīkāra zu Jotipāla: ‚Jotipāla, das Kloster des Buddha Kassapa ist nicht weit. Lass uns gehen, um den Gesegneten Kassapa, den Vollendeten, den vollständig Erwachten Buddha zu sehen. Denn ich betrachte es als heilig, diesen Gesegneten zu sehen.‘ Als er das sagte, erwiderte Jotipāla ihm:
+‚Genug, was nützt es, diesen kahlen, falschen Asketen zu sehen?‘
+
+Ein zweites Mal … und ein drittes Mal sprach Ghaṭīkāra zu Jotipāla: ‚Lieber Jotipāla, das Kloster des Buddha Kassapa ist nicht weit. Lass uns gehen, um den Gesegneten Kassapa, den Vollendeten, den vollständig Erwachten Buddha zu sehen. Denn ich betrachte es als heilig, diesen Gesegneten zu sehen.‘ Zum dritten Mal sagte Jotipāla zu ihm:
+‚Genug, was nützt es, diesen kahlen, falschen Asketen zu sehen?‘
+
+Da packte Ghaṭīkāra Jotipāla am Gürtel und wiederholte seine Bitte. … So löste Jotipāla seinen Gürtel und sagte zu Ghaṭīkāra:
+‚Genug, was nützt es, diesen kahlen, falschen Asketen zu sehen?‘
+
+Dann packte Ghaṭīkāra Jotipāla am Haar seines frisch gewaschenen Kopfes und wiederholte seine Bitte. …
+
+Da dachte Jotipāla:
+‚Es ist unglaublich, es ist erstaunlich, wie dieser Töpfer Ghaṭikāra, obwohl in einer niedrigeren Kaste geboren, es wagt, mich am Haar meines frisch gewaschenen Kopfes zu packen! Das muss keine gewöhnliche Angelegenheit sein.‘
+Er sagte zu Ghaṭīkāra:
+‚Würdest du es sogar bis zu diesem Ausmaß treiben, Ghaṭīkāra?‘
+–
+‚Ich treibe es sogar bis zu diesem Ausmaß, Jotipāla. Denn so heilig betrachte ich es, diesen Gesegneten zu sehen.‘
+–
+‚Nun dann, Ghaṭīkāra, lass mich los, wir werden gehen.‘
+
+Da gingen Ghaṭīkāra der Töpfer und Jotipāla der brahmanische Student zum Buddha Kassapa. Ghaṭīkāra verneigte sich und setzte sich zur Seite, aber Jotipāla wechselte Begrüßungen mit dem Buddha und setzte sich zur Seite. Ghaṭīkāra sagte zum Buddha Kassapa: ‚Herr, das ist mein lieber Freund Jotipāla, ein brahmanischer Student. Bitte lehre ihn das Dhamma.‘
+
+Da unterwies, ermutigte, befeuerte und inspirierte der Buddha Kassapa Ghaṭikāra und Jotipāla mit einer Dhamma-Rede. Dann erhoben sie sich von ihren Sitzen, verneigten sich und umschritten den Buddha Kassapa respektvoll, wobei sie ihn zur Rechten ließen, bevor sie gingen.
+
+Da sagte Jotipāla zu Ghatīkāra: ‚Ghaṭīkāra, du hast diese Lehre gehört, warum gehst du nicht fort vom Leben in der Welt in die Obdachlosigkeit?‘
+–
+‚Weißt du denn nicht, Jotipāla, dass ich meine alten blinden Eltern versorge?‘
+–
+‚Nun dann, Ghaṭīkāra, ich werde fortgehen vom Leben in der Welt in die Obdachlosigkeit.‘
+
+Da gingen Ghaṭīkāra und Jotipāla zum Buddha Kassapa, verneigten sich und setzten sich zur Seite. Ghaṭīkāra sagte zum Buddha Kassapa: ‚Herr, das ist mein lieber Freund Jotipāla, ein brahmanischer Student. Bitte gewähre ihm das Fortgehen.‘ Und Jotipāla der brahmanische Student empfing das Fortgehen, die Ordination in der Gegenwart des Buddha.
+
+Nicht lange nach Jotipālas Ordination, ein halben Monat später, brach der Buddha Kassapa—nachdem er so lange in Vebhaliṅga geblieben war, wie er wollte—nach Benares auf. Etappe um Etappe reisend, kam er in Benares an, wo er in der Nähe von Benares blieb, im Hirschpark bei Isipatana.
+
+Der König von Kāsi hörte, dass er angekommen war. Er ließ die feinsten Wagen anspannen. Dann bestieg er einen feinen Wagen und setzte sich zusammen mit anderen feinen Wagen in vollem königlichem Prunk von Benares aus in Bewegung, um den Buddha Kassapa zu sehen. Er fuhr so weit mit dem Wagen, wie das Gelände es erlaubte, stieg dann ab und näherte sich dem Buddha Kassapa zu Fuß. Er verneigte sich und setzte sich zur Seite. Der Buddha unterwies, ermutigte, befeuerte und inspirierte ihn mit einer Dhamma-Rede.
+
+Dann sagte der König zum Buddha: ‚Herr, möchte der Buddha zusammen mit der Bhikkhu-Gemeinschaft bitte die morgige Mahlzeit von mir annehmen?‘
+Der Buddha Kassapa stimmte schweigend zu. Dann, als er wusste, dass der Buddha zugestimmt hatte, erhob sich der König von seinem Sitz, verneigte sich und umschritt den Buddha respektvoll, wobei er ihn zur Rechten ließ, bevor er ging.
+
+Und als die Nacht vergangen war, ließ der König eine Vielzahl köstlicher Speisen in seinem eigenen Heim zubereiten—weichen Safranreis mit herausgepickten dunklen Körnern, serviert mit vielen Suppen und Soßen. Dann ließ er den Buddha zur rechten Zeit benachrichtigen mit den Worten: ‚Herr, es ist Zeit. Die Mahlzeit ist bereit.‘
+
+Da kleidete sich der Buddha Kassapa am Morgen an und ging, mit seiner Schale und seinem Gewand, zum Heim des Königs, wo er sich auf den ausgebreiteten Sitz setzte, zusammen mit der Gemeinschaft der Bhikkhus. Dann bediente und befriedigte der König die Bhikkhu-Gemeinschaft, angeführt vom Buddha, mit eigenen Händen mit einer Vielzahl köstlicher Speisen. Als der Buddha Kassapa gegessen und seine Hand und Schale gewaschen hatte, nahm der König einen niedrigen Sitz ein und setzte sich zur Seite. Dort sagte er zum Buddha Kassapa: ‚Herr, möge der Buddha bitte meine Einladung annehmen, in Benares für die Regenzeit zu residieren. Die Gemeinschaft wird auf die gleiche Weise versorgt werden.‘
+–
+‚Genug, großer König. Ich habe bereits eine Einladung für den Regenzeit-Aufenthalt angenommen.‘
+
+Ein zweites Mal … und ein drittes Mal sagte der König zum Buddha Kassapa: ‚Herr, möge der Buddha bitte meine Einladung annehmen, in Benares für die Regenzeit zu residieren. Die Gemeinschaft wird auf die gleiche Weise versorgt werden.‘
+–
+‚Genug, großer König. Ich habe bereits eine Einladung für den Regenzeit-Aufenthalt angenommen.‘
+
+Da dachte der König: ‚Der Buddha nimmt meine Einladung nicht an, für die Regenzeit in Benares zu residieren,‘ und wurde traurig und verärgert.
+
+Dann sagte der König zum Buddha Kassapa: ‚Herr, habt Ihr einen anderen Unterstützer, der besser ist als ich?‘
+–
+‚Großer König, es gibt eine Marktstadt namens Vebhaliṅga, wo es einen Töpfer namens Ghaṭīkāra gibt. Er ist mein Hauptunterstützer. Nun, großer König, Ihr dachtet: "Der Buddha nimmt meine Einladung nicht an, für die Regenzeit in Benares zu residieren," und Ihr wurdet traurig und verärgert. Aber Ghaṭīkāra wird nicht verärgert, noch wird er es werden. Ghaṭīkāra ist zum Buddha, zur Lehre und zur Gemeinschaft Zuflucht gegangen. Er tötet keine Lebewesen, stiehlt nicht, begeht keinen Fehlverhalten in sexuellen Dingen, lügt nicht und nimmt keine berauschenden Getränke zu sich, die Nachlässigkeit verursachen. Er hat erfahrungsbasierte Zuversicht zum Buddha, zur Lehre und zur Gemeinschaft und hat Tugenden, die von den Edlen gelobt werden. Er ist frei von Zweifel bezüglich Leid, seinem Ursprung, seiner Aufhebung und der Praxis, die zu seiner Aufhebung führt. Er isst in einem Teil des Tages; er ist enthaltsam, tugendhaft und von gutem Charakter. Er hat Juwelen und Gold beiseitegelegt und Gold und Geld abgelehnt. Er hat die Schaufel hingelegt und gräbt die Erde nicht mit eigenen Händen. Er nimmt, was von einer Flussbank abgebröckelt ist oder von Mäusen ausgegraben wurde, und bringt es in einem Traggefäß zurück. Wenn er einen Topf gemacht hat, sagt er: "Jeder kann hier gesackten Sesam, Mungbohnen oder Kichererbsen hinterlassen und nehmen, was er wünscht." Er versorgt seine alten blinden Eltern. Und da er die fünf niedrigeren Fesseln beendet hat, wird Ghaṭīkāra in einem himmlischen Reich wiedergeboren werden und dort erlöschen, nicht dazu bestimmt, von jener Welt zurückzukehren.
+
+Einmal, großer König, hielt ich mich in der Nähe der Marktstadt Vebhaliṅga auf. Da kleidete ich mich am Morgen an und ging, mit meiner Schale und meinem Gewand, zum Heim von Ghaṭīkāras Eltern, wo ich zu ihnen sagte: "Entschuldigt, wohin ist Ghaṭīkāra gegangen?"
+–
+"Euer Unterstützer ist ausgegangen, Herr. Aber nehmen Sie Reis aus dem Topf und Soße aus der Pfanne und essen Sie."
+So tat ich das. Und nach dem Essen erhob ich mich von meinem Sitz und ging.
+–
+Dann ging Ghaṭīkāra zu seinen Eltern und sagte: "Wer hat Reis aus dem Topf und Soße aus der Pfanne genommen, gegessen und ist gegangen?"
+–
+"Es war der Buddha Kassapa, mein Lieber."
+
+Da dachte Ghaṭīkāra:
+"Ich habe so viel Glück, so sehr viel Glück, dass der Buddha Kassapa mir so sehr vertraut!" Dann verließen ihn Freude und Glück nicht für einen halben Monat, und seine Eltern für eine Woche.
+
+Ein anderes Mal, großer König, hielt ich mich in der Nähe derselben Marktstadt Vebhaliṅga auf. Da kleidete ich mich am Morgen an und ging, mit meiner Schale und meinem Gewand, zum Heim von Ghaṭīkāras Eltern, wo ich zu ihnen sagte:
+"Entschuldigt, wohin ist Ghaṭīkāra gegangen?"
+–
+"Euer Unterstützer ist ausgegangen, Herr. Aber nehmen Sie Brei aus dem Topf und Soße aus der Pfanne und essen Sie."
+So tat ich das. Und nach dem Essen erhob ich mich von meinem Sitz und ging.
+Dann ging Ghaṭīkāra zu seinen Eltern und sagte: "Wer hat Brei aus dem Topf und Soße aus der Pfanne genommen, gegessen und ist gegangen?"
+–
+"Es war der Buddha Kassapa, mein Lieber."
+
+Da dachte Ghaṭīkāra:
+"Ich habe so viel Glück, so sehr viel Glück, vom Buddha Kassapa so sehr vertraut zu werden!" Dann verließen ihn Freude und Glück nicht für einen halben Monat, und seine Eltern für eine Woche.
+
+Ein anderes Mal, großer König, hielt ich mich in der Nähe derselben Marktstadt Vebhaliṅga auf. Nun, zu jener Zeit undichtete meine Hütte. So sprach ich zu den Bhikkhus: "Bhikkhus, geht zu Ghaṭikāras Heim und findet etwas Gras."
+–
+Als ich das sagte, sagten diese Bhikkhus zu mir: "Herr, dort gibt es kein Gras, aber seine Werkstatt hat ein Grasdach."
+–
+"Dann geht zur Werkstatt und streift das Gras ab."
+
+So taten sie das. Dann sagten Ghaṭīkāras Eltern zu diesen Bhikkhus: "Wer streift das Gras von der Werkstatt ab?"
+–
+"Es sind die Bhikkhus, Schwester. Die Hütte des Buddha undichtet."
+–
+"Nehmt es, Herren! Nehmt es!"
+
+Dann ging Ghaṭīkāra zu seinen Eltern und sagte: "Wer hat das Gras von der Werkstatt abgestreift?"
+–
+"Es waren die Bhikkhus, Lieber. Es scheint, die Hütte des Buddha undichtet."
+
+Da dachte Ghaṭīkāra:
+"Ich habe so viel Glück, so sehr viel Glück, vom Buddha Kassapa so sehr vertraut zu werden!" Dann verließen ihn Freude und Glück nicht für einen halben Monat, und seine Eltern für eine Woche. Dann blieb die Werkstatt drei Monate lang mit dem Himmel als Dach, aber kein Regen fiel darauf. Und das, großer König, ist, wie Ghaṭīkāra der Töpfer ist.‘
+
+‚Ghaṭīkāra der Töpfer hat Glück, sehr viel Glück, vom Buddha Kassapa so sehr vertraut zu werden.‘
+
+Da schickte der König etwa fünfhundert Wagenladungen Reis, weichen Safranreis und passende Soße zu Ghaṭīkāra. Dann trat einer der Männer des Königs an Ghaṭīkāra heran und sagte: ‚Herr, diese fünfhundert Wagenladungen Reis, weichen Safranreis und passende Soße sind vom König von Kāsī an Euch geschickt worden. Bitte nehmt sie an.‘
+–
+‚Der König hat viele Pflichten und viel zu tun. Ich habe genug. Lass dies für den König selbst sein.‘
+
+Ānanda, du magst denken: ‚Sicherlich muss der brahmanische Student Jotipāla zu jener Zeit jemand anderes gewesen sein?‘ Aber du solltest es nicht so sehen. Ich war der Student Jotipāla zu jener Zeit.“
+
+Das ist es, was der Buddha sagte. Zufrieden war der ehrwürdige Ānanda erfreut über das, was der Buddha gesagt hatte.
 #+end_quote
 *** DONE OWTJ
 CLOSED: [2025-10-17 Fri 21:18]
