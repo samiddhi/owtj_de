@@ -931,11 +931,128 @@ Lack of trust, too, I say, has a nutriment; it is not without nutriment. And wha
 Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for not hearing the good Dhamma? It should be said: not associating with good people.
 #+end_quote
 
-* TODO Chapter 5 [0/2]
-** TODO MN 36 (pg. 45) [1/2]
-*** TODO Deutsch
+* DONE Chapter 5 [2/2]
+CLOSED: [2025-10-20 Mon 11:31]
+** DONE MN 36 (pg. 45) [2/2]
+CLOSED: [2025-10-20 Mon 11:29]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 11:29]
 #+begin_quote
+So habe ich es gehört. Einmal hielt sich der Erhabene in Vesālī auf, im Großen Wald, in der Halle mit dem Giebel-Dach.
+Nun, bei jener Gelegenheit, als es Morgen war, hatte sich der Erhabene angezogen und seine Schale und äußere Robe genommen, in der Absicht, um Almosen nach Vesālī zu gehen.
+Da nun, als Saccaka, der Sohn der Nigaṇṭhas, zum Zwecke der Bewegung umherwanderte, kam er zur Halle mit dem Giebel-Dach im Großen Wald.
+Der ehrwürdige Ānanda sah ihn in der Ferne kommen und sprach zum Erhabenen: "Ehrwürdiger Herr, dort kommt Saccaka, der Sohn der Nigaṇṭhas, ein Debattierer und gewandter Redner, der von vielen als Heiliger angesehen wird. Er will den Buddha, das Dhamma und die Sangha in Misskredit bringen. Es wäre gut, wenn der Erhabene sich aus Mitgefühl für eine Weile setzen würde."
+Der Erhabene setzte sich auf den bereitgemachten Sitz. Dann ging Saccaka, der Sohn der Nigaṇṭhas, zum Erhabenen und tauschte höfliche Begrüßungen mit ihm aus. Als diese höfliche Unterhaltung beendet war, setzte er sich zur Seite nieder und sprach zum Erhabenen:
+"Meister Gotama, es gibt einige Kontemplative, die leben, indem sie die Entwicklung des Körpers verfolgen, aber nicht die Entwicklung des Geistes. Sie werden von körperlich schmerzhaftem Gefühl berührt. In der Vergangenheit, wenn man von körperlich schmerzhaftem Gefühl berührt wurde, wurden einem die Oberschenkel steif, das Herz barst, heißes Blut schoss aus dem Mund, und man wurde verrückt, ging aus dem Verstand. So war damals der Geist dem Körper untertan, der Körper übte die Herrschaft über ihn aus. Warum ist das so? Weil der Geist nicht entwickelt war.
+Aber es gibt einige Kontemplative, die leben, indem sie die Entwicklung des Geistes verfolgen, aber nicht die Entwicklung des Körpers. Sie werden von geistig schmerzhaftem Gefühl berührt. In der Vergangenheit, wenn man von geistig schmerzhaftem Gefühl berührt wurde, wurden einem die Oberschenkel steif, das Herz barst, heißes Blut schoss aus dem Mund, und man wurde verrückt, ging aus dem Verstand. So war damals der Körper dem Geist untertan, der Geist übte die Herrschaft über ihn aus. Warum ist das so? Weil der Körper nicht entwickelt war.
+Meister Gotama, es ist mir in den Sinn gekommen: 'Gewiss weilen Meister Gotamas Jünger, indem sie die Entwicklung des Geistes verfolgen, aber nicht die Entwicklung des Körpers.'"
 
+"Aber, Aggivessana, was hast du über die Entwicklung des Körpers gelernt?"
+
+"Nun, es gibt andere Mönche, die nackt gehen, Konventionen ablecken, ihre Hände ablecken, nicht kommen, wenn sie aufgefordert werden, nicht stehen bleiben, wenn sie aufgefordert werden; sie nehmen nicht mitgebrachtes Essen an oder speziell zubereitetes Essen oder eine Einladung zu einer Mahlzeit; sie empfangen nichts aus einem Topf, aus einer Schale, über einer Schwelle, über einem Stock, über einem Stößel, von zwei gemeinsam Essenden, von einer schwangeren Frau, von einer stillenden Frau, von einer Frau inmitten von Männern, von wo Essen als verteilt angekündigt wird, von wo ein Hund wartet, von wo Fliegen summen; sie nehmen keinen Fisch oder kein Fleisch an, sie trinken keinen Alkohol, Wein oder vergorenes Gebräu. Sie halten sich an ein Haus, an einen Bissen; sie halten sich an zwei Häuser, an zwei Bissen … sie halten sich an sieben Häuser, an sieben Bissen. Sie leben von einer Schüssel voll am Tag, von zwei Schüsseln voll am Tag … von sieben Schüsseln voll am Tag. Sie nehmen einmal am Tag Nahrung zu sich, einmal alle zwei Tage … einmal alle sieben Tage; so sogar bis zu einmal alle vierzehn Tage, weilen sie, indem sie die Praxis verfolgen, Nahrung zu festgelegten Zeiten zu sich zu nehmen."
+
+"Aber leben sie von so wenig, Aggivessana?"
+
+"Nein, Meister Gotama, manchmal verzehren sie ausgezeichnete Nahrung, kosten ausgezeichnete Leckerbissen, trinken ausgezeichnete Getränke. Dadurch gewinnen sie ihre Kraft zurück, ermanen sich und werden fett."
+
+"Was sie früher aufgegeben haben, Aggivessana, sammeln sie später wieder zusammen. So gibt es Zunahme und Abnahme dieses Körpers. Aber was hast du über die Entwicklung des Geistes gelernt?"
+
+Als Saccaka, der Sohn der Nigaṇṭhas, vom Erhabenen über die Entwicklung des Geistes gefragt wurde, war er nicht in der Lage zu antworten.
+
+Da sagte der Erhabene zu ihm: 'Was du gerade als Entwicklung des Körpers bezeichnet hast, Aggivessana, ist nicht Entwicklung des Körpers gemäß dem Dhamma in der Zucht der Edlen. Da du nicht weißt, was Entwicklung des Körpers ist, wie könntest du wissen, was Entwicklung des Geistes ist? Dennoch, Aggivessana, was das betrifft, wie einer unentwickelt im Körper und unentwickelt im Geist ist, und entwickelt im Körper und entwickelt im Geist ist, höre zu und achte genau auf das, was ich sagen werde.'
+
+'Ja, Herr', antwortete Saccaka. Der Erhabene sagte dies:
+
+'Wie, Aggivessana, ist einer unentwickelt im Körper und unentwickelt im Geist? Hier, Aggivessana, entsteht in einer gewöhnlichen Person angenehmes Gefühl. Berührt von jenem angenehmen Gefühl, gelüstet er nach Vergnügen und gelüstet weiter nach Vergnügen. Jenes angenehme Gefühl von ihm endet. Mit dem Enden des angenehmen Gefühls entsteht schmerzhaftes Gefühl. Berührt von jenem schmerzhaften Gefühl, trauert er, klagt und jammert, er weint und wird verstört. Wenn jenes angenehme Gefühl in ihm entstanden ist, dringt es in seinen Geist ein und verweilt, weil der Körper nicht entwickelt ist. Und wenn jenes schmerzhafte Gefühl in ihm entstanden ist, dringt es in seinen Geist ein und verweilt, weil der Geist nicht entwickelt ist. Jeder, bei dem auf diese doppelte Weise entstandenes angenehmes Gefühl in seinen Geist eindringt und verweilt, weil der Körper nicht entwickelt ist, und entstandenes schmerzhaftes Gefühl in seinen Geist eindringt und verweilt, weil der Geist nicht entwickelt ist, ist so unentwickelt im Körper und unentwickelt im Geist.
+
+**ENTWICKELT IM KÖRPER UND ENTWICKELT IM GEIST**
+
+Und wie, Aggivessana, ist einer entwickelt im Körper und entwickelt im Geist? Hier, Aggivessana, entsteht in einem edlen Jünger angenehmes Gefühl. Berührt von jenem angenehmen Gefühl, gelüstet er nicht nach Vergnügen oder gelüstet weiter nach Vergnügen. Jenes angenehme Gefühl von ihm endet. Mit dem Enden des angenehmen Gefühls entsteht schmerzhaftes Gefühl. Berührt von jenem schmerzhaften Gefühl, trauert er nicht, klagt und jammert nicht, er weint nicht und wird nicht verstört. Wenn jenes angenehmes Gefühl in ihm entstanden ist, dringt es nicht in seinen Geist ein und verweilt, weil der Körper entwickelt ist. Und wenn jenes schmerzhafte Gefühl in ihm entstanden ist, dringt es nicht in seinen Geist ein und verweilt, weil der Geist entwickelt ist. Jeder, bei dem auf diese doppelte Weise entstandenes angenehmes Gefühl nicht in seinen Geist eindringt und verweilt, weil der Körper entwickelt ist, und entstandenes schmerzhaftes Gefühl nicht in seinen Geist eindringt und verweilt, weil der Geist entwickelt ist, ist so entwickelt im Körper und entwickelt im Geist.'
+
+'Ich habe Vertrauen in Meister Gotama so: "Meister Gotama ist entwickelt im Körper und entwickelt im Geist."'
+
+'Gewiss, Aggivessana, deine Worte sind grob und unhöflich, aber dennoch werde ich dir antworten. Seit ich mir Haupthaar und Bart abrasiert habe, die Robe angelegt habe und vom Hausleben in die Hauslosigkeit gezogen bin, war es nicht möglich, dass entstandenes angenehmes Gefühl in meinen Geist eindrang und verweilte oder dass entstandenes schmerzhaftes Gefühl in meinen Geist eindrang und verweilte.'
+
+'Ist in Meister Gotama niemals ein Gefühl so angenehm entstanden, dass es in seinen Geist eindringen und verweilen könnte? Ist in Meister Gotama niemals ein Gefühl so schmerzhaft entstanden, dass es in seinen Geist eindringen und verweilen könnte?'
+
+'Warum nicht, Aggivessana? Hier, Aggivessana, vor meinem Erwachen, als ich noch nur ein unerwachter Bodhisatta war, dachte ich:
+"Haushaltsleben ist beengt und staubig; das Leben in der Hauslosigkeit ist weit offen. Es ist nicht leicht, während man in einem Haus lebt, das heilige Leben vollkommen und rein wie eine polierte Muschel zu führen. Angenommen, ich rasierte mir Haupthaar und Bart ab, legte die Robe an und zöge vom Hausleben in die Hauslosigkeit."
+
+**Gleichnis der nassen Hölzer**
+
+1. 'Nun kamen mir spontan diese drei Gleichnisse in den Sinn. Angenommen, ein nasses, saftiges Holzstück läge im Wasser, und ein Mann käme mit einem oberen Feuerholz, denkend:
+"Ich werde ein Feuer entfachen, ich werde Hitze erzeugen." Was denkst du, Aggivessana? Könnte der Mann ein Feuer entfachen und Hitze erzeugen, indem er das obere Feuerholz nimmt und es gegen das nasse, saftige Holzstück reibt, das im Wasser liegt?'
+'Nein, Meister Gotama. Warum nicht? Weil es ein nasses, saftiges Holzstück ist und es im Wasser liegt. Schließlich würde der Mann nur Mühe und Enttäuschung ernten.'
+'Ebenso, Aggivessana, was jene Kontemplativen betrifft, die noch nicht körperlich zurückgezogen von Sinnesvergnügen leben, und deren sinnliches Verlangen, Zuneigung, Verblendung, Durst und Fieber nach Sinnesvergnügen innerlich nicht vollständig aufgegeben wurde, selbst wenn jene guten Kontemplativen aufgrund des Strebens schmerzhafte, durchdringende Gefühle fühlen, sind sie unfähig des Wissens und der Schau und der höchsten Erleuchtung; und selbst wenn jene guten Kontemplativen aufgrund des Strebens keine schmerzhaften, durchdringenden Gefühle fühlen, sind sie unfähig des Wissens und der Schau und der höchsten Erleuchtung. Dies war das erste Gleichnis, das mir spontan in den Sinn kam.
+2. Wieder, Aggivessana, kam mir ein zweites Gleichnis spontan in den Sinn. Angenommen, ein nasses, saftiges Holzstück läge auf dem Trockenen, fern vom Wasser, und ein Mann käme mit einem oberen Feuerholz, denkend:
+"Ich werde ein Feuer entfachen, ich werde Hitze erzeugen." Was denkst du, Aggivessana? Könnte der Mann ein Feuer entfachen und Hitze erzeugen, indem er das obere Feuerholz nimmt und es gegen das nasse, saftige Holzstück reibt, das auf dem Trockenen liegt, fern vom Wasser?'
+'Nein, Meister Gotama. Warum nicht? Weil es ein nasses, saftiges Holzstück ist, obwohl es auf dem Trockenen liegt, fern vom Wasser. Schließlich würde der Mann nur Mühe und Enttäuschung ernten.'
+'Ebenso, Aggivessana, was jene Kontemplativen betrifft, die körperlich zurückgezogen von Sinnesvergnügen leben, aber deren sinnliches Verlangen, Zuneigung, Verblendung, Durst und Fieber nach Sinnesvergnügen innerlich nicht vollständig aufgegeben wurde, selbst wenn jene guten Kontemplativen aufgrund des Strebens schmerzhafte, durchdringende Gefühle fühlen, sind sie unfähig des Wissens und der Schau und der höchsten Erleuchtung; und selbst wenn jene guten Kontemplativen aufgrund des Strebens keine schmerzhaften, durchdringenden Gefühle fühlen, sind sie unfähig des Wissens und der Schau und der höchsten Erleuchtung. Dies war das zweite Gleichnis, das mir spontan in den Sinn kam.
+3. Wieder, Aggivessana, kam mir ein drittes Gleichnis spontan in den Sinn. Angenommen, ein trockenes, saftloses Holzstück läge auf dem Trockenen, fern vom Wasser, und ein Mann käme mit einem oberen Feuerholz, denkend:
+"Ich werde ein Feuer entfachen, ich werde Hitze erzeugen." Was denkst du, Aggivessana? Könnte der Mann ein Feuer entfachen und Hitze erzeugen, indem er es gegen das trockene, saftlose Holzstück reibt, das auf dem Trockenen liegt, fern vom Wasser?'
+'Ja, Meister Gotama. Warum? Weil es ein trockenes, saftloses Holzstück ist und es auf dem Trockenen liegt, fern vom Wasser.'
+'Ebenso, Aggivessana, was jene Kontemplativen betrifft, die körperlich zurückgezogen von Sinnesvergnügen leben, und deren sinnliches Verlangen, Zuneigung, Verblendung, Durst und Fieber nach Sinnesvergnügen innerlich vollständig aufgegeben und unterdrückt wurde, selbst wenn jene guten Kontemplativen aufgrund des Strebens schmerzhaften, durchdringenden Gefühle fühlen, sind sie fähig des Wissens und der Schau und der höchsten Erleuchtung; und selbst wenn jene guten Kontemplativen aufgrund des Strebens keine schmerzhaften, durchdringenden Gefühle fühlen, sind sie fähig des Wissens und der Schau und der höchsten Erleuchtung. Dies war das dritte Gleichnis, das mir spontan in den Sinn kam. Dies sind die drei Gleichnisse, die mir spontan in den Sinn kamen, nie zuvor gehört.
+
+**Beschreibung extremer asketischer Praktiken**
+
+Ich dachte: "Angenommen, ich presse mit zusammengebissenen Zähnen und der Zunge gegen den Gaumen gepresst, den Geist mit Geist nieder, bezwinge und zermalme." So presste ich mit zusammengebissenen Zähnen und der Zunge gegen den Gaumen gepresst, den Geist mit Geist nieder, bezwang und zermalmte ihn. Während ich das tat, lief Schweiß aus meinen Achselhöhlen. Gerade wie ein starker Mann einen schwächeren Mann am Kopf oder an den Schultern packen und ihn niederdrücken, bezwingen und zermalmen könnte, so auch presste, bezwang und zermalmte ich mit zusammengebissenen Zähnen und der Zunge gegen den Gaumen gepresst den Geist mit Geist, und Schweiß lief aus meinen Achselhöhlen. Aber obwohl unermüdliche Energie in mir erweckt wurde und beständige Achtsamkeit etabliert war, war mein Körper nicht ruhig, weil ich durch das schmerzhafte Streben erschöpft war. Aber solches schmerzhafte Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Ich dachte: "Angenommen, ich übe die atemlose Meditation." So hörte ich die Ein- und Ausatmungen durch meinen Mund und meine Nase auf. Während ich das tat, war ein lautes Geräusch von Winden, die aus meinen Ohren kamen. Gerade so wie es ein lautes Geräusch gibt, wenn die Blasebälge eines Schmieds geblasen werden, so schnitten heftige Winde durch meinen Kopf. … Gerade als ob ein starker Mann meinen Kopf mit der Spitze eines scharfen Schwertes zerdrücken würde, … gab es heftige Schmerzen in meinem Kopf. Gerade als ob ein starker Mann einen zähen Lederriemen als Stirnband um meinen Kopf festziehen würde, … schnitzten heftige Winde meinen Bauch auf. Gerade als ob ein geschickter Metzger oder sein Lehrling den Bauch eines Ochsen mit einem scharfen Metzger messer aufschneiden würde, … gab es ein heftiges Brennen in meinem Körper. Gerade als ob zwei starke Männer einen schwächeren Mann an beiden Armen packen und ihn über einer Grube mit heißen Kohlen rösten würden, so auch, während ich die Ein- und Ausatmungen durch meinen Mund, meine Nase und meine Ohren aufhielt, gab es ein heftiges Brennen in meinem Körper. Aber obwohl unermüdliche Energie in mir erweckt wurde und beständige Achtsamkeit etabliert war, war mein Körper nicht ruhig, weil ich durch das schmerzhafte Streben erschöpft war. Aber solches schmerzhafte Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Nun, als Gottheiten mich sahen, sagten einige: "Der Asket Gotama ist tot." Andere Gottheiten sagten: "Der Asket Gotama ist nicht tot, er stirbt." Und andere Gottheiten sagten: "Der Asket Gotama ist nicht tot noch stirbt er; er ist ein Arahant, denn so ist die Art, wie Arahants leben."
+
+Ich dachte: "Angenommen, ich übe das vollständige Abschneiden von Nahrung." Da kamen Gottheiten zu mir und sagten: "Guter Herr, übe nicht das vollständige Abschneiden von Nahrung. Wenn du das tust, werden wir himmlische Nahrung in die Poren deiner Haut einflößen, und du wirst davon leben." Ich überlegte: "Wenn ich behaupte, vollständig zu fasten, während diese Gottheiten himmlische Nahrung in die Poren meiner Haut einflößen und ich davon lebe, dann würde ich lügen." So wies ich jene Gottheiten ab, indem ich sagte: "Es ist nicht nötig."
+
+Ich dachte: "Angenommen, ich nehme sehr wenig Nahrung zu mir, jedes Mal nur eine Handvoll, sei es Bohnensuppe oder Linsensuppe oder Wicken-suppe oder Erbsensuppe." So nahm ich sehr wenig Nahrung zu mir, jedes Mal nur eine Handvoll. Während ich das tat, erreichte mein Körper einen Zustand äußerster Abmagerung. Wegen des so geringen Essens wurden meine Glieder wie die gegliederten Segmente von Bambusstängeln. Wegen des so geringen Essens wurde mein Gesäß wie ein Kamelhuf. Wegen des so geringen Essens standen die Vorsprünge meiner Wirbelsäule hervor wie aufgereihte Perlen. Wegen des so geringen Essens ragten meine Rippen hervor, so mager wie die verrückten Sparren einer alten, dachlosen Scheune. Wegen des so geringen Essens sank der Glanz meiner Augen tief in ihre Höhlen, wie der Glanz von Wasser, das tief in einem tiefen Brunnen gesunken ist. Wegen des so geringen Essens schrumpfte und verdorrte meine Kopfhaut, wie eine grüne, bittere Kürbisfrucht im Wind und in der Sonne schrumpelt und verdorrt. Wegen des so geringen Essens haftete meine Bauchhaut an meinem Rückgrat; so dass, wenn ich meine Bauchhaut berührte, ich auf mein Rückgrat traf und wenn ich mein Rückgrat berührte, ich auf meine Bauchhaut traf. Wegen des so geringen Essens, wenn ich Stuhlgang oder Urin ließ, fiel ich dort auf mein Gesicht. Wegen des so geringen Essens, wenn ich versuchte, meinen Körper zu erleichtern, indem ich meine Glieder mit meinen Händen rieb, fiel das Haar, an den Wurzeln verfault, von meinem Körper, als ich rieb.
+
+Nun, wenn Leute mich sahen, sagten einige: "Der Kontemplative Gotama ist schwarz." Andere Leute sagten: "Der Kontemplative Gotama ist nicht schwarz, er ist braun." Andere Leute sagten: "Der Kontemplative Gotama ist weder schwarz noch braun, er ist goldhäutig." So sehr hatte die klare, helle Farbe meiner Haut durch das so geringe Essen nachgelassen.
+
+Ich dachte: "Was auch immer für Kontemplative in der Vergangenheit schmerzhafte, durchdringende Gefühle aufgrund des Strebens erfahren haben, dies ist das Äußerste, es gibt nichts darüber hinaus. Und was auch immer für Kontemplative in der Zukunft schmerzhafte, durchdringende Gefühle aufgrund des Strebens erfahren werden, dies ist das Äußerste, es gibt nichts darüber hinaus. Und was auch immer für Kontemplative in der Gegenwart schmerzhafte, durchdringende Gefühle aufgrund des Strebens erfahren, dies ist das Äußerste, es gibt nichts darüber hinaus. Aber durch diese schmerzhafte Praxis der Askese habe ich keine übermenschlichen Zustände erreicht, keine Unterscheidung in Wissen und Schau, die der Edlen würdig ist. Könnte es einen anderen Pfad zur Erleuchtung geben?"
+
+**ERINNERUNG AN DIE ERSTE VERTIEFUNG**
+
+Ich überlegte: "Ich erinnere mich, dass, als mein Vater beschäftigt war, ich, während ich im kühlen Schatten eines Rosenapfelbaums saß, zurückgezogen von Sinnesvergnügen, zurückgezogen von unheilsamen Zuständen, die erste Vertiefung betrat, die von Denken und Erwägen begleitet ist, mit Freude und Vergnügen, geboren aus der Zurückgezogenheit. Könnte das der Pfad zum Erwachen sein?" Dann, dieser Erinnerung folgend, kam die Erkenntnis: "Das ist in der Tat der Pfad zum Erwachen."
+
+Ich dachte: "Warum fürchte ich mich vor jenem Vergnügen, das nichts mit Sinnesvergnügen und unheilsamen Zuständen zu tun hat?" Ich dachte: "Ich fürchte mich nicht vor jenem Vergnügen, da es nichts mit Sinnesvergnügen und unheilsamen Zuständen zu tun hat."
+
+Ich überlegte: "Es ist nicht leicht, jenes Vergnügen mit einem so abgemagerten Körper zu erreichen. Angenommen, ich äße etwas feste Nahrung, etwas gekochten Reis und Brei." Und ich aß etwas feste Nahrung, etwas gekochten Reis und Brei.
+Nun, zu jener Zeit warteten fünf Mönche auf mich, denkend: "Wenn der Kontemplative Gotama einen höheren Zustand erreicht, wird er uns informieren." Aber als ich den gekochten Reis und Brei aß, waren die fünf Mönche angewidert und verließen mich, denkend: "Der Kontemplative Gotama lebt jetzt luxuriös; er hat sein Streben aufgegeben und ist zum Luxus zurückgekehrt."
+
+Nun, als ich feste Nahrung gegessen und meine Kraft wiedererlangt hatte, dann, zurückgezogen von Sinnesvergnügen, zurückgezogen von unheilsamen Zuständen, betrat ich und verweilte ich in der ersten Vertiefung, die von Denken und Erwägen begleitet ist, mit Freude und Vergnügen, geboren aus der Zurückgezogenheit. Aber solches angenehme Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Mit der Stillung von Denken und Erwägen betrat ich die zweite Vertiefung … Mit dem Verblassen auch der Freude … betrat ich die dritte Vertiefung … Mit dem Aufgeben von Vergnügen und Schmerz … betrat ich die vierte Vertiefung … Aber solches angenehme Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Als mein gesammelter Geist so gereinigt, hell, makellos, frei von Unvollkommenheiten, geschmeidig, fügsam, standhaft und zur Unerschütterlichkeit gelangt war, richtete ich ihn auf das Wissen und die Erinnerung an frühere Leben. Ich erinnerte mich an meine vielfältigen vergangenen Leben, das ist, eine Geburt, zwei Geburten … (wie in MN 4) … So erinnerte ich mich mit ihren Aspekten und Einzelheiten an meine vielfältigen vergangenen Leben.
+
+Dies war das erste wahre Wissen, das von mir in der ersten Nachtwache erlangt wurde. Unwissenheit wurde vertrieben und wahres Wissen entstand, Dunkelheit wurde vertrieben und Licht entstand, wie es in einem geschieht, der eifrig, eifrig und entschlossen lebt. Aber solches angenehme Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Als mein gesammelter Geist so gereinigt, hell, makellos, frei von Unvollkommenheiten, geschmeidig, fügsam, standhaft und zur Unerschütterlichkeit gelangt war, richtete ich ihn auf das Wissen vom Verschwinden und Wiedererscheinen der Wesen … (wie in MN 4) … So sah ich mit dem himmlischen Auge, das gereinigt und das menschliche übertrifft, Wesen verschwinden und wiedererscheinen, niedrige und hohe, schöne und hässliche, glückliche und unglückliche, und ich verstand, wie Wesen gemäß ihren Handlungen weiterziehen.
+
+Dies war das zweite wahre Wissen, das von mir in der mittleren Nachtwache erlangt wurde. Unwissenheit wurde vertrieben und wahres Wissen entstand, Dunkelheit wurde vertrieben und Licht entstand, wie es in einem geschieht, der eifrig, eifrig und entschlossen lebt. Aber solches angenehme Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+Als mein gesammelter Geist so gereinigt, hell, makellos, frei von Unvollkommenheiten, geschmeidig, fügsam, standhaft und zur Unerschütterlichkeit gelangt war, richtete ich ihn auf das Wissen von der Zerstörung der Triebe. Ich erkannte unmittelbar: "Dies ist Leiden"; … "Dies ist die Ursache des Leidens"; … "Dies ist die Beendigung des Leidens"; … "Dies ist der Weg, der zur Beendigung des Leidens führt"; … "Dies sind die Triebe"; … "Dies ist die Ursache der Triebe"; … "Dies ist die Beendigung der Triebe"; … "Dies ist der Weg, der zur Beendigung der Triebe führt."
+
+Als ich so wusste und sah, war mein Geist befreit vom Trieb der Sinnesbegierde, vom Trieb des Werdens und vom Trieb der Unwissenheit. Als er befreit war, kam das Wissen: "Er ist befreit." Ich erkannte unmittelbar: "Geburt ist zerstört, das heilige Leben ist gelebt, was getan werden musste, ist getan, es gibt kein Wiederkehren zu irgendeinem Zustand des Seins."
+
+Dies war das dritte wahre Wissen, das von mir in der letzten Nachtwache erlangt wurde. Unwissenheit wurde vertrieben und wahres Wissen entstand, Dunkelheit wurde vertrieben und Licht entstand, wie es in einem geschieht, der eifrig, eifrig und entschlossen lebt. Aber solches angenehme Gefühl, das in mir entstand, drang nicht in meinen Geist ein und verweilte.
+
+**LEHREN DES DHAMMA**
+
+Aggivessana, ich erinnere mich, dass ich einer Versammlung von vielen Hunderten das Dhamma lehrte, und selbst dann dachte jede Person von mir: "Der Kontemplative Gotama lehrt das Dhamma besonders für mich." Aber es sollte nicht so betrachtet werden; der Tathāgata lehrt anderen das Dhamma nur, um ihnen Wissen zu geben. Wenn die Rede beendet ist, Aggivessana, dann beruhige ich meinen Geist innerlich, besänftige ihn, hebe ihn auf und sammle ihn auf dasselbe Zeichen der Sammlung wie zuvor, in dem ich ständig lebe."
+
+**BEFRAGT ÜBER DAS LEBEN IN VERBLENDUNG**
+
+"Das ist eine Angelegenheit, der Meister Gotama vertraut werden kann, wie es von einem vollendeten und vollständig Erwachten erwartet wird. Aber erinnert sich Meister Gotama daran, am Tag geschlafen zu haben?"
+"Ich erinnere mich, Aggivessana, im letzten Monat der heißen Jahreszeit, als ich von meinem Almosengang zurückkehrte, nach meiner Mahlzeit meine äußere Robe vierfach gefaltet ausbreitete und mich auf die rechte Seite legend, eingeschlafen zu sein, achtsam und bewusst."
+"Einige Kontemplative nennen das 'in Verblendung leben', Meister Gotama."
+"Es ist nicht auf solche Weise, dass einer verblendet oder unverblendet ist, Aggivessana. Was das betrifft, wie einer verblendet oder unverblendet ist, höre zu und achte genau auf das, was ich sagen werde."—"Ja, Herr", antwortete Saccaka. Der Erhabene sagte dies:
+
+"Ihn nenne ich verblendet, Aggivessana, der die Triebe, die beflecken, die das Sein perpetuieren, Probleme bereiten, im Leiden reifen und zu künftiger Geburt, Altern und Tod führen, nicht aufgegeben hat; denn es ist mit dem Nicht-Aufgeben der Triebe, dass einer verblendet ist. Ihn nenne ich unverblendet, der die Triebe, die beflecken, die das Sein perpetuieren, Probleme bereiten, im Leiden reifen und zu künftiger Geburt, Altern und Tod führen, aufgegeben hat; denn es ist mit dem Aufgeben der Triebe, dass einer unverblendet ist. Der Tathāgata, Aggivessana, hat die Triebe, die beflecken, die das Sein perpetuieren, Probleme bereiten, im Leiden reifen und zu künftiger Geburt, Altern und Tod führen, aufgegeben; er hat sie an der Wurzel abgeschnitten, sie wie einen Palmstumpf gemacht, sie beseitigt, so dass sie künftig nicht mehr entstehen können."
+
+Als dies gesagt wurde, sagte Saccaka: 'Es ist wunderbar, Meister Gotama, es ist erstaunlich, wie, wenn Meister Gotama wieder und wieder beleidigend angesprochen wird, von unhöflichen Redeweisen angegriffen, die Farbe seiner Haut sich aufhellt und die Farbe seines Gesichts sich klärt, wie es von einem, der vollendet und vollständig erwacht ist, erwartet wird. Ich erinnere mich, Meister Gotama, dass ich Pūraṇa Kassapa in eine Debatte verwickelte, Makkhali Gosāla … Ajita Kesakambalin … Pakudha Kaccāyana … Sañjaya Belaṭṭhiputta … den Nigaṇṭha Nātaputta in eine Debatte verwickelte, sie auswichen, das Gespräch beiseite lenkten und Zorn, Hass und Bitterkeit zeigten. Aber wenn Meister Gotama wieder und wieder beleidigend angesprochen wird, von unhöflichen Redeweisen angegriffen, hellt sich die Farbe seiner Haut auf und die Farbe seines Gesichts klärt sich, wie es von einem, der vollendet und vollständig erwacht ist, erwartet wird. Und nun, Meister Gotama, muss ich gehen. Ich bin beschäftigt und habe viel zu tun.'
+"Jetzt ist die Zeit, Aggivessana, zu tun, was du für richtig hältst."
+
+Dann erhob sich Saccaka, der Sohn der Nigaṇṭhas, erfreut und zufrieden über die Worte des Erhabenen, von seinem Sitz und ging fort.
 #+end_quote
 
 *** DONE OWTJ
@@ -1331,10 +1448,19 @@ Then Saccaka the Nigaṇṭha’s son, having delighted and rejoiced in
 the Blessed One’s words, got up from his seat and departed.
 #+end_quote
 
-** TODO MN 107 (pg. 57) [1/2]
-*** TODO Deutsch
+** DONE MN 107 (pg. 57) [2/2]
+CLOSED: [2025-10-20 Mon 11:31]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 11:31]
 #+begin_quote
-
+… Als er gesprochen hatte, sagte Moggallāna der Buchhalter zum Buddha: ‚Wenn deine Schüler auf diese Weise unterwiesen und ermahnt werden, erreichen dann alle das ultimative Ziel, Nibbāna, oder scheitern einige von ihnen?‘
+‚Einige gelingen, während andere scheitern.‘
+‚Was ist die Ursache, Meister Gotama, was ist der Grund, warum, obwohl Nibbāna gegenwärtig ist, der Pfad, der zu Nibbāna führt, gegenwärtig ist und Meister Gotama anwesend ist, um sie zu ermutigen, dennoch einige gelingen, während andere scheitern?‘
+‚Nun dann, Brahmane, ich werde dich hierüber zurückfragen, und du kannst antworten, wie es dir beliebt. Was meinst du? Bist du bewandert auf dem Weg nach Rājagaha?‘
+‚Ja, das bin ich.‘
+‚Was meinst du, Brahmane? Angenommen, es käme eine Person vorbei, die nach Rājagaha gehen wollte. Sie würde an dich herantreten und sagen: „Herr, ich wünsche nach Rājagaha zu gehen. Bitte weise mir den Weg nach Rājagaha.“ Dann würdest du zu ihm sagen: „Dieser Weg führt nach Rājagaha. Gehe eine Weile entlang, und du wirst ein bestimmtes Dorf sehen. Gehe noch eine Weile weiter, und du wirst eine bestimmte Stadt sehen. Gehe noch eine Weile weiter und du wirst Rājagaha sehen mit seinen entzückenden Parks, Wäldern, Wiesen und Lotus-Teichen.“ Auf diese Weise von dir unterwiesen, könnte er dennoch den falschen Weg nehmen und Richtung Westen losziehen. Aber eine zweite Person könnte mit der gleichen Frage kommen und die gleiche Unterweisung erhalten. Von dir unterwiesen, könnte er sicher in Rājagaha ankommen. Was ist die Ursache, was ist der Grund, warum, obwohl Rājagaha gegenwärtig ist, der Pfad, der zu Rājagaha führt, gegenwärtig ist und du da bist, um ihn zu ermutigen, die eine Person den falschen Pfad nimmt und nach Westen geht, während die andere sicher in Rājagaha ankommt?‘
+‚Was kann ich dafür tun, Meister Gotama? Ich bin derjenige, der den Weg zeigt.‘
+‚Genauso, obwohl Nibbāna gegenwärtig ist, der Pfad, der zu Nibbāna führt, gegenwärtig ist und ich anwesend bin, um sie zu ermutigen, erreichen dennoch einige meiner Schüler, die auf diese Weise unterwiesen und ermahnt werden, das ultimative Ziel, Nibbāna, während einige von ihnen scheitern. Was kann ich dafür tun, Brahmane? Der Tathāgata ist derjenige, der den Weg zeigt.‘
 #+end_quote
 
 *** DONE OWTJ
