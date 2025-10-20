@@ -724,7 +724,7 @@ happy with what the Buddha said.
 ** TODO SN 36.6 (pg. 34) [1/2]
 *** TODO Deutsch
 #+begin_quote
-
+„Wenn er von einem schmerzhaften Gefühl bedrängt wird, hegt er Abneigung dagegen. Wenn er gegenüber dem schmerzhaften Gefühl Abneigung hegt, liegt dem die zugrundeliegende Neigung zur Abneigung gegenüber schmerzhaften Gefühlen zugrunde. Wenn er von einem schmerzhaften Gefühl bedrängt wird, sucht er Gefallen an Sinnengenuss. Aus welchem Grund? Weil der gewöhnliche Mensch keinen anderen Ausweg aus dem schmerzhaften Gefühl kennt als Sinnengenuss.“
 #+end_quote
 
 *** DONE OWTJ
@@ -854,7 +854,6 @@ Lack of trust, too, I say, has a nutriment; it is not without nutriment. And wha
 
 Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutriment. And what is the nutriment for not hearing the good Dhamma? It should be said: not associating with good people.
 #+end_quote
-
 
 * TODO Chapter 5 [0/2]
 ** TODO MN 36 (pg. 45) [1/2]
@@ -1793,6 +1792,8 @@ opportunity.
 #+end_quote
 
 
+
+* ----
 
 * TODO Chapter Z [0/0]
 ** TODO SUTTA (pg. ) [/]
