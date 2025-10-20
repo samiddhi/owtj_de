@@ -720,9 +720,12 @@ That is what the Buddha said. Satisfied, Venerable Ānanda was
 happy with what the Buddha said.
 #+end_quote
 
-* TODO Chapter 3  [0/1]
-** TODO SN 36.6 (pg. 34) [1/2]
-*** TODO Deutsch
+* DONE Chapter 3  [1/1]
+CLOSED: [2025-10-20 Mon 09:47]
+** DONE SN 36.6 (pg. 34) [2/2]
+CLOSED: [2025-10-20 Mon 09:47]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:47]
 #+begin_quote
 „Wenn er von einem schmerzhaften Gefühl bedrängt wird, hegt er Abneigung dagegen. Wenn er gegenüber dem schmerzhaften Gefühl Abneigung hegt, liegt dem die zugrundeliegende Neigung zur Abneigung gegenüber schmerzhaften Gefühlen zugrunde. Wenn er von einem schmerzhaften Gefühl bedrängt wird, sucht er Gefallen an Sinnengenuss. Aus welchem Grund? Weil der gewöhnliche Mensch keinen anderen Ausweg aus dem schmerzhaften Gefühl kennt als Sinnengenuss.“
 #+end_quote
@@ -733,11 +736,14 @@ CLOSED: [2025-10-20 Mon 08:25]
 Being pressured by a painful feeling, he harbours aversion towards it. When he harbours aversion towards painful feeling, the underlying tendency to aversion towards painful feeling lies behind this. Being pressured by painful feeling, he seeks delight in sensual pleasure. For what reason? Because the ordinary person does not know of any escape from painful feeling other than sensual pleasure.
 #+end_quote
 
-* TODO Chapter 4 [0/5]
-** TODO SN 45.8 (pg. 37) [1/2]
-*** TODO Deutsch
+* DONE Chapter 4 [5/5]
+CLOSED: [2025-10-20 Mon 09:54]
+** DONE SN 45.8 (pg. 37) [2/2]
+CLOSED: [2025-10-20 Mon 09:49]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:49]
 #+begin_quote
-
+Und was, Mönche, ist rechte Anstrengung? (1) Da ist der Fall, in dem ein Mönch den Wunsch erzeugt, sich bemüht, Beharrlichkeit in Gang setzt, seine Absicht aufrechterhält und sie anstrengt, um des Nicht-Entstehens von noch nicht entstandenen ungeübten Eigenschaften willen. (2) Er erzeugt den Wunsch, bemüht sich, setzt Beharrlichkeit ein, hält aufrecht und strengt seine Absicht an, um der Aufgabe bereits entstandener ungeübter Eigenschaften willen. (3) Er erzeugt den Wunsch, bemüht sich, setzt Beharrlichkeit ein, hält aufrecht und strengt seine Absicht an, um des Entstehens von noch nicht entstandenen geübten Eigenschaften willen. (4) Er erzeugt den Wunsch, bemüht sich, setzt Beharrlichkeit ein, hält aufrecht und strengt seine Absicht an für das Beibehalten, Nicht-Verdunkeln, Vermehren, Reichlich-Werden, Erfüllen und Entwickeln der bereits entstandenen geübten Eigenschaften: Dies wird rechte Anstrengung genannt.
 #+end_quote
 
 *** DONE OWTJ
@@ -745,10 +751,48 @@ CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 And what, monks, is the right effort? (1) There is the case where a monk generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the non-arising of unskilful qualities that have not yet arisen. (2) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the abandonment of unskilful qualities that have arisen. (3) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the arising of skilful qualities that have not yet arisen. (4) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the maintenance, non-confusion, increase, abundance, fulfilment, and development of skilful qualities that have arisen: This is called right effort.
 #+end_quote
-** TODO SN 51.15 (pg. 38) [1/2]
-*** TODO Deutsch
+** DONE SN 51.15 (pg. 38) [2/2]
+CLOSED: [2025-10-20 Mon 09:50]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:50]
 #+begin_quote
+Da trat ein Brahmane an den Ehrwürdigen Ānanda heran … und sagte: „Um welches Zweckes willen, Meister Ānanda, wird das heilige Leben unter dem Asketen Gotama geführt?“
 
+„Es ist um der Aufgabe der Begierde willen, Brahmane, dass das heilige Leben unter dem Erhabenen geführt wird.“
+
+„Aber, Meister Ānanda, gibt es einen Pfad für das Aufgeben dieser Begierde?“
+
+„Es gibt einen Pfad, Brahmane, für das Aufgeben dieser Begierde.“
+
+„Aber, Meister Ānanda, was ist der Pfad für das Aufgeben dieser Begierde?“
+
+„Da, Brahmane, entfaltet ein Bhikkhu die Grundlage für Wirksamkeit, die Gestimmtheit aufgrund von Begierde und Absichten des Strebens besitzt. Er entfaltet die Grundlage für Wirksamkeit, die Gestimmtheit aufgrund von Energie … Gestimmtheit aufgrund des Geistes … Gestimmtheit aufgrund von Ergründen und Absichten des Strebens besitzt. Dies, Brahmane, ist der Pfad für das Aufgeben dieser Begierde.“
+
+„So seiend, Meister Ānanda, ist die Sache niemals endend. Es ist unmöglich, dass man Begierde durch Begierde selbst aufgeben kann.“
+
+„Nun dann, Brahmane, werde ich dich hierzu befragen. Antworte, wie es dir richtig scheint.
+
+Was meinst du, hattest du zuvor die Begierde, 'Ich werde zum Park gehen', und nachdem du zum Park gegangen warst, legte sich die entsprechende Begierde?“
+
+„Ja, Herr.“
+
+„Hast du zuvor Energie aufgebracht, in dem Gedanken, 'Ich werde zum Park gehen', und nachdem du zum Park gegangen warst, legte sich die entsprechende Energie?“
+
+„Ja, Herr.“
+
+„Hast du zuvor dir vorgenommen, 'Ich werde zum Park gehen', und nachdem du zum Park gegangen warst, legte sich der entsprechende Vorsatz?“
+
+„Ja, Herr.“
+
+„Hast du zuvor eine Ergründung angestellt, 'Soll ich zum Park gehen?' und nachdem du zum Park gegangen warst, legte sich die entsprechende Ergründung?“
+
+„Ja, Herr.“
+
+„Genauso ist es mit einem Bhikkhu, der ein Arahant ist, einer, dessen Befleckungen zerstört sind, der das heilige Leben gelebt hat, getan hat, was getan werden musste, die Bürde abgelegt hat, sein eigenes Ziel erreicht hat, die Fesseln des Daseins völlig zerstört hat und durch endgültiges Wissen vollständig befreit ist. Er hatte zuvor die Begierde nach dem Erlangen der Arahantschaft, und als er die Arahantschaft erlangte, legte sich die entsprechende Begierde. Er hatte zuvor Energie aufgebracht für das Erlangen der Arahantschaft, und als er die Arahantschaft erlangte, legte sich die entsprechende Energie. Er hatte zuvor sich vorgenommen, die Arahantschaft zu erlangen, und als er die Arahantschaft erlangte, legte sich der entsprechende Vorsatz. Er hatte zuvor eine Ergründung angestellt für das Erlangen der Arahantschaft, und als er die Arahantschaft erlangte, legte sich die entsprechende Ergründung.
+
+Was meinst du, Brahmane, so seiend, ist die Sache niemals endend oder gibt es ein Ende?“
+
+„Gewiss, Meister Ānanda, so seiend, hat die Sache ein Ende und ist nicht niemals endend. Großartig, Meister Ānanda! … von heute an möge sich Meister Ānanda meiner als Laienanhänger erinnern, der auf Lebenszeit Zuflucht genommen hat.“
 #+end_quote
 
 *** DONE OWTJ
@@ -793,10 +837,12 @@ What do you think, brahmin, such being the case, is the situation never-ending o
 ‘Surely, Master Ānanda, such being the case, the situation has an end, and is not never ending. Magnificent, Master Ānanda! … from today let Master Ānanda remember me as a lay follower taken refuge for life.’
 #+end_quote
 
-** TODO MN 13 (pg. 40) [1/2]
-*** TODO Deutsch
+** DONE MN 13 (pg. 40) [2/2]
+CLOSED: [2025-10-20 Mon 09:51]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:51]
 #+begin_quote
-
+Jene Asketen, die nicht, so wie es ist, die Anziehung der Sinnlichkeit als Anziehung, das Risiko der Sinnlichkeit als Risiko, das Entrinnen aus der Sinnlichkeit als Entrinnen durchschauen: Dass sie selbst die Sinnlichkeit verstehen würden; oder einen anderen mit der Wahrheit derart aufrütteln würden, dass er, gemäß dem, was er geübt hat, die Sinnlichkeit verstehen würde: Das ist unmöglich. Doch jene Asketen, die, so wie es ist, die Anziehung der Sinnlichkeit als Anziehung, das Risiko der Sinnlichkeit als Risiko, das Entrinnen aus der Sinnlichkeit als Entrinnen durchschauen: Dass sie selbst die Sinnlichkeit verstehen würden oder einen anderen mit der Wahrheit derart aufrütteln würden, dass er, gemäß dem, was er geübt hat, die Sinnlichkeit verstehen würde: Das ist möglich.
 #+end_quote
 
 *** DONE OWTJ
@@ -805,10 +851,22 @@ CLOSED: [2025-10-20 Mon 08:24]
 Any contemplatives who do not discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they themselves would understand sensuality; or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is impossible. But any contemplatives who discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they would themselves understand sensuality or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is possible. 
 #+end_quote
 
-** TODO AN 4.159 (pg. 41) [1/2]
-*** TODO Deutsch
+** DONE AN 4.159 (pg. 41) [2/2]
+CLOSED: [2025-10-20 Mon 09:53]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:53]
 #+begin_quote
+… Da sprach Ānanda zur Nonne:
 
+‚Schwester, dieser Körper ist durch Nahrung entstanden. Indem du dich auf Nahrung stützt, solltest du die Nahrung aufgeben. Dieser Körper ist durch Begehren entstanden. Indem du dich auf Begehren stützt, solltest du das Begehren aufgeben. Dieser Körper ist durch Dünkel entstanden. Indem du dich auf Dünkel stützt, solltest du den Dünkel aufgeben. Dieser Körper ist durch Geschlechtsverkehr entstanden. Der Buddha sprach davon, alles, was mit Geschlechtsverkehr zu tun hat, abzubrechen.
+
+„Dieser Körper ist durch Nahrung entstanden. Indem du dich auf Nahrung stützt, solltest du die Nahrung aufgeben.“ Das ist, was ich sagte, aber warum sagte ich es? Nehmt einen Bhikkhu, der beständig über die Nahrung, die er isst (während er isst), reflektiert: „Nicht zum Vergnügen, nicht aus Schwelgerei, nicht zur Verschönerung oder Zierde, sondern nur, um diesen Körper zu erhalten, um Schaden zu vermeiden und das heilige Leben zu unterstützen. Auf diese Weise werde ich alte Gefühle beenden und keine neuen Gefühle entstehen lassen, und ich werde tadellos und mit Leichtigkeit leben.“ Nach einiger Zeit gibt er, indem er sich auf Nahrung stützt, die Nahrung auf. Darum habe ich gesagt, was ich sagte.
+
+„Dieser Körper ist durch Begehren entstanden. Indem du dich auf Begehren stützt, solltest du das Begehren aufgeben.“ Das ist, was ich sagte, aber warum sagte ich es? Nehmt einen Bhikkhu, der hört: „Man sagt, der Bhikkhu mit dem Soundso-Namen habe die unbefleckte Freiheit des Gemüts und Freiheit durch Weisheit in diesem selbigen Leben verwirklicht. Und er lebt, nachdem er sie durch seine eigene Einsicht aufgrund der Beendigung der Beeinträchtigungen verwirklicht hat.“ Er denkt: „Oh, wann werde auch ich die unbefleckte Freiheit des Gemüts und Freiheit durch Weisheit in diesem selbigen Leben verwirklichen. …“ Nach einiger Zeit gibt er, indem er sich auf Begehren stützt, das Begehren auf. Darum habe ich gesagt, was ich sagte.
+
+„Dieser Körper ist durch Dünkel entstanden. Indem du dich auf Dünkel stützt, solltest du den Dünkel aufgeben.“ Das ist, was ich sagte, aber warum sagte ich es? Nehmt einen Bhikkhu, der hört: „Man sagt, der Bhikkhu mit dem Soundso-Namen habe die unbefleckte Freiheit des Gemüts und Freiheit durch Weisheit in diesem selbigen Leben verwirklicht. Und er lebt, nachdem er sie durch seine eigene Einsicht aufgrund der Beendigung der Beeinträchtigungen verwirklicht hat.“ Er denkt: „Nun, dieser ehrwürdige Mensch kann die unbefleckte Freiheit des Gemüts und Freiheit durch Weisheit in diesem selbigen Leben verwirklichen. … Warum kann ich es nicht?“ Nach einiger Zeit gibt er, indem er sich auf Dünkel stützt, den Dünkel auf. Darum habe ich gesagt, was ich sagte.
+
+„Dieser Körper ist durch Geschlechtsverkehr entstanden. Der Buddha sprach davon, alles, was mit Geschlechtsverkehr zu tun hat, abzubrechen.“‘
 #+end_quote
 
 *** DONE OWTJ
@@ -827,10 +885,28 @@ CLOSED: [2025-10-20 Mon 08:24]
 “This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.”’
 #+end_quote
 
-** TODO AN 10.61 (pg. 44) [1/2]
-*** TODO Deutsch
+** DONE AN 10.61 (pg. 44) [2/2]
+CLOSED: [2025-10-20 Mon 09:54]
+*** DONE Deutsch
+CLOSED: [2025-10-20 Mon 09:54]
 #+begin_quote
+„Bhikkhus, es wird gesagt: ‚Ein erster Anfang des Nichtwissens, Bhikkhus, wird nicht gesehen, derart dass es vorher kein Nichtwissen gab und es danach ins Dasein kam.‘ Dennoch wird gesehen, dass das Nichtwissen eine spezifische Bedingung hat.
 
+Ich sage, Bhikkhus, dass das Nichtwissen eine Nahrung hat; es ist nicht ohne Nahrung. Und was ist die Nahrung für das Nichtwissen? So ist zu sagen: die fünf Hindernisse.
+
+Die fünf Hindernisse, sage auch ich, haben eine Nahrung; sie sind nicht ohne Nahrung. Und was ist die Nahrung für die fünf Hindernisse? So ist zu sagen: die drei Arten von Fehlverhalten.
+
+Die drei Arten von Fehlverhalten, sage auch ich, haben eine Nahrung; sie sind nicht ohne Nahrung. Und was ist die Nahrung für die drei Arten von Fehlverhalten? So ist zu sagen: mangelnde Zügelung der Sinnesfähigkeiten.
+
+Mangelnde Zügelung der Sinnesfähigkeiten, sage auch ich, hat eine Nahrung; sie ist nicht ohne Nahrung. Und was ist die Nahrung für mangelnde Zügelung der Sinnesfähigkeiten? So ist zu sagen: Mangel an Achtsamkeit und Gewahrsein.
+
+Mangel an Achtsamkeit und Gewahrsein, sage auch ich, hat eine Nahrung; er ist nicht ohne Nahrung. Und was ist die Nahrung für Mangel an Achtsamkeit und Gewahrsein? So ist zu sagen: keine ausgerichtete Aufmerksamkeit.
+
+Keine ausgerichtete Aufmerksamkeit, sage auch ich, hat eine Nahrung; sie ist nicht ohne Nahrung. Und was ist die Nahrung für keine ausgerichtete Aufmerksamkeit? So ist zu sagen: Mangel an Vertrauen.
+
+Mangel an Vertrauen, sage auch ich, hat eine Nahrung; er ist nicht ohne Nahrung. Und was ist die Nahrung für Mangel an Vertrauen? So ist zu sagen: das Nicht-Hören des guten Dhamma.
+
+Das Nicht-Hören des guten Dhamma, sage auch ich, hat eine Nahrung; es ist nicht ohne Nahrung. Und was ist die Nahrung für das Nicht-Hören des guten Dhamma? So ist zu sagen: der fehlende Umgang mit guten Menschen.“
 #+end_quote
 
 *** DONE OWTJ
