@@ -5,8 +5,9 @@ The following is a quotation from a sutta, and a reliable, phenomenologically-in
 
 #+OPTIONS: num:nil
 #+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
-* Chapter 1  [4/4]
-** DONE MN 107 (pg. 9)
+* DONE Chapter 1  [4/4]
+CLOSED: [2025-10-19 Sun 15:12]
+** DONE MN 107 (pg. 9) [/]
 CLOSED: [2025-10-19 Sun 14:50]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:18]
@@ -131,7 +132,7 @@ being, and who are released through right understanding—these
 qualities lead both to a pleasant abiding in the here and now, and to
 recollection and awareness.
 #+end_quote
-** DONE MN 19 (pg. 14)
+** DONE MN 19 (pg. 14) [/]
 CLOSED: [2025-10-19 Sun 12:27]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:27]
@@ -152,7 +153,7 @@ to the affliction of both,’ it subsided in me; when i considered: ‘This
 obstructs wisdom, causes difficulties, and leads away from Nibbāna,’ it
 subsided in me.
 #+end_quote
-** DONE MN 152 (pg. 14)
+** DONE MN 152 (pg. 14) [/]
 CLOSED: [2025-10-19 Sun 12:28]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:28]
@@ -179,7 +180,7 @@ recollected and aware’, he remains there equanimous, recollected and
 aware …
 #+end_quote
 
-** DONE UD 5.5 (pg. 19)
+** DONE UD 5.5 (pg. 19) [/]
 CLOSED: [2025-10-19 Sun 12:29]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:29]
@@ -196,8 +197,9 @@ performance, a gradual progression, with attainment of higher
 knowledge only after a long stretch.
 #+end_quote
 
-* Chapter 2  [4/4]
-** DONE AN 9.41 (pg. 21)
+* DONE Chapter 2  [4/4]
+CLOSED: [2025-10-19 Sun 15:12]
+** DONE AN 9.41 (pg. 21) [/]
 CLOSED: [2025-10-19 Sun 14:50]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:34]
@@ -252,7 +254,7 @@ unwholesome states, i entered and remained in the first
 comprehension: pleasure and happiness born from withdrawal, with
 thinking and pondering.’
 #+end_quote
-** DONE Vin. Kd 16 (pg. 23)
+** DONE Vin. Kd 16 (pg. 23) [/]
 CLOSED: [2025-10-19 Sun 12:36]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:36]
@@ -280,7 +282,7 @@ over doubt, having put away uncertainty, having become independent
 of others in the Teacher’s instruction.
 #+end_quote
 
-** DONE MN 125 (pg. 24)
+** DONE MN 125 (pg. 24) [/]
 CLOSED: [2025-10-19 Sun 12:38]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:38]
@@ -341,7 +343,7 @@ renunciation, attained through renunciation, realized through
 renunciation: That is impossible. …
 #+end_quote
 
-** DONE MN 81 (pg. 26)
+** DONE MN 81 (pg. 26) [/]
 CLOSED: [2025-10-19 Sun 12:43]
 *** DONE Deutsch
 CLOSED: [2025-10-19 Sun 12:43]
@@ -698,44 +700,39 @@ That is what the Buddha said. Satisfied, Venerable Ānanda was
 happy with what the Buddha said.
 #+end_quote
 
-* Chapter 3  [0/1]
-** TODO SN 36.6 (pg. 34) [/]
+* TODO Chapter 3  [0/1]
+** TODO SN 36.6 (pg. 34) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:17]
+CLOSED: [2025-10-20 Mon 08:25]
 #+begin_quote
 Being pressured by a painful feeling, he harbours aversion towards it. When he harbours aversion towards painful feeling, the underlying tendency to aversion towards painful feeling lies behind this. Being pressured by painful feeling, he seeks delight in sensual pleasure. For what reason? Because the ordinary person does not know of any escape from painful feeling other than sensual pleasure.
 #+end_quote
 
-* Chapter 4 [0/5]
-** TODO SN 45.8 (pg. 37)
+* TODO Chapter 4 [0/5]
+** TODO SN 45.8 (pg. 37) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:16]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 And what, monks, is the right effort? (1) There is the case where a monk generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the non-arising of unskilful qualities that have not yet arisen. (2) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the abandonment of unskilful qualities that have arisen. (3) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the sake of the arising of skilful qualities that have not yet arisen. (4) He generates desire, endeavours, activates persistence, upholds and exerts his intent for the maintenance, non-confusion, increase, abundance, fulfilment, and development of skilful qualities that have arisen: This is called right effort.
 #+end_quote
-** TODO SN 51.15 (pg. 38)
+** TODO SN 51.15 (pg. 38) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO Pāli
-#+begin_quote
-
-#+end_quote
-
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:16]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 Then a brahmin approached the Venerable Ānanda … and said: ‘for what purpose, Master Ānanda, is the holy life lived under the ascetic Gotama?’
 
@@ -776,36 +773,26 @@ What do you think, brahmin, such being the case, is the situation never-ending o
 ‘Surely, Master Ānanda, such being the case, the situation has an end, and is not never ending. Magnificent, Master Ānanda! … from today let Master Ānanda remember me as a lay follower taken refuge for life.’
 #+end_quote
 
-** TODO MN 13 (pg. 40)
+** TODO MN 13 (pg. 40) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO Pāli
-#+begin_quote
-
-#+end_quote
-
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:16]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 Any contemplatives who do not discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they themselves would understand sensuality; or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is impossible. But any contemplatives who discern, as it is, the gratification of sensuality as gratification, the danger of sensuality as danger, the escape from sensuality as escape: that they would themselves understand sensuality or would rouse another with the truth so that, in line with what he has practised, he would understand sensuality: that is possible. 
 #+end_quote
 
-** TODO AN 4.159 (pg. 41)
+** TODO AN 4.159 (pg. 41) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO Pāli
-#+begin_quote
-
-#+end_quote
-
 *** DONE OWTJ
-CLOSED: [2025-10-17 Fri 21:16]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 … Then Ānanda said to the nun:
 
@@ -820,18 +807,14 @@ CLOSED: [2025-10-17 Fri 21:16]
 “This body is produced by sex. The Buddha spoke of breaking off everything to do with sex.”’
 #+end_quote
 
-** TODO AN 10.61 (pg. 44)
+** TODO AN 10.61 (pg. 44) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO Pāli
-#+begin_quote
-
-#+end_quote
-
-*** OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:25]
 #+begin_quote
 Bhikkhus, this is said: ‘A first point of ignorance, bhikkhus, is not seen such that before this there was no ignorance and afterward it came into being.’ Still, ignorance is seen to have a specific condition.
 
@@ -853,15 +836,15 @@ Not hearing the good Dhamma, too, I say, has a nutriment; it is not without nutr
 #+end_quote
 
 
-* Chapter 5 [0/2]
-** TODO MN 36 (pg. 45)
+* TODO Chapter 5 [0/2]
+** TODO MN 36 (pg. 45) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-19 Sun 15:00]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 Thus have I heard. On one occasion the Blessed One was living at
 Vesālī in the Great Wood in the hall with the Peaked Roof.
@@ -1253,14 +1236,14 @@ Then Saccaka the Nigaṇṭha’s son, having delighted and rejoiced in
 the Blessed One’s words, got up from his seat and departed.
 #+end_quote
 
-** TODO MN 107 (pg. 57)
+** TODO MN 107 (pg. 57) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-19 Sun 15:00]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 … When he had spoken, Moggallāna the Accountant said to the Buddha: ‘When your disciples are instructed and advised like this, do all of them achieve the ultimate goal, Nibbāna, or do some of them fail?’
 ‘Some succeed, while others fail.’
@@ -1272,54 +1255,55 @@ CLOSED: [2025-10-19 Sun 15:00]
 ‘In the same way, though Nibbāna is present, the path leading to Nibbāna is present, and I am present to encourage them, still some of my disciples, instructed and advised like this, achieve the ultimate goal, Nibbāna, while some of them fail. What can I do about that, brahmin? The Tathāgata is the one who shows the way.’
 #+end_quote
 
-* Chapter 6 [0/5]
-** TODO MN 75 (pg. 62)
+* TODO Chapter 6 [0/5]
+** TODO MN 75 (pg. 62) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-19 Sun 15:01]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 Māgandiya, the eye delights in forms, takes delight in forms, rejoices in forms; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint.
 The ear delights in sounds … The nose delights in odours … The tongue delights in flavours … The body delights in touches … The mind delights in ideas, takes delight in ideas, rejoices in ideas; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint.
 #+end_quote
 
-** TODO SN 35.56 (pg. 64)
+** TODO SN 35.56 (pg. 64) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-19 Sun 15:03]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 Venerable sir, how should one know, how should one see, for the taints to be abandoned? … for the taints to be uprooted? … for the underlying tendencies to be abandoned? … for the underlying tendencies to be uprooted?
 Bhikkhu, when one knows and sees the eye as not-self, the underlying tendencies are uprooted. When one knows and sees forms as not-self … When one knows and sees like this, the underlying tendencies are uprooted.
 #+end_quote
 
-** TODO SN 35.243 (pg. 65)
+** TODO SN 35.243 (pg. 65) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
 *** DONE OWTJ
-CLOSED: [2025-10-19 Sun 15:03]
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 And how, friends, is one uncorrupted? Here, having seen a form with the eye, a bhikkhu is not intent upon a pleasing form and not repelled by a displeasing form. He lives having set up recollection of the body, with a measureless mind, and he understands that liberation of mind, liberation by wisdom, wherein those unwholesome states end without remainder. Having heard a sound with the ear … Having cognized a mental phenomenon with the mind, he is not intent upon a pleasing mental phenomenon and not repelled by a displeasing mental phenomenon. He lives having set up recollection of the body, with a measureless mind, and he understands that liberation of mind, liberation by wisdom, wherein those unwholesome states end without remainder.
 This is called a bhikkhu who is uncorrupted amidst forms cognizable by the eye, uncorrupted amidst sounds cognizable by the ear, uncorrupted amidst odours cognizable by the nose, uncorrupted amidst tastes cognizable by the tongue, uncorrupted amidst tactile objects cognizable by the body, uncorrupted amidst mental phenomena cognizable by the mind. When a bhikkhu lives like this, if Mara approaches him through any of the sense bases, Mara fails to gain access to him, Mara fails to get a hold on him.
 When a bhikkhu dwells thus, he overwhelms forms; forms do not overwhelm him. He overwhelms sounds; sounds do not overwhelm him. He overwhelms odours; odours do not overwhelm him. He overwhelms tastes; tastes do not overwhelm him. He overwhelms tactile objects; tactile objects do not overwhelm him. He overwhelms mental phenomena; mental phenomena do not overwhelm him. This is called a bhikkhu who overwhelms forms, who overwhelms sounds, who overwhelms odours, who overwhelms tastes, who overwhelms tactile objects, who overwhelms mental phenomena—one who overwhelms and who is not overwhelmed. He has overwhelmed those unwholesome states that defile, that lead to future being, that bring trouble, that result in suffering, and that lead to future birth, ageing, and death. It is in this way that one is uncorrupted. 
 #+end_quote
 
-** TODO SN 8.4 (pg. 65)
+** TODO SN 8.4 (pg. 65) [1/2]
 *** TODO Deutsch
 #+begin_quote
 
 #+end_quote
 
-*** TODO OWTJ
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:24]
 #+begin_quote
 ‘I’ve got a burning desire for pleasure,
 my mind is on fire!
@@ -1347,7 +1331,523 @@ and when you comprehend conceit,
 you will live at peace.’
 #+end_quote
 
-** TODO SUTTA (pg. )
+* TODO Chapter 7 [0/0]
+** TODO MN 139 (pg. 69) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:17]
+#+begin_quote
+‘One should not pursue sensual pleasure, which is low, vulgar,
+coarse, ignoble, and unbeneficial; and one should not pursue self-
+mortification, which is painful, ignoble, and unbeneficial.’ So it was
+said. And with reference to what was this said?
+The pursuit of happiness in pleasure linked to sensual desires
+–
+which is low, vulgar, coarse and unbeneficial
+–
+is, in its nature, beset
+by suffering, vexation, despair and fever. It is the wrong way. The non-
+pursuit of such happiness in pleasure linked to sensual desires
+–
+low,
+vulgar, coarse and unbeneficial
+–
+is, in its nature, free of suffering,
+vexation, despair and fever. It is the right way.
+…
+‘One should know how to define pleasure, and knowing that, one
+should pursue pleasure in oneself.’ So it was said. And with reference
+to what was this said?
+Bhikkhus, there are these five types of sensual pleasure: forms
+discernable by the eye, sounds discernable by the ear … odours
+discernable by the nose … flavours discernable by the tongue …
+tangibles discernable by the body
+–
+that are wished for, desired,
+agreeable, and likeable, connected with sensual desire and provocative
+of lust. These are the five types of sensual pleasure. Now the pleasure
+and joy that arise dependent on these five types of sensual pleasure is
+called sensual pleasure: a filthy pleasure, a coarse pleasure, an ignoble
+pleasure. I say of this kind of pleasure that it should not be pursued,
+that it should not be developed, that it should not be cultivated, and
+that it should be feared.
+Here, bhikkhus, withdrawn from sensual pleasures, withdrawn from
+unwholesome states, a bhikkhu enters upon the first comprehension
+… the second comprehension … the third comprehension … the
+fourth comprehension. This is called the pleasure of renunciation,
+the pleasure of seclusion, the pleasure of peace, the pleasure of
+enlightenment. I say of this kind of pleasure that it should be pursued,
+that it should be developed, that it should be cultivated, and that it
+should not be feared …”
+#+end_quote
+
+
+** TODO MN 36 (pg. 70) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:18]
+#+begin_quote
+I thought: ‘I recall once, when my father was working, and I was
+sitting in the cool shade of a rose-apple tree, then, withdrawn from
+sensuality, withdrawn from unwholesome states I entered upon
+the first comprehension: joy and pleasure born from seclusion,
+accompanied by thinking and pondering. Could that be the path to
+awakening?’ Then following that memory came the realization: ‘That
+is the path to awakening.’
+I thought: ‘So why am I afraid of that pleasure that has nothing to
+do with sensuality, nothing to do with unwholesome states?’ i thought:
+‘I am no longer afraid of that pleasure that has nothing to do with
+sensuality, nothing to do with unwholesome states, but that pleasure
+is not easy to achieve with a body so extremely emaciated. Suppose I
+were to take some solid food: some rice and porridge.’ So I took some
+solid food: some rice and porridge.
+#+end_quote
+
+
+** TODO MN 125 (pg. 72) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:18]
+#+begin_quote
+Come monk. Be one who moderates his eating. Concurrently reflecting,
+take your food not playfully, nor for intoxication, nor for putting
+on weight, nor for beautification, but simply for the survival and
+continuance of this body, for ending its afflictions, for the support of the
+holy life, thinking: ‘I will destroy old feelings and not create new feelings.
+Therefore i will maintain myself, be blameless and live at ease’.
+#+end_quote
+
+
+** TODO AN 6.42 (pg. 72) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:22]
+#+begin_quote
+There is the case where I see a monk, composed and sitting in a village
+dwelling. The thought occurs to me, ‘Soon a monastery attendant
+will disturb this venerable one in some way, and rouse him from his
+composure.’ And so I am not pleased with that monk’s village dwelling.
+But then there is the case where I see a monk sitting, nodding, in
+the wilderness. The thought occurs to me, ‘Soon this venerable one
+will dispel his indolence and tiredness and attend to the wilderness-
+perception, unified.’ And so i am pleased with that monk’s wilderness
+dwelling.
+Then there is the case where I see a wilderness monk sitting
+uncomposed in the wilderness. The thought occurs to me, ‘Soon this
+venerable one will compose his uncomposed mind, or protect his
+composed mind.’ And so I am pleased with that monk’s wilderness
+dwelling.
+Then there is the case where I see a wilderness monk sitting
+composed in the wilderness. The thought occurs to me, ‘Soon this
+venerable one will release his unreleased mind, or protect his released
+mind.’ And so I am pleased with that monk’s wilderness dwelling.
+Then there is the case where I see a village dwelling monk who
+receives robes, alms food, shelter, and medicines for curing the sick.
+Receiving, as he likes, those gains, offerings, and fame, he neglects
+seclusion, he neglects isolated forest and wilderness dwellings. He
+makes his living by visiting villages, towns, and cities. And so I am not
+pleased with that monk’s village-dwelling.
+Then there is the case where I see a wilderness monk who receives
+robes, alms food, shelter, and medicines for curing the sick. Fending
+off those gains, offerings, and fame, he doesn’t neglect seclusion,
+doesn’t neglect isolated forest and wilderness dwellings. And so I am
+pleased with that monk’s wilderness dwelling.
+#+end_quote
+
+
+** TODO Iti 44 (pg. 74) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:22]
+#+begin_quote
+What, bhikkhus, is the Nibbāna-element with residue left? here a
+bhikkhu is an arahant, one whose taints are destroyed, the holy life
+fulfilled, who has done what had to be done, laid down the burden,
+attained the goal, destroyed the assumption of being, completely
+released through right knowledge. however, his five sense faculties
+remain unimpaired, by which he still experiences what is agreeable
+and disagreeable and feels pleasure and pain. It is the extinction
+of greed, aversion, and delusion in him that is called the Nibbāna-
+element with residue left.
+#+end_quote
+
+
+** TODO SN 54.9 (pg. 74) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:22]
+#+begin_quote
+Then the monks, thinking: ‘The Blessed One, with many lines of
+reasoning, has given a talk on the unattractiveness of the body,
+has spoken in praise of the development of the perception of
+unattractiveness,’ remained committed to the development of the
+perception of unattractiveness in many modes and manners. They,
+being ashamed, repelled, and disgusted with this body, sought for
+an assassin. In one day, ten monks took the knife. In one day, twenty
+monks took the knife. in one day, thirty monks took the knife.
+#+end_quote
+
+
+** TODO AN 6.63 (pg. 75) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:23]
+#+begin_quote
+Lustful intention is a man’s sensuality:
+Not the beautiful things of the world.
+Beautiful things remain as they are in the world
+While the wise remove the desire for them.
+#+end_quote
+
+
+** TODO MN 76 (pg. 76) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:24]
+#+begin_quote
+‘But Master Ānanda, when a bhikkhu is an arahant
+–
+with taints
+destroyed, one who has reached fulfilment, done what had to be
+done, laid down the burden, attained his own welfare, destroyed the
+attachment to being, and is liberated through right understanding: is
+this knowledge and vision “my taints are destroyed” continually present
+to him, while walking, standing, sitting, lying, sleeping and awake?’
+Well then, Sandaka, I shall give you a simile. For it is by means
+of a simile that a wise man may understand the meaning of what
+is said. Suppose there was a person whose hands and feet had been
+amputated. Would they be aware that their hands and feet had been
+amputated constantly and continually, while walking, standing,
+sleeping, and waking? Or would they be aware of it only when they
+were to take note of it?
+‘No, master Ānanda, they wouldn’t be aware of it constantly. Only
+when they were to take note of it would they be aware: “my hands and
+feet are amputated”.’
+In the same way, when a bhikkhu is an arahant
+–
+with taints
+destroyed, one who has reached fulfilment, done what had to be
+done, laid down the burden, attained his own welfare, destroyed the
+attachment to being, and is liberated through right understanding
+–
+this knowledge and vision ‘my taints are destroyed’ is not continually
+present to him, while walking, standing, sitting, lying, sleeping and
+awake. Rather, it is only when he takes note of it that he is aware: ‘my
+taints are destroyed.’
+#+end_quote
+
+
+** TODO SN 35.230 (pg. 79) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:25]
+#+begin_quote
+Bhikkhus, suppose a fisherman would cast a baited hook into a deep
+lake, and a fish on the lookout for food would swallow it. That fish who
+has thus swallowed the fisherman’s hook would meet with calamity
+and disaster, and the fisherman could do with it as he wishes. So too,
+bhikkhus, there are these six hooks in the world for the calamity of
+beings, for the slaughter of living beings.
+There are, bhikkhus, forms cognizable by the eye that are wished
+for, desired, agreeable, likeable, sensual and provocative of lust. If a
+bhikkhu seeks delight in them, welcomes them, and remains holding
+to them, he is called a bhikkhu who has swallowed Mara’s hook. He has
+met with calamity and disaster, and the Evil One can do with him as he
+wishes.
+There are, bhikkhus, sounds cognizable by the ear … thoughts
+cognizable by the mind that are desirable … tantalizing. If a bhikkhu
+seeks delight in them … the Evil One can do with him as he wishes.
+There are, bhikkhus, forms cognizable by the eye that are wished
+for, desired, agreeable, likeable, sensual and provocative of lust. If a
+bhikkhu does not seek delight in them, does not welcome them, and
+does not remain holding to them, he is called a bhikkhu who has not
+swallowed Mara’s hook, who has broken the hook, demolished the
+hook. He has not met with calamity and disaster, and the Evil One
+cannot do with him as he wishes.
+There are, bhikkhus, sounds cognizable by the ear … thoughts
+cognizable by the mind that are wished for … provocative of lust. If a
+bhikkhu does not seek delight in them … the Evil One cannot do with
+him as he wishes.
+#+end_quote
+
+
+** TODO MN 22 (pg. 80) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:25]
+#+begin_quote
+Bhikkhus, that one can engage in sensual pleasures without sensual
+desires, without perceptions of sensual desire, without thoughts of
+sensual desire, that is impossible.
+#+end_quote
+
+
+
+
+** TODO MN 25 (pg. 80) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 08:27]
+#+begin_quote
+SIMILE OF THE BAIT
+… Bhikkhus, a deer-trapper does not lay down bait for a deer herd
+intending thus: ‘May the deer herd enjoy this bait that I have laid
+down and be happy forever.’ A deer-trapper lays down bait for a deer
+herd intending thus instead: ‘The deer herd will eat food unwarily by
+going right in amongst the bait that I have laid down; by so doing they
+will become intoxicated; when they are intoxicated, they will fall into
+negligence; when they are negligent, I can do with them as I like on
+account of this bait.’
+1. Now the deer of the first herd went to the deer-trappers field, ate
+the bait, absorbed, intoxicated and negligent, became subjected to the
+wishes of the deer-trapper. That is how the deer of the first herd failed
+to get free from the deer trapper’s power and control.
+2. Now the deer of a second herd reckoned thus: ‘The deer of that
+first herd, by acting as they did without precaution, failed to get free
+from the deer-trapper’s power and control. Suppose we altogether
+shun that bait; shunning that fearful enjoyment, let us go out into
+the forest wilds and live there.’ And they did so. But in the last month
+of the hot season when the grass and the water were used up, their
+bodies were reduced to extreme emaciation; with that they lost their
+strength and energy. Then they went back to the deer-trappers’ field,
+ate the bait, absorbed, intoxicated and negligent, became subjected
+to the wishes of the deer-trapper. That is how the deer of the second
+herd also failed to get free from the deer-trapper’s power and control.
+3. Now the deer of a third herd reckoned thus: ‘The deer of that
+first herd … the deer of that second herd, reckoning the failure of the
+first herd, tried to live in the forest wilds; but they also failed to get
+free from the deer-trapper’s power and control. Suppose we make our
+dwelling place within range of the deer-trapper’s bait. Then we shall
+eat food not unwarily and without going right into the bait, by doing
+so we shall not become intoxicated; we shall not fall into negligence;
+when we are not negligent, the deer-trapper shall not do with us as
+he likes on account of that bait.’ And they did so. But then the deer-
+trapper and his following considered thus: ‘These deer of this third
+herd are as cunning and crafty as wizards and sorcerers. They eat the
+bait laid down without our knowing how they come and go. Suppose
+we have the bait that is laid down completely surrounded all round
+over a wide area with wicker hurdles; then perhaps we might see
+where the third deer herd’s dwelling place are.’ They did so, and they
+saw where the third herd hide. And that is how the deer of the third
+herd also failed to get free from the deer-trapper’s power and control.
+4. Now the deer of a fourth herd reckoned thus: ‘The deer of that
+first herd … the deer of that third herd, … also failed to get free from
+the deer-trapper’s power and control. Suppose we make our dwelling
+place where the deer-trapper and his following cannot go. Then,
+having done so, we shall eat food not unwarily and without going right
+in amongst the bait that the deer-trapper has laid down; by doing so
+we shall not become intoxicated; we shall not fall into negligence;
+when we are not negligent, the deer-trapper shall not do with us as he
+likes on account of that bait.’ And they did so.
+But then the deer-trapper and his following considered thus: ‘These
+deer of this fourth herd are as cunning and crafty as wizards and
+sorcerers. They eat the bait laid down without our knowing how they
+come and go. Suppose we have the bait that is laid down completely
+surrounded all round over a wide area with wicker hurdles; then
+perhaps we might see the fourth deer herd’s dwelling place, where
+they go to hide.’ They did so, but they did not see the fourth deer
+herd’s dwelling place. Then the deer-hunter and his following
+considered thus: ‘If we scare the fourth deer herd, being scared
+they will alert others, and so the deer herds will all desert this bait
+that we have laid down. Suppose we treat the fourth deer herd with
+indifference.’ They did so. And that was how the deer of the fourth
+deer herd got free from the deer-trapper’s power and control.
+Bhikkhus, I have given this simile in order to convey a meaning.
+‘Bait’ is a term for the five types of sensual pleasure. ‘Deer-trapper’ is a
+term for Mara the Evil One. ‘The deer-trapper’s following’ is a term for
+Mara’s following. ‘Deer herd’ is a term for recluses and brahmins.
+Now recluses and brahmins of the first kind ate food unwarily by
+going right in amongst the bait and the material things of the world
+that Mara had laid down; by doing so they became intoxicated; they
+fell into negligence. When they were negligent, Mara did with them as
+he liked on account of that bait and those material things of the world.
+That is how the recluses and brahmins of the first kind failed to get
+free from Mara’s power and control.
+Now recluses and brahmins of the second kind reckoned thus:
+‘Those recluses and brahmins of the first kind, by acting as they did
+without precaution, failed to get free from Mara’s power and control.
+Suppose we shun that bait food and those material things of the world;
+shunning that fearful enjoyment, let us go out into the forest and live
+there.’ And they did so. There they were eaters of greens or millet or
+rice-bran or the discarded scum of boiled rice or grass or cow dung;
+they lived on forest roots and fruits. But in the last month of the hot
+season when the grass and the water were used up, their bodies were
+reduced to extreme emaciation; with that they lost their strength and
+energy; they lost their liberation of mind; they returned to that same
+bait that Mara had laid down and those material things of the world;
+they ate food unwarily by going right in amongst it; by so doing they
+became intoxicated; they fell into negligence; Mara did with them as
+he liked on account of that bait and those material things of the world.
+That is how those recluses and brahmins of the second kind failed to
+get free from Mara’s power and control.
+Now recluses and brahmins of the third kind reckoned thus: ‘Those
+recluses and brahmins of the first kind, by acting as they did without
+precaution, failed to get free from Mara’s power and control. Those
+recluses and brahmins of the second kind, by reckoning how the
+recluses and brahmins of the first kind had failed, they did with the
+precaution of going to live in the forest wilds, also failed to get free
+from Mara’s power and control. Suppose we make our dwelling place
+within range of that bait that Mara has laid down and those material
+things of the world. Having done so, we shall eat food not unwarily
+and without going right in amongst the bait that Mara has laid
+down and the material things of the world. By doing so we shall not
+become intoxicated; we shall not fall into negligence; when we are not
+negligent, Mara shall not do with us as he likes on account of that bait
+and those material things of the world.’ And they did so.
+But then they came to hold views such as ‘the world is eternal’ and
+‘the world is not eternal’ and ‘the world is finite’ and ‘the world is
+infinite’ and ‘the soul and the body are the same’ and ‘the soul is one
+thing and the body another’ and ‘after death a Tathagata exists’ and
+‘after death a Tathagata does not exist’ and ‘after death a Tathagata
+both exists and does not exist’ and ‘after death a Tathagata neither
+exists nor does not exist.’ That is how those recluses and brahmins of
+the third kind failed to get free from Mara’s power and control. Those
+recluses and brahmins, I say, are just like the deer of the third herd.
+Now recluses and brahmins of the fourth kind reckoned thus: ‘Those
+recluses and brahmins of the first kind, … the recluses and brahmins
+of the third kind, by reckoning how the recluses and brahmins of the
+first kind and also the recluses and brahmins of the second kind had
+failed, they make their dwelling place within range of the bait that
+Mara had laid down and the material things of the world, also failed
+to get free from Mara’s power and control. Suppose we make our
+dwelling place where Mara and his following cannot go. Then, having
+done so, we shall eat food not unwarily and without going right in
+amongst the bait that Mara has laid down and the material things
+of the world. By doing so we shall not become intoxicated; we shall
+not fall into negligence; then Mara shall not do with us as he likes on
+account of that bait and those material things of the world.’ And they
+did so. And that is how those recluses and brahmins of the fourth kind
+got free from Mara’s power and control. Those recluses and brahmins,
+I say, are just like the deer of the fourth herd.
+And where is it that Mara and his followers cannot go? here,
+withdrawn from sensual pleasures, withdrawn from unwholesome
+states, a bhikkhu enters upon the first comprehension, which is
+accompanied by thinking and pondering, with joy and pleasure
+born of seclusion. This bhikkhu is said to have blindfolded Mara, to
+have become invisible to the Evil One by depriving Mara’s eye of its
+opportunity.
+#+end_quote
+
+
+
+* TODO Chapter Z [0/0]
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** TODO OWTJ
+#+begin_quote
+
+#+end_quote
+
+
+** TODO SUTTA (pg. ) [/]
 *** TODO Deutsch
 #+begin_quote
 
