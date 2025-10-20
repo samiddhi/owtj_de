@@ -1,7 +1,27 @@
 
 
+#+begin_src emacs-lisp
+
+      (defun copy-sutta ()
+        (interactive)
+        (save-excursion
+          (copy-region-as-kill (re-search-backward "#\\+begin_prompt")
+                               (re-search-forward "#\\+end_prompt")))
+        (kill-append "\n\n" nil)
+        (save-excursion
+          (kill-append (buffer-substring
+                        (re-search-backward "#\\+begin_quote")
+                        (re-search-forward "#\\+end_quote"))
+                       nil))
+        (re-search-backward "#\\+begin_quote" (point-min) t 2)
+        (forward-line))
+
+#+end_src
+
 * Prompt
-The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular. 
+#+begin_prompt
+The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular.
+#+end_prompt
 
 #+OPTIONS: num:nil
 #+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
@@ -1331,7 +1351,7 @@ and when you comprehend conceit,
 you will live at peace.’
 #+end_quote
 
-* TODO Chapter 7 [0/0]
+* TODO Chapter 7 [0/11]
 ** TODO MN 139 (pg. 69) [1/2]
 *** TODO Deutsch
 #+begin_quote
@@ -1857,4 +1877,3 @@ opportunity.
 #+begin_quote
 
 #+end_quote
-
