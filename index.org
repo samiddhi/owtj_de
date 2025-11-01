@@ -1,26 +1,28 @@
 
 
+
 #+begin_src emacs-lisp
 
-      (defun copy-sutta ()
-        (interactive)
-        (save-excursion
-          (copy-region-as-kill (re-search-backward "#\\+begin_prompt")
-                               (re-search-forward "#\\+end_prompt")))
-        (kill-append "\n\n" nil)
-        (save-excursion
-          (kill-append (buffer-substring
-                        (re-search-backward "#\\+begin_quote")
-                        (re-search-forward "#\\+end_quote"))
-                       nil))
-        (re-search-backward "#\\+begin_quote" (point-min) t 2)
-        (forward-line))
+  (defun copy-sutta ()
+    (interactive)
+    (save-excursion
+      (copy-region-as-kill (re-search-backward "#\\+begin_prompt")
+                           (re-search-forward "#\\+end_prompt")))
+    (kill-append "\n\n" nil)
+    (save-excursion
+      (kill-append (buffer-substring
+                    (re-search-backward "#\\+begin_quote")
+                    (re-search-forward "#\\+end_quote"))
+                   nil))
+    (re-search-backward "#\\+begin_quote" (point-min) t 2)
+    (forward-line))
+  (global-set-key (kbd "s-a") #'copy-sutta)
 
 #+end_src
 
 * Prompt
 #+begin_prompt
-The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular.
+The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular. Your response should be ONLY the translated text, no other message for the user.
 #+end_prompt
 
 #+OPTIONS: num:nil
@@ -1476,11 +1478,15 @@ CLOSED: [2025-10-20 Mon 08:24]
 ‘In the same way, though Nibbāna is present, the path leading to Nibbāna is present, and I am present to encourage them, still some of my disciples, instructed and advised like this, achieve the ultimate goal, Nibbāna, while some of them fail. What can I do about that, brahmin? The Tathāgata is the one who shows the way.’
 #+end_quote
 
-* TODO Chapter 6 [0/5]
-** TODO MN 75 (pg. 62) [1/2]
-*** TODO Deutsch
+* DONE Chapter 6 [4/4]
+CLOSED: [2025-11-01 Sat 06:13]
+** DONE MN 75 (pg. 62) [2/2]
+CLOSED: [2025-11-01 Sat 06:13]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:13]
 #+begin_quote
-
+Māgandiya, das Auge hat Gefallen an Formen, findet Gefallen an Formen, hat Freude an Formen; dies ist vom Tathāgata gezähmt worden, bewacht, behütet und im Zaum gehalten, und er lehrt das Dhamma zu seiner Zügelung.
+Das Ohr hat Gefallen an Tönen … Die Nase hat Gefallen an Gerüchen … Die Zunge hat Gefallen an Geschmäckern … Der Körper hat Gefallen an Berührungen … Der Geist hat Gefallen an Vorstellungen, findet Gefallen an Vorstellungen, hat Freude an Vorstellungen; dies ist vom Tathāgata gezähmt worden, bewacht, behütet und im Zaum gehalten, und er lehrt das Dhamma zu seiner Zügelung.
 #+end_quote
 
 *** DONE OWTJ
@@ -1490,10 +1496,14 @@ Māgandiya, the eye delights in forms, takes delight in forms, rejoices in forms
 The ear delights in sounds … The nose delights in odours … The tongue delights in flavours … The body delights in touches … The mind delights in ideas, takes delight in ideas, rejoices in ideas; that has been tamed by the Tathāgata, guarded, protected, and restrained, and he teaches the Dhamma for its restraint.
 #+end_quote
 
-** TODO SN 35.56 (pg. 64) [1/2]
-*** TODO Deutsch
+** DONE SN 35.56 (pg. 64) [2/2]
+CLOSED: [2025-11-01 Sat 06:13]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:13]
 #+begin_quote
+Ehrwürdiger Herr, wie soll man erkennen, wie soll man schauen, damit die Beeinträchtigungen aufgegeben werden? … damit die Beeinträchtigungen entwurzelt werden? … damit die zugrundeliegenden Neigungen aufgegeben werden? … damit die zugrundeliegenden Neigungen entwurzelt werden?
 
+Bhikkhu, wenn man das Auge als Nicht-Selbst erkennt und schaut, werden die zugrundeliegenden Neigungen entwurzelt. Wenn man Formen als Nicht-Selbst erkennt und schaut … Wenn man auf diese Weise erkennt und schaut, werden die zugrundeliegenden Neigungen entwurzelt.
 #+end_quote
 
 *** DONE OWTJ
@@ -1503,10 +1513,19 @@ Venerable sir, how should one know, how should one see, for the taints to be aba
 Bhikkhu, when one knows and sees the eye as not-self, the underlying tendencies are uprooted. When one knows and sees forms as not-self … When one knows and sees like this, the underlying tendencies are uprooted.
 #+end_quote
 
-** TODO SN 35.243 (pg. 65) [1/2]
-*** TODO Deutsch
+** DONE SN 35.243 (pg. 65) [2/2]
+CLOSED: [2025-11-01 Sat 06:13]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:13]
 #+begin_quote
+Und wie, Freunde, ist einer unverdorben? Da ist ein Bhikkhu, der mit dem Auge eine Form gesehen hat, nicht hingegeben an eine gefällige Form und nicht abgestoßen von einer ungefälligen Form. Er weilt, nachdem er die Vergegenwärtigung des Körpers eingerichtet hat, mit einem unermesslichen Gemüt, und er versteht jene Erlösung des Gemüts, Erlösung durch Weisheit, worin jene unheilsamen Zustände restlos enden.
+Nachdem er mit dem Ohr einen Ton gehört hat …
+Nachdem er mit dem Geist ein geistiges Phänomen erkannt hat, ist er nicht hingegeben an ein gefälliges geistiges Phänomen und nicht abgestoßen von einem ungefälligen geistigen Phänomen. Er weilt, nachdem er die Vergegenwärtigung des Körpers eingerichtet hat, mit einem unermesslichen Gemüt, und er versteht jene Erlösung des Gemüts, Erlösung durch Weisheit, worin jene unheilsamen Zustände restlos enden.
 
+Dies wird ein Bhikkhu genannt, der unverdorben ist inmitten von durch das Auge erkennbaren Formen, unverdorben inmitten von durch das Ohr erkennbaren Tönen, unverdorben inmitten von durch die Nase erkennbaren Gerüchen, unverdorben inmitten von durch die Zunge erkennbaren Geschmäckern, unverdorben inmitten von durch den Körper erkennbaren Berührungsobjekten, unverdorben inmitten von durch den Geist erkennbaren geistigen Phänomenen.
+Wenn ein Bhikkhu so weilt, dann, wenn Mara ihn durch irgendeine der Sinnesgrundlagen aufsucht, kann Mara bei ihm keinen Zutritt gewinnen, Mara kann ihn nicht zu fassen kriegen.
+
+Wenn ein Bhikkhu so weilt, dann überwältigt er Formen; Formen überwältigen ihn nicht. Er überwältigt Töne; Töne überwältigen ihn nicht. Er überwältigt Gerüche; Gerüche überwältigen ihn nicht. Er überwältigt Geschmäcker; Geschmäcker überwältigen ihn nicht. Er überwältigt Berührungsobjekte; Berührungsobjekte überwältigen ihn nicht. Er überwältigt geistige Phänomene; geistige Phänomene überwältigen ihn nicht. Dies wird ein Bhikkhu genannt, der Formen überwältigt, der Töne überwältigt, der Gerüche überwältigt, der Geschmäcker überwältigt, der Berührungsobjekte überwältigt, der geistige Phänomene überwältigt – einer, der überwältigt und der nicht überwältigt wird. Er hat jene unheilsamen Zustände überwältigt, die beflecken, die zu künftigem Dasein führen, die Beschwerde bringen, die in Leid resultieren und die zu künftiger Geburt, Altern und Tod führen. Auf diese Weise ist einer unverdorben.
 #+end_quote
 
 *** DONE OWTJ
@@ -1517,10 +1536,35 @@ This is called a bhikkhu who is uncorrupted amidst forms cognizable by the eye, 
 When a bhikkhu dwells thus, he overwhelms forms; forms do not overwhelm him. He overwhelms sounds; sounds do not overwhelm him. He overwhelms odours; odours do not overwhelm him. He overwhelms tastes; tastes do not overwhelm him. He overwhelms tactile objects; tactile objects do not overwhelm him. He overwhelms mental phenomena; mental phenomena do not overwhelm him. This is called a bhikkhu who overwhelms forms, who overwhelms sounds, who overwhelms odours, who overwhelms tastes, who overwhelms tactile objects, who overwhelms mental phenomena—one who overwhelms and who is not overwhelmed. He has overwhelmed those unwholesome states that defile, that lead to future being, that bring trouble, that result in suffering, and that lead to future birth, ageing, and death. It is in this way that one is uncorrupted. 
 #+end_quote
 
-** TODO SN 8.4 (pg. 65) [1/2]
-*** TODO Deutsch
+** DONE SN 8.4 (pg. 65) [2/2]
+CLOSED: [2025-11-01 Sat 06:13]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:13]
 #+begin_quote
+„Ich habe ein brennendes Verlangen nach Vergnügen,
+mein Gemüt steht in Flammen!
+Bitte, aus Mitgefühl, Gotama,
+sag mir, wie ich die Flammen löschen kann!“
 
+„Dein Gemüt brennt
+wegen einer Verkehrung der Wahrnehmung.
+Wende dich ab von dem Merkmal der Dinge, das anziehend ist,
+das Begierde hervorruft.
+
+Sieh alle zugrundeliegenden Regungen als fremd und äußerlich,
+als Leiden und Nicht-Selbst.
+Lösche das große Feuer der Begierde,
+brenne nicht immer wieder neu.
+
+Mit einem erhobenen und ruhigen Gemüt,
+betrachte die unattraktiven Aspekte des Körpers.
+Mit der Vergegenwärtigung des Körpers,
+sei voll der Entzauberung.
+
+Pflege das Merkmal der Merkmallosigkeit,
+lege die zugrundeliegende Neigung zum Dünkel ab
+und wenn du den Dünkel durchschaut hast,
+wirst du in Frieden leben.“
 #+end_quote
 
 *** DONE OWTJ
@@ -1552,11 +1596,23 @@ and when you comprehend conceit,
 you will live at peace.’
 #+end_quote
 
-* TODO Chapter 7 [0/11]
-** TODO MN 139 (pg. 69) [1/2]
-*** TODO Deutsch
+* DONE Chapter 7 [11/11]
+CLOSED: [2025-11-01 Sat 06:30]
+** DONE MN 139 (pg. 69) [2/2]
+CLOSED: [2025-11-01 Sat 06:14]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:14]
 #+begin_quote
+„Man sollte nicht sinnlichem Vergnügen nachjagen, das niedrig, gewöhnlich,
+grob, unedel und nicht nützlich ist; und man sollte nicht Selbstkasteiung nachjagen, das schmerzhaft, unedel und nicht nützlich ist.“ So wurde
+gesagt. Und in Bezug worauf wurde dies gesagt?
+Das Streben nach Glück im Vergnügen, das mit sinnlichen Begierden verbunden ist – welches niedrig, gewöhnlich, grob und nicht nützlich ist – ist in seinem Wesen von Leid, Beunruhigung, Verzweiflung und Fieber geplagt. Es ist der falsche Weg. Das Nicht-Streben nach solchem Glück im Vergnügen, das mit sinnlichen Begierden verbunden ist – niedrig, gewöhnlich, grob und nicht nützlich – ist in seinem Wesen frei von Leid, Beunruhigung, Verzweiflung und Fieber. Es ist der rechte Weg.
+…
+„Man sollte wissen, wie man Vergnügen definiert, und dies wissend, sollte man Vergnügen in sich selbst verfolgen.“ So wurde gesagt. Und in Bezug worauf wurde dies gesagt?
 
+Bhikkhus, es gibt diese fünf Arten von sinnlichem Vergnügen: mit dem Auge erfassbare Formen, mit dem Ohr erfassbare Töne … mit der Nase erfassbare Gerüche … mit der Zunge erfassbare Geschmäcker … mit dem Körper erfassbare Berührungen – die ersehnt, begehrt, angenehm und liebenswert sind, mit sinnlicher Begierde verbunden und Begierde hervorrufend. Dies sind die fünf Arten von sinnlichem Vergnügen. Nun, das Vergnügen und die Freude, die in Abhängigkeit von diesen fünf Arten von sinnlichem Vergnügen entstehen, wird sinnliches Vergnügen genannt: ein schmutziges Vergnügen, ein grobes Vergnügen, ein unedles Vergnügen. Ich sage von dieser Art von Vergnügen, dass man ihm nicht nachjagen sollte, dass man es nicht entfalten sollte, dass man es nicht pflegen sollte und dass man es fürchten sollte.
+
+Hier nun, Bhikkhus, zurückgezogen von sinnlichen Vergnügen, zurückgezogen von unheilsamen Zuständen, tritt ein Bhikkhu in die erste Vertiefung ein … die zweite Vertiefung … die dritte Vertiefung … die vierte Vertiefung. Dies wird das Vergnügen der Entsagung genannt, das Vergnügen der Abgeschiedenheit, das Vergnügen des Friedens, das Vergnügen der Erleuchtung. Ich sage von dieser Art von Vergnügen, dass man ihm nachjagen sollte, dass man es entfalten sollte, dass man es pflegen sollte und dass man es nicht fürchten sollte …“
 #+end_quote
 
 *** DONE OWTJ
@@ -1607,10 +1663,14 @@ should not be feared …”
 #+end_quote
 
 
-** TODO MN 36 (pg. 70) [1/2]
-*** TODO Deutsch
+** DONE MN 36 (pg. 70) [2/2]
+CLOSED: [2025-11-01 Sat 06:15]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:15]
 #+begin_quote
+Ich dachte: ‚Ich erinnere mich daran, wie einmal, als mein Vater arbeitete und ich im kühlen Schatten eines Rosenapfelbaums saß, ich da, zurückgezogen von Sinnlichkeit, zurückgezogen von unheilsamen Zuständen, in die erste Vertiefung eintrat: Freude und Vergnügen, geboren aus Abgeschiedenheit, begleitet von Denken und Überlegen. Könnte das der Weg zum Erwachen sein?‘ Dann folgte dieser Erinnerung die Erkenntnis: ‚Das ist der Weg zum Erwachen.‘
 
+Ich dachte: ‚Warum also fürchte ich jenes Vergnügen, das nichts mit Sinnlichkeit zu tun hat, nichts mit unheilsamen Zuständen?‘ Ich dachte: ‚Ich fürchte jenes Vergnügen nicht länger, das nichts mit Sinnlichkeit zu tun hat, nichts mit unheilsamen Zuständen, aber jenes Vergnügen ist nicht leicht zu erreichen mit einem Körper, der so äußerst abgemagert ist. Angenommen, ich würde etwas feste Nahrung zu mir nehmen: etwas Reis und Brei.‘ Also nahm ich etwas feste Nahrung zu mir: etwas Reis und Brei.
 #+end_quote
 
 *** DONE OWTJ
@@ -1633,10 +1693,12 @@ solid food: some rice and porridge.
 #+end_quote
 
 
-** TODO MN 125 (pg. 72) [1/2]
-*** TODO Deutsch
+** DONE MN 125 (pg. 72) [2/2]
+CLOSED: [2025-11-01 Sat 06:16]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:16]
 #+begin_quote
-
+Komm, Mönch. Sei einer, der sein Essen mäßigt. Indem du dabei überlegst, nimm deine Nahrung nicht aus Spaß, noch für Rausch, noch um Gewicht zuzulegen, noch für Verschönerung, sondern einfach für das Überleben und Fortbestehen dieses Körpers, um seine Beschwerden zu beenden, für die Unterstützung des heiligen Lebens, indem du denkst: ‚Ich werde alte Gefühle zerstören und keine neuen Gefühle erzeugen. Daher werde ich mich selbst erhalten, tadellos sein und in Leichtigkeit leben‘.
 #+end_quote
 
 *** DONE OWTJ
@@ -1651,10 +1713,21 @@ Therefore i will maintain myself, be blameless and live at ease’.
 #+end_quote
 
 
-** TODO AN 6.42 (pg. 72) [1/2]
-*** TODO Deutsch
+** DONE AN 6.42 (pg. 72) [2/2]
+CLOSED: [2025-11-01 Sat 06:17]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:17]
 #+begin_quote
+Es gibt den Fall, wenn ich einen Mönch sehe, der gefasst ist und in der Nähe eines Dorfes weilt. Da kommt mir der Gedanke: ‚Bald wird ein Klosterdiener diesen Ehrwürdigen auf irgendeine Weise stören und ihn aus seiner Fassung aufscheuchen.‘ Und so bin ich nicht erfreut über das Dorf-Wohnen jenes Mönches.
+Doch dann gibt es den Fall, wenn ich einen Mönch sehe, der in der Wildnis dasitzt und nickt. Da kommt mir der Gedanke: ‚Bald wird dieser Ehrwürdige seine Trägheit und Müdigkeit vertreiben und sich der Wildnis-Wahrnehmung zuwenden, geeint.‘ Und so bin ich erfreut über das Wildnis-Wohnen jenes Mönches.
 
+Dann gibt es den Fall, wenn ich einen Wildnis-Mönch sehe, der ungefasst in der Wildnis sitzt. Da kommt mir der Gedanke: ‚Bald wird dieser Ehrwürdige sein ungefasstes Gemüt fassen oder sein gefasstes Gemüt beschützen.‘ Und so bin ich erfreut über das Wildnis-Wohnen jenes Mönches.
+
+Dann gibt es den Fall, wenn ich einen Wildnis-Mönch sehe, der gefasst in der Wildnis sitzt. Da kommt mir der Gedanke: ‚Bald wird dieser Ehrwürdige sein noch nicht befreites Gemüt befreien oder sein befreites Gemüt beschützen.‘ Und so bin ich erfreut über das Wildnis-Wohnen jenes Mönches.
+
+Dann gibt es den Fall, wenn ich einen Dorf-Mönch sehe, der Roben, Almenspeise, Unterkunft und Heilmittel erhält. Indem er diese Erlangungen, Zuwendungen und diesen Ruhm, so wie es ihm gefällt, annimmt, vernachlässigt er die Abgeschiedenheit, er vernachlässigt abgelegene Wald- und Wildnis-Aufenthalte. Er bestreitet seinen Lebensunterhalt, indem er Dörfer, Städte und Metropolen besucht. Und so bin ich nicht erfreut über das Dorf-Wohnen jenes Mönches.
+
+Dann gibt es den Fall, wenn ich einen Wildnis-Mönch sehe, der Roben, Almenspeise, Unterkunft und Heilmittel erhält. Indem er jene Erlangungen, Zuwendungen und jenen Ruhm abwehrt, vernachlässigt er nicht die Abgeschiedenheit, vernachlässigt er nicht abgelegene Wald- und Wildnis-Aufenthalte. Und so bin ich erfreut über das Wildnis-Wohnen jenes Mönches.
 #+end_quote
 
 *** DONE OWTJ
@@ -1692,10 +1765,12 @@ pleased with that monk’s wilderness dwelling.
 #+end_quote
 
 
-** TODO Iti 44 (pg. 74) [1/2]
-*** TODO Deutsch
+** DONE Iti 44 (pg. 74) [2/2]
+CLOSED: [2025-11-01 Sat 06:17]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:17]
 #+begin_quote
-
+Was, ihr Bhikkhus, ist das Nibbāna-Element mit zurückbleibendem Rest? Hier ist ein Bhikkhu ein Arahant, einer, dessen Beeinträchtigungen zerstört sind, der das heilige Leben erfüllt hat, der getan hat, was zu tun war, die Bürde abgelegt hat, das Ziel erreicht hat, die Annahme eines Wesens zerstört hat, durch rechtes Wissen vollständig befreit ist. Allerdings bleiben seine fünf Sinnesfähigkeiten unbeeinträchtigt, durch die er immer noch erfährt, was angenehm und unangenehm ist, und Vergnügen und Schmerz fühlt. Es ist die Auslöschung von Gier, Abneigung und Verblendung in ihm, die das Nibbāna-Element mit zurückbleibendem Rest genannt wird.
 #+end_quote
 
 *** DONE OWTJ
@@ -1713,10 +1788,12 @@ element with residue left.
 #+end_quote
 
 
-** TODO SN 54.9 (pg. 74) [1/2]
-*** TODO Deutsch
+** DONE SN 54.9 (pg. 74) [2/2]
+CLOSED: [2025-11-01 Sat 06:18]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:18]
 #+begin_quote
-
+Dann blieben die Mönche, in der Gedanke: ‚Der Gesegnete hat mit vielen Argumenten eine Rede über die Unattraktivität des Körpers gegeben, hat die Entwicklung der Wahrnehmung der Unattraktivität gelobt,‘ dementsprechend der Entwicklung der Wahrnehmung der Unattraktivität in vielfacher Weise und Art verpflichtet. Sie, beschämt, abgestoßen und angewidert von diesem Körper, suchten nach einem Mörder. An einem Tag nahmen zehn Mönche das Messer. An einem Tag nahmen zwanzig Mönche das Messer. An einem Tag nahmen dreißig Mönche das Messer.
 #+end_quote
 
 *** DONE OWTJ
@@ -1733,10 +1810,15 @@ monks took the knife. in one day, thirty monks took the knife.
 #+end_quote
 
 
-** TODO AN 6.63 (pg. 75) [1/2]
-*** TODO Deutsch
+** DONE AN 6.63 (pg. 75) [2/2]
+CLOSED: [2025-11-01 Sat 06:18]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:18]
 #+begin_quote
-
+Begehrliche Absicht ist die Sinnlichkeit eines Menschen:
+Nicht die schönen Dinge der Welt.
+Die schönen Dinge bleiben, wie sie sind in der Welt,
+Während die Weisen das Verlangen nach ihnen entfernen.
 #+end_quote
 
 *** DONE OWTJ
@@ -1749,10 +1831,18 @@ While the wise remove the desire for them.
 #+end_quote
 
 
-** TODO MN 76 (pg. 76) [1/2]
-*** TODO Deutsch
+** DONE MN 76 (pg. 76) [2/2]
+CLOSED: [2025-11-01 Sat 06:19]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:19]
 #+begin_quote
+„Aber Meister Ānanda, wenn ein Bhikkhu ein Arahant ist – mit zerstörten Beeinträchtigungen, einer, der die Erfüllung erreicht hat, getan hat, was zu tun war, die Bürde abgelegt hat, sein eigenes Wohl erlangt hat, die Anhaftung an das Sein zerstört hat und durch rechtes Verständnis befreit ist: ist dann dieses Wissen und diese Schau ‚meine Beeinträchtigungen sind zerstört‘ beständig in ihm gegenwärtig, während er geht, steht, sitzt, liegt, schläft und wach ist?“
 
+„Wohlan denn, Sandaka, ich werde dir einen Vergleich geben. Denn durch einen Vergleich kann ein weiser Mann die Bedeutung des Gesagten verstehen. Nimm an, es gäbe eine Person, der die Hände und Füße abgetrennt worden wären. Würde sie sich dessen, dass ihre Hände und Füße abgetrennt worden sind, ständig und ununterbrochen bewusst sein, während sie geht, steht, schläft und wach ist? Oder würde sie sich dessen nur bewusst sein, wenn sie darauf Acht gäbe?“
+
+„Nein, Meister Ānanda, sie wäre sich dessen nicht ständig bewusst. Nur wenn sie darauf Acht gäbe, würde sie sich bewusst sein: ‚Meine Hände und Füße sind abgetrennt.‘“
+
+„Auf die gleiche Weise ist, wenn ein Bhikkhu ein Arahant ist – mit zerstörten Beeinträchtigungen, einer, der die Erfüllung erreicht hat, getan hat, was zu tun war, die Bürde abgelegt hat, sein eigenes Wohl erlangt hat, die Anhaftung an das Sein zerstört hat und durch rechtes Verständnis befreit ist – dieses Wissen und diese Schau ‚meine Beeinträchtigungen sind zerstört‘ nicht beständig in ihm gegenwärtig, während er geht, steht, sitzt, liegt, schläft und wach ist. Vielmehr ist es nur dann, wenn er darauf Acht gibt, dass er sich gewahr ist: ‚Meine Beeinträchtigungen sind zerstört.‘“
 #+end_quote
 
 *** DONE OWTJ
@@ -1790,10 +1880,20 @@ taints are destroyed.’
 #+end_quote
 
 
-** TODO SN 35.230 (pg. 79) [1/2]
-*** TODO Deutsch
+** DONE SN 35.230 (pg. 79) [2/2]
+CLOSED: [2025-11-01 Sat 06:20]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:20]
 #+begin_quote
+Bhikkhus, nehmt an, ein Fischer würde einen beköderten Haken in einen tiefen See werfen, und ein Fisch, der nach Nahrung Ausschau hält, würde ihn verschlucken. Jener Fisch, der so den Haken des Fischers verschluckt hat, würde auf Unheil und Katastrophe treffen, und der Fischer könnte mit ihm tun, was er wünscht. Ebenso, ihr Bhikkhus, gibt es diese sechs Haken in der Welt für das Unheil der Wesen, für das Schlachten lebender Wesen.
 
+Es gibt, ihr Bhikkhus, mit dem Auge erkennbare Formen, die ersehnt, begehrt, angenehm, liebenswert, sinnlich und begierdeerregend sind. Wenn ein Bhikkhu an ihnen Gefallen sucht, sie willkommen heißt und dabei bleibt, an ihnen festzuhalten, wird er ein Bhikkhu genannt, der Maras Haken verschluckt hat. Er ist auf Unheil und Katastrophe getroffen, und der Böse kann mit ihm tun, was er wünscht.
+
+Es gibt, ihr Bhikkhus, mit dem Ohr erkennbare Töne … mit dem Geist erkennbare Gedanken, die begehrenswert … verlockend sind. Wenn ein Bhikkhu an ihnen Gefallen sucht … kann der Böse mit ihm tun, was er wünscht.
+
+Es gibt, ihr Bhikkhus, mit dem Auge erkennbare Formen, die ersehnt, begehrt, angenehm, liebenswert, sinnlich und begierdeerregend sind. Wenn ein Bhikkhu nicht an ihnen Gefallen sucht, sie nicht willkommen heißt und nicht dabei bleibt, an ihnen festzuhalten, wird er ein Bhikkhu genannt, der Maras Haken nicht verschluckt hat, der den Haken zerbrochen, den Haken zunichtegemacht hat. Er ist nicht auf Unheil und Katastrophe getroffen, und der Böse kann nicht mit ihm tun, was er wünscht.
+
+Es gibt, ihr Bhikkhus, mit dem Ohr erkennbare Töne … mit dem Geist erkennbare Gedanken, die ersehnt … begierdeerregend sind. Wenn ein Bhikkhu nicht an ihnen Gefallen sucht … kann der Böse nicht mit ihm tun, was er wünscht.
 #+end_quote
 
 *** DONE OWTJ
@@ -1828,10 +1928,12 @@ him as he wishes.
 #+end_quote
 
 
-** TODO MN 22 (pg. 80) [1/2]
-*** TODO Deutsch
+** DONE MN 22 (pg. 80) [2/2]
+CLOSED: [2025-11-01 Sat 06:25]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:25]
 #+begin_quote
-
+Bhikkhus, dass einer sich sinnlichen Vergnügen hingeben kann, ohne sinnliche Begierden, ohne Wahrnehmungen sinnlicher Begierde, ohne Gedanken sinnlicher Begierde, das ist unmöglich.
 #+end_quote
 
 *** DONE OWTJ
@@ -1845,10 +1947,37 @@ sensual desire, that is impossible.
 
 
 
-** TODO MN 25 (pg. 80) [1/2]
-*** TODO Deutsch
+** DONE MN 25 (pg. 80) [2/2]
+CLOSED: [2025-11-01 Sat 06:27]
+*** DONE Deutsch
+CLOSED: [2025-11-01 Sat 06:27]
 #+begin_quote
+GLEICHNIS DES KÖDERS
+… Bhikkhus, ein Wildfänger legt nicht einen Köder für eine Wildherde nieder in der Absicht: ‚Möge die Wildherde diesen Köder, den ich niedergelegt habe, genießen und für immer glücklich sein.‘ Ein Wildfänger legt einen Köder für eine Wildherde nieder in der Absicht stattdessen: ‚Die Wildherde wird unachtsam Nahrung aufnehmen, indem sie mitten in den Köder hineingeht, den ich niedergelegt habe; indem sie das tut, werden sie berauscht werden; wenn sie berauscht sind, werden sie in Nachlässigkeit verfallen; wenn sie nachlässig sind, kann ich mit ihnen tun, was ich mag, wegen dieses Köders.‘
 
+1. Nun gingen die Hirsche der ersten Herde zum Feld des Wildfängers, fraßen den Köder, vertieft, berauscht und nachlässig, wurden den Wünschen des Wildfängers unterworfen. So scheiterten die Hirsche der ersten Herde daran, der Macht und Kontrolle des Wildfängers zu entkommen.
+
+2. Nun bedachten die Hirsche einer zweiten Herde so: ‚Die Hirsche jener ersten Herde sind, indem sie so handelten, ohne Vorsicht, daran gescheitert, der Macht und Kontrolle des Wildfängers zu entkommen. Angenommen, wir meiden jenen Köder gänzlich; jenen furchterregenden Genuss meidend, lasst uns hinaus in die Wildnis des Waldes gehen und dort leben.‘ Und sie taten so. Aber im letzten Monat der heißen Jahreszeit, als das Gras und das Wasser aufgebraucht waren, waren ihre Körper auf äußerste Abmagerung reduziert; dadurch verloren sie ihre Kraft und Energie. Dann gingen sie zurück zum Feld des Wildfängers, fraßen den Köder, vertieft, berauscht und nachlässig, wurden den Wünschen des Wildfängers unterworfen. So scheiterten auch die Hirsche der zweiten Herde daran, der Macht und Kontrolle des Wildfängers zu entkommen.
+
+3. Nun bedachten die Hirsche einer dritten Herde so: ‚Die Hirsche jener ersten Herde … die Hirsche jener zweiten Herde, die, das Scheitern der ersten Herde bedenkend, versuchten, in der Wildnis des Waldes zu leben; aber auch sie scheiterten daran, der Macht und Kontrolle des Wildfängers zu entkommen. Angenommen, wir richten unseren Aufenthaltsort innerhalb der Reichweite des Köders des Wildfängers ein. Dann werden wir Nahrung nicht unachtsam und ohne mitten in den Köder hineinzugehen aufnehmen; indem wir das tun, werden wir nicht berauscht werden; wir werden nicht in Nachlässigkeit verfallen; wenn wir nicht nachlässig sind, wird der Wildfänger nicht mit uns tun können, was er mag, wegen jenes Köders.‘ Und sie taten so. Aber dann erwogen der Wildfänger und sein Gefolge so: ‚Diese Hirsche dieser dritten Herde sind so listig und verschlagen wie Zauberer und Hexenmeister. Sie fressen den niedergelegten Köder, ohne dass wir wissen, wie sie kommen und gehen. Angenommen, wir lassen den niedergelegten Köder vollständig und ringsherum über eine weite Fläche mit Weidengeflecht umzäunen; dann könnten wir vielleicht sehen, wo die Aufenthaltsorte der dritten Wildherde sind.‘ Sie taten so, und sie sahen, wo sich die dritte Herde verbarg. Und so scheiterten auch die Hirsche der dritten Herde daran, der Macht und Kontrolle des Wildfängers zu entkommen.
+
+4. Nun bedachten die Hirsche einer vierten Herde so: ‚Die Hirsche jener ersten Herde … die Hirsche jener dritten Herde, … scheiterten auch daran, der Macht und Kontrolle des Wildfängers zu entkommen. Angenommen, wir richten unseren Aufenthaltsort dort ein, wohin der Wildfänger und sein Gefolge nicht gelangen können. Dann, nachdem wir das getan haben, werden wir Nahrung nicht unachtsam und ohne mitten in den Köder hineinzugehen aufnehmen, den der Wildfänger niedergelegt hat; indem wir das tun, werden wir nicht berauscht werden; wir werden nicht in Nachlässigkeit verfallen; wenn wir nicht nachlässig sind, wird der Wildfänger nicht mit uns tun können, was er mag, wegen jenes Köders.‘ Und sie taten so.
+
+Aber dann erwogen der Wildfänger und sein Gefolge so: ‚Diese Hirsche dieser vierten Herde sind so listig und verschlagen wie Zauberer und Hexenmeister. Sie fressen den niedergelegten Köder, ohne dass wir wissen, wie sie kommen und gehen. Angenommen, wir lassen den niedergelegten Köder vollständig und ringsherum über eine weite Fläche mit Weidengeflecht umzäunen; dann könnten wir vielleicht die Aufenthaltsorte der vierten Wildherde sehen, wohin sie sich zum Verstecken begeben.‘ Sie taten so, aber sie sahen die Aufenthaltsorte der vierten Wildherde nicht. Dann erwogen der Wildfänger und sein Gefolge so: ‚Wenn wir die vierte Herde erschrecken, werden sie, erschreckt, andere alarmieren, und so werden die Wildherden alle diesen Köder verlassen, den wir niedergelegt haben. Angenommen, wir behandeln die vierte Herde mit Gleichgültigkeit.‘ Sie taten so. Und so entkamen die Hirsche der vierten Wildherde der Macht und Kontrolle des Wildfängers.
+
+Bhikkhus, ich habe dieses Gleichnis gegeben, um eine Bedeutung zu vermitteln. ‚Köder‘ ist eine Bezeichnung für die fünf Arten sinnlichen Vergnügens. ‚Wildfänger‘ ist eine Bezeichnung für Mara, den Bösen. ‚Das Gefolge des Wildfängers‘ ist eine Bezeichnung für Maras Gefolge. ‚Wildherde‘ ist eine Bezeichnung für Asketen und Brahmanen.
+
+Nun, Asketen und Brahmanen der ersten Art fraßen unachtsam Nahrung, indem sie mitten in den Köder und die materiellen Dinge der Welt hineingingen, die Mara niedergelegt hatte; indem sie das taten, wurden sie berauscht; sie verfielen in Nachlässigkeit. Als sie nachlässig waren, tat Mara mit ihnen, was er mochte, wegen jenes Köders und jener materiellen Dinge der Welt. So scheiterten die Asketen und Brahmanen der ersten Art daran, sich von Maras Macht und Kontrolle zu befreien.
+
+Nun bedachten Asketen und Brahmanen der zweiten Art so: ‚Jene Asketen und Brahmanen der ersten Art sind, indem sie so handelten, ohne Vorsicht, daran gescheitert, sich von Maras Macht und Kontrolle zu befreien. Angenommen, wir meiden jene Ködernahrung und jene materiellen Dinge der Welt; jenen furchterregenden Genuss meidend, lasst uns hinaus in den Wald gehen und dort leben.‘ Und sie taten so. Dort waren sie Esser von Grünzeug oder Hirse oder Reiskleie oder dem verworfenen Abschaum von gekochtem Reis oder Gras oder Kuhdung; sie lebten von Waldwurzeln und Früchten. Aber im letzten Monat der heißen Jahreszeit, als das Gras und das Wasser aufgebraucht waren, waren ihre Körper auf äußerste Abmagerung reduziert; dadurch verloren sie ihre Kraft und Energie; sie verloren ihre Befreiung des Gemüts; sie kehrten zu demselben Köder zurück, den Mara niedergelegt hatte, und zu jenen materiellen Dingen der Welt; sie fraßen unachtsam Nahrung, indem sie mitten hineingingen; indem sie das taten, wurden sie berauscht; sie verfielen in Nachlässigkeit; Mara tat mit ihnen, was er mochte, wegen jenes Köders und jener materiellen Dinge der Welt. So scheiterten jene Asketen und Brahmanen der zweiten Art daran, sich von Maras Macht und Kontrolle zu befreien.
+
+Nun bedachten Asketen und Brahmanen der dritten Art so: ‚Jene Asketen und Brahmanen der ersten Art sind, indem sie so handelten, ohne Vorsicht, daran gescheitert, sich von Maras Macht und Kontrolle zu befreien. Jene Asketen und Brahmanen der zweiten Art sind, indem sie bedachten, wie die Asketen und Brahmanen der ersten Art gescheitert waren, mit der Vorsicht, in der Wildnis des Waldes zu leben, auch daran gescheitert, sich von Maras Macht und Kontrolle zu befreien. Angenommen, wir richten unseren Aufenthaltsort innerhalb der Reichweite jenes Köders ein, den Mara niedergelegt hat, und jener materiellen Dinge der Welt. Nachdem wir das getan haben, werden wir Nahrung nicht unachtsam und ohne mitten in den Köder hineinzugehen aufnehmen, den Mara niedergelegt hat, und die materiellen Dinge der Welt. Indem wir das tun, werden wir nicht berauscht werden; wir werden nicht in Nachlässigkeit verfallen; wenn wir nicht nachlässig sind, wird Mara nicht mit uns tun können, was er mag, wegen jenes Köders und jener materiellen Dinge der Welt.‘ Und sie taten so.
+
+Aber dann kamen sie dazu, Ansichten zu vertreten wie ‚die Welt ist ewig‘ und ‚die Welt ist nicht ewig‘ und ‚die Welt ist endlich‘ und ‚die Welt ist unendlich‘ und ‚die Seele und der Körper sind dasselbe‘ und ‚die Seele ist eines und der Körper ein anderes‘ und ‚nach dem Tod existiert ein Tathagata‘ und ‚nach dem Tod existiert ein Tathagata nicht‘ und ‚nach dem Tod existiert ein Tathagata sowohl als auch nicht‘ und ‚nach dem Tod existiert ein Tathagata weder noch nicht.‘ So scheiterten jene Asketen und Brahmanen der dritten Art daran, sich von Maras Macht und Kontrolle zu befreien. Jene Asketen und Brahmanen, sage ich, sind genau wie die Hirsche der dritten Herde.
+
+Nun bedachten Asketen und Brahmanen der vierten Art so: ‚Jene Asketen und Brahmanen der ersten Art, … die Asketen und Brahmanen der dritten Art, die, indem sie bedachten, wie die Asketen und Brahmanen der ersten Art und auch die Asketen und Brahmanen der zweiten Art gescheitert waren, ihren Aufenthaltsort innerhalb der Reichweite des Köders einrichteten, den Mara niedergelegt hatte, und der materiellen Dinge der Welt, sind auch daran gescheitert, sich von Maras Macht und Kontrolle zu befreien. Angenommen, wir richten unseren Aufenthaltsort dort ein, wohin Mara und sein Gefolge nicht gelangen können. Dann, nachdem wir das getan haben, werden wir Nahrung nicht unachtsam und ohne mitten in den Köder hineinzugehen aufnehmen, den Mara niedergelegt hat, und die materiellen Dinge der Welt. Indem wir das tun, werden wir nicht berauscht werden; wir werden nicht in Nachlässigkeit verfallen; dann wird Mara nicht mit uns tun können, was er mag, wegen jenes Köders und jener materiellen Dinge der Welt.‘ Und sie taten so. Und so befreiten sich jene Asketen und Brahmanen der vierten Art von Maras Macht und Kontrolle. Jene Asketen und Brahmanen, sage ich, sind genau wie die Hirsche der vierten Herde.
+
+Und wo ist es, dass Mara und seine Anhänger nicht hingelangen können? Hier, zurückgezogen von sinnlichen Vergnügen, zurückgezogen von unheilsamen Zuständen, tritt ein Bhikkhu in die erste Vertiefung ein, die von Denken und Überlegen begleitet ist, mit Freude und Vergnügen, geboren aus Abgeschiedenheit. Dieser Bhikkhu wird gesagt, Mara geblendet zu haben, für den Bösen unsichtbar geworden zu sein, indem er Maras Auge seiner Gelegenheit beraubt hat.
 #+end_quote
 
 *** DONE OWTJ
@@ -1993,6 +2122,234 @@ have become invisible to the Evil One by depriving Mara’s eye of its
 opportunity.
 #+end_quote
 
+
+* TODO Chapter 8 [0/7]
+** TODO Thag. 19.1 (pg. 85) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:21]
+#+begin_quote
+Oh, when will I stay in a mountain cave, alone, with no companion,
+discerning all states of being as impermanent? This hope of mine,
+when will it be?
+Oh, when will I stay happily in the forest, a sage wearing a torn
+robe, dressed in ocher, unselfish, with no need for hope, with lust,
+hate, and delusion destroyed?
+Oh, when will I stay alone in the wood, fearless, discerning this body
+as impermanent, a nest of death and disease, oppressed by death and
+old age; when will it be? …
+… Mind, for many years you told me: ‘Enough of living in a house for
+you!’ Why do you not urge me on, mind, now that I’ve gone forth as an
+ascetic? …
+… In my family circle, friends, loved ones, and relatives; and in the
+world, sports and play, and sensual pleasures; all these I gave up when
+I entered this life: and even then you’re not content with me, mind! …
+… The methodical teacher, supreme among people, great physician,
+guide for those who wish to train, said: ‘The mind fidgets like a
+monkey, so it’s very hard to control if you are not free of lust.’ …
+… Mind, when you urge me towards the impermanent and unstable,
+you’re acting like someone who plants trees, then, when they’re about
+to fruit, wishes to cut down the very same trees. Immaterial mind, far-
+traveller, lone-wanderer: I won’t do your bidding any more. Sensual
+pleasures are suffering, painful, and very dangerous; I’ll wander with
+my mind intent only on Nibbāna …
+… The men and women who live under your will and command,
+whatever pleasure they experience, they are ignorant and fall under
+Māra’s control; loving life, they’re your disciples, mind.
+#+end_quote
+
+
+** TODO AN 3.68 (pg. 87) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:22]
+#+begin_quote
+The Blessed One said, ‘Monks, if you are asked by wanderers of other
+religions: “Friends, there are these three qualities. Which three?
+Greed, aversion and delusion. These are the three qualities. Now what
+is the difference, what is the distinction, what is the distinguishing
+factor among these three qualities?”—When thus asked, you should
+answer those wanderers in this way: “Friends, lust carries little blame
+and is slow to fade. Aversion carries great blame and is quick to fade.
+Delusion carries great blame and is slow to fade” …’
+#+end_quote
+
+
+** TODO SN 9.10 (pg. 89) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:23]
+#+begin_quote
+‘On one occasion a certain bhikkhu was dwelling in a certain woodland
+thicket. Now on that occasion that bhikkhu had been excessively
+engrossed in recitation, but on a later occasion he passed the time
+living in non-activity (indifferent, withdrawn, at ease) and keeping
+silent. Then the devata that inhabited that woodland, no longer
+hearing that bhikkhu recite the Dhamma, approached him and
+addressed him in verse: “Bhikkhu, why don’t you recite Dhamma-
+stanzas, living in communion with other bhikkhus? hearing the
+Dhamma, one gains confidence; in this very life- the reciter gains
+praise.”
+The bhikkhu replied: “In the past I was fond of reciting Dhamma-
+stanzas, so long as I had not achieved dispassion. But from the time
+I achieved dispassion, I dwell in what the good men call: “The laying
+down by final knowledge of whatever is seen, heard, or sensed”.’
+#+end_quote
+
+
+** TODO AN 8.30 (pg. 92) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:24]
+#+begin_quote
+… Now, when you think these eight thoughts of a great person and
+become a person who can attain at will, without trouble or difficulty,
+these four comprehensions—heightened mental states providing a
+pleasant abiding in the here and now—then your robe of cast-off rags
+will seem to you to be just like the clothes chest of a householder, full
+of clothes of many colours. As you live contented, it will serve for your
+delight, for a comfortable abiding, for non-agitation, and for reaching
+Nibbāna.
+When you think these eight thoughts of a great person and become
+a person who can attain at will, without trouble or difficulty, these
+four comprehensions
+–
+heightened mental states providing a pleasant
+abiding in the here and now
+–
+then your meal of almsfood will seem
+to you to be just like the rice and wheat of a householder, cleaned of
+black grains, and served with a variety of sauces and seasonings. …
+… Your dwelling at the foot of a tree will seem to you to be just
+like the gabled mansion of a householder or householder’s son,
+plastered inside and out, draft-free, bolted, and with its shutters
+closed. … your bed on a spread of grass will seem to you like the couch
+of a householder, spread with long-haired coverlets, white woollen
+coverlets, embroidered coverlets, antelope-hide and deer-skin rugs,
+covered with a canopy, and with red cushions for the head and feet. …
+… Your medicine of fermented cow’s urine will seem to you to be
+just like the various tonics of a householder: ghee, fresh butter, oil,
+honey, and molasses sugar. As you live contented, it will serve for your
+delight, for a comfortable abiding, for non-agitation, and for reaching
+Nibbāna …
+#+end_quote
+
+
+** TODO SN 16.5 (pg. 93) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:24]
+#+begin_quote
+Then Venerable Mahākassapa went up to the Buddha, bowed, and sat
+down to one side.
+The Buddha said to him:
+‘You’re old now, Kassapa. Those worn-out
+hempen rag robes must be a burden for you. So Kassapa, you should
+wear clothes given by householders, accept invitations for the meal,
+and stay in my presence.’
+‘For a long time, sir, I’ve lived in the wilderness, eaten only
+alms-food, worn rag robes, and owned just three robes; and I’ve
+praised these things. I’ve been one of few wishes, content, secluded,
+withdrawn, and energetic; and I’ve praised these things.’
+‘But seeing what benefit, Kassapa, have you long practised these
+things?’
+‘Sir, seeing two benefits i have long practised these things.
+I see a happy life for myself in the present. And I have compassion
+for future generations, thinking: “Hopefully those who come after
+might follow my example.” For they may think: “It seems that
+the awakened disciples of the Buddha for a long time lived in the
+wilderness, ate only almsfood, wore rag robes, and owned just three
+robes; and they praised these things. They were of few wishes, content,
+secluded, withdrawn, and energetic; and they praised these things.”
+They’ll practice accordingly, which will be for their lasting welfare and
+happiness.
+Seeing these two benefits i have long practised these things.’
+‘Good, good, Kassapa! you’re acting for the welfare and happiness
+of the people, for the benefit, welfare, and happiness of gods and
+humans.
+So Kassapa, wear worn-out hempen rag robes, walk for alms, and
+stay in the wilderness.’
+#+end_quote
+
+
+** TODO MN 122 (pg. 94) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:25]
+#+begin_quote
+Now on that occasion the venerable Ānanda, along with many
+bhikkhus, were busy making robes at Ghāṭā the Sakyan’s dwelling.
+Then, when it was evening, the Blessed One rose from retreat and
+went to Ghāṭā the Sakyan’s dwelling. There he sat down on a seat
+made ready and asked the venerable Ānanda: ‘Ānanda, there are many
+resting places prepared in Kāḷakhemaka the Sakyan’s dwelling. Do
+many bhikkhus live there?’
+‘Venerable sir, many resting places have been prepared in
+Kāḷakhemaka the Sakyan’s dwelling. Many bhikkhus are living there.
+This is our time for making robes, venerable sir.’
+‘Ānanda, a bhikkhu does not shine by delighting in company, by
+taking delight in company, by devoting himself to delight in company;
+by delighting in society, by taking delight in society, by rejoicing
+in society. indeed, Ānanda, it is not possible that a bhikkhu who
+delights in company, takes delight in company, and devotes himself to
+delight in company, who delights in society, takes delight in society,
+and rejoices in society, will ever obtain at will, without trouble or
+difficulty, the joy of renunciation, the joy of seclusion, the joy of peace,
+the joy of awakening. But it can be expected that when a bhikkhu lives
+alone, withdrawn from society, he will obtain at will, without trouble
+or difficulty, the joy of renunciation, the joy of seclusion, the joy of
+peace, the joy of Nibbāna …’
+#+end_quote
+
+
+** TODO SN 21.4 (pg. 95) [1/2]
+*** TODO Deutsch
+#+begin_quote
+
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-10-20 Mon 17:26]
+#+begin_quote
+The Blessed One then said to a bhikkhu: ‘Is it true, bhikkhu, that after
+returning from the alms round you enter your dwelling after the meal
+and pass the time living in non-activity and keeping silent, and you do
+not render service to the bhikkhus at the time of making robes?’
+‘I am doing my own duty, venerable sir.’
+Then the Blessed One, having known with his own mind the
+reflection in that bhikkhu’s mind, addressed the bhikkhus thus:
+‘Bhikkhus, do not find fault with this bhikkhu. This bhikkhu is one who
+gains at will, without trouble or difficulty, the four comprehensions
+that constitute the higher mind and provide a pleasant dwelling in
+this very life. And he is one who, by realising it for himself with direct
+knowledge, in this very life enters upon that unsurpassed goal of the
+holy life for the sake of which people go forth from the household life
+into homelessness …’
+#+end_quote
 
 
 * ----
