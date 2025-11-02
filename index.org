@@ -2123,11 +2123,39 @@ opportunity.
 #+end_quote
 
 
-* TODO Chapter 8 [0/7]
-** TODO Thag. 19.1 (pg. 85) [1/2]
-*** TODO Deutsch
+* DONE Chapter 8 [7/7]
+CLOSED: [2025-11-02 Sun 12:59]
+** DONE Thag. 19.1 (pg. 85) [2/2]
+CLOSED: [2025-11-02 Sun 12:48]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:48]
 #+begin_quote
-
+Ach, wann werde ich in einer Berghöhle weilen, allein, ohne Gefährten,
+alle Daseinszustände als unbeständig erkennend? Diese meine Hoffnung,
+wann wird sie sein?
+Ach, wann werde ich glücklich im Wald weilen, ein Weiser, ein zerrissenes Gewand tragend,
+gekleidet in Ocker, selbstlos, ohne Bedürfnis nach Hoffnung, mit Begierde,
+Hass und Verblendung zerstört?
+Ach, wann werde ich allein im Holz weilen, furchtlos, diesen Körper
+als unbeständig erkennend, ein Nest von Tod und Krankheit,
+bedrängt von Tod und Alter; wann wird es sein? …
+… Geist, viele Jahre lang sagtest du zu mir: ‚Genug des Wohnens in einem Haus für
+dich!‘ Warum treibst du mich nicht an, Geist, jetzt, da ich als Asket fortgezogen bin? …
+… In meinem Familienkreis, Freunde, Geliebte und Verwandte;
+und in der Welt, Spiele und Zeitvertreib, und sinnliche Freuden;
+all dies gab ich auf, als ich in dieses Leben eintrat: und selbst dann bist du nicht zufrieden mit mir, Geist! …
+… Der methodische Lehrer, der Erste unter den Menschen, der große Arzt,
+Führer für diejenigen, die sich schulen wollen, sagte: ‚Der Geist zappelt wie ein
+Affe, daher ist er sehr schwer zu kontrollieren, wenn man nicht frei von Begierde ist.‘ …
+… Geist, wenn du mich zu dem Unbeständigen und Unsteten antreibst,
+handelst du wie jemand, der Bäume pflanzt, und dann, wenn sie gerade
+Frucht tragen sollen, genau dieselben Bäume fällen will. Unstofflicher Geist,
+Weitgereister, Einzelwanderer: Ich werde deinem Geheiß nicht mehr folgen.
+Sinnliche Freuden sind leidvoll, schmerzhaft und sehr gefährlich;
+ich werde wandern, mit meinem Geist, der nur auf Nibbāna ausgerichtet ist …
+… Die Männer und Frauen, die unter deinem Willen und deinem Befehl leben,
+welche Freude sie auch erfahren, sie sind unwissend und geraten unter
+Māras Kontrolle; das Leben liebend, sind sie deine Jünger, Geist.
 #+end_quote
 
 *** DONE OWTJ
@@ -2163,10 +2191,19 @@ Māra’s control; loving life, they’re your disciples, mind.
 #+end_quote
 
 
-** TODO AN 3.68 (pg. 87) [1/2]
-*** TODO Deutsch
+** DONE AN 3.68 (pg. 87) [2/2]
+CLOSED: [2025-11-02 Sun 12:51]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:51]
 #+begin_quote
-
+Der Erhabene sagte: ‚Mönche, wenn ihr von Wanderasketen anderer
+Religionen gefragt werdet: "Freunde, es gibt diese drei Eigenschaften. Welche drei?
+Gier, Abneigung und Verblendung. Dies sind die drei Eigenschaften. Was nun
+ist der Unterschied, was ist die Unterscheidung, was ist der unterscheidende
+Faktor zwischen diesen drei Eigenschaften?"—Wenn ihr so gefragt werdet, solltet ihr
+jene Wanderasketen auf diese Weise antworten: "Freunde, Begierde bringt wenig Tadel
+mit sich und ist langsam im Verblassen. Abneigung bringt großen Tadel mit sich und ist schnell im Verblassen.
+Verblendung bringt großen Tadel mit sich und ist langsam im Verblassen." …‘
 #+end_quote
 
 *** DONE OWTJ
@@ -2183,10 +2220,25 @@ Delusion carries great blame and is slow to fade” …’
 #+end_quote
 
 
-** TODO SN 9.10 (pg. 89) [1/2]
-*** TODO Deutsch
+** DONE SN 9.10 (pg. 89) [2/2]
+CLOSED: [2025-11-02 Sun 12:54]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:54]
 #+begin_quote
-
+,Einst weilte ein gewisser Bhikkhu in einem bestimmten Waldgebiet.
+Nun, zu jener Zeit war dieser Bhikkhu übermäßig
+mit Rezitation beschäftigt gewesen, aber zu einer späteren Zeit verbrachte er seine Zeit damit,
+in Untätigkeit (gleichgültig, zurückgezogen, gelassen) zu leben und
+Stille zu bewahren. Da näherte sich die Devata, die dieses Waldgebiet bewohnte,
+die diesen Bhikkhu nicht länger den Dhamma rezitieren hörte, ihm und
+sprach ihn in Versen an: „Bhikkhu, warum rezitierst du nicht Dhamma-
+Strophen, im Gemeinschaft mit anderen Bhikkhus lebend? Wenn man den
+Dhamma hört, gewinnt man Vertrauen; in diesem sehr Leben – der Rezitierende gewinnt
+Lob.“
+Der Bhikkhu erwiderte: „In der Vergangenheit war ich dem Rezitieren von Dhamma-
+Strophen zugetan, solange ich nicht Leidenschaftslosigkeit erlangt hatte. Aber von der Zeit an,
+als ich Leidenschaftslosigkeit erlangte, weile ich in dem, was die guten Menschen nennen: ‚Das Niederlegen
+durch endgültiges Wissen von allem, was gesehen, gehört oder empfunden wird‘.‘
 #+end_quote
 
 *** DONE OWTJ
@@ -2209,10 +2261,41 @@ down by final knowledge of whatever is seen, heard, or sensed”.’
 #+end_quote
 
 
-** TODO AN 8.30 (pg. 92) [1/2]
-*** TODO Deutsch
+** DONE AN 8.30 (pg. 92) [2/2]
+CLOSED: [2025-11-02 Sun 12:57]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:57]
 #+begin_quote
+… Nun, wenn ihr diese acht Gedanken eines großen Menschen denkt und
+zu einer Person werdet, die nach Belieben, ohne Mühe oder Schwierigkeit,
+diese vier Durchdringungen – gesteigerte Geisteszustände, die ein
+angenehmes Verweilen im Hier und Jetzt gewähren – erlangen kann, dann wird euer Gewand aus weggeworfenen Lumpen
+euch vorkommen wie die Kleidertruhe eines Haushälters, voll
+mit Kleidern in vielen Farben. Indem ihr zufrieden lebt, wird es euch zur
+Freude dienen, zu einem behaglichen Verweilen, zur Unerschütterlichkeit und zum Erreichen von Nibbāna.
 
+Wenn ihr diese acht Gedanken eines großen Menschen denkt und
+zu einer Person werdet, die nach Belieben, ohne Mühe oder Schwierigkeit, diese
+vier Durchdringungen
+–
+gesteigerte Geisteszustände, die ein angenehmes
+Verweilen im Hier und Jetzt gewähren
+–
+erlangen kann, dann wird eure Mahlzeit aus Almenspeise euch
+vorkommen wie der Reis und Weizen eines Haushälters, gereinigt von
+schwarzen Körnern, und serviert mit einer Vielfalt an Soßen und Gewürzen. …
+
+… Euer Verweilen am Fuße eines Baumes wird euch vorkommen wie die
+giebelige Villa eines Haushälters oder Haushalterssohnes,
+innen und außen verputzt, zugfrei, verriegelt und mit geschlossenen
+Fensterläden. … euer Bett aus einer Schicht Gras wird euch vorkommen wie das Ruhelager
+eines Haushälters, bedeckt mit langhaarigen Decken, weißen WollDecken, bestickten Decken, Antilopen- und Hirschfell-Fellen,
+bedeckt mit einem Baldachin und mit roten Kissen für Kopf und Füße. …
+
+… Eure Medizin aus fermentiertem Kuhurin wird euch vorkommen wie die
+verschiedenen Stärkungsmittel eines Haushälters: Butterschmalz, frischer Butter, Öl,
+Honig und Melassezucker. Indem ihr zufrieden lebt, wird es euch zur
+Freude dienen, zu einem behaglichen Verweilen, zur Unerschütterlichkeit und zum Erreichen von Nibbāna …
 #+end_quote
 
 *** DONE OWTJ
@@ -2251,10 +2334,27 @@ Nibbāna …
 #+end_quote
 
 
-** TODO SN 16.5 (pg. 93) [1/2]
-*** TODO Deutsch
+** DONE SN 16.5 (pg. 93) [2/2]
+CLOSED: [2025-11-02 Sun 12:57]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:57]
 #+begin_quote
+Dann ging der ehrwürdige Mahākassapa zum Buddha, verneigte sich und setzte sich zur Seite nieder.
 
+Der Buddha sagte zu ihm:
+„Du bist nun alt, Kassapa. Diese abgetragenen robes aus Hanflumpen müssen eine Last für dich sein. Darum, Kassapa, solltest du Kleider tragen, die von Haushältern gegeben werden, Einladungen für Mahlzeiten annehmen und in meiner Gegenwart bleiben.“
+
+„Seit langer Zeit, Herr, habe ich in der Wildnis gelebt, nur Almenspeise gegessen, Roben aus Lumpen getragen und nur drei Roben besessen; und ich habe diese Dinge gelobt. Ich war einer mit wenigen Wünschen, genügsam, abgeschieden, zurückgezogen und energisch; und ich habe diese Dinge gelobt.“
+
+„Aber welchen Nutzen sehend, Kassapa, hast du diese Dinge lange Zeit geübt?“
+
+„Herr, zwei Nutzen sehend habe ich diese Dinge lange Zeit geübt.
+Ich sehe ein glückliches Leben für mich selbst in der Gegenwart. Und ich habe Mitgefühl für künftige Generationen, indem ich denke: ‚Hoffentlich mögen die, die nachkommen, meinem Beispiel folgen.‘ Denn sie mögen denken: ‚Es scheint, dass die erweckten Jünger des Buddha für lange Zeit in der Wildnis lebten, nur Almenspeise aßen, Roben aus Lumpen trugen und nur drei Roben besaßen; und sie lobten diese Dinge. Sie waren von wenigen Wünschen, genügsam, abgeschieden, zurückgezogen und energisch; und sie lobten diese Dinge.‘
+Sie werden dementsprechend praktizieren, was zu ihrem dauerhaften Wohl und Glück sein wird.
+Diese zwei Nutzen sehend habe ich diese Dinge lange Zeit geübt.“
+
+„Gut, gut, Kassapa! Du handelst für das Wohl und Glück der Menschen, für den Nutzen, das Wohl und Glück von Göttern und Menschen.
+So, Kassapa, trage abgetragene Roben aus Hanflumpen, gehe um Almosenspeise und bleibe in der Wildnis.“
 #+end_quote
 
 *** DONE OWTJ
@@ -2292,10 +2392,18 @@ stay in the wilderness.’
 #+end_quote
 
 
-** TODO MN 122 (pg. 94) [1/2]
-*** TODO Deutsch
+** DONE MN 122 (pg. 94) [2/2]
+CLOSED: [2025-11-02 Sun 12:58]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:58]
 #+begin_quote
+Zu jener Zeit waren der ehrwürdige Ānanda und viele Bhikkhus damit beschäftigt, Roben in der Wohnstätte des Sakyers Ghāṭā anzufertigen.
 
+Dann, als es Abend war, erhob sich der Erhabene aus der Zurückgezogenheit und begab sich zur Wohnstätte des Sakyers Ghāṭā. Dort setzte er sich auf einen vorbereiteten Sitz und fragte den ehrwürdigen Ānanda: „Ānanda, in der Wohnstätte des Sakyers Kāḷakhemaka sind viele Ruheplätze vorbereitet worden. Leben dort viele Bhikkhus?“
+
+„Ehrwürdiger Herr, in der Wohnstätte des Sakyers Kāḷakhemaka sind viele Ruheplätze vorbereitet worden. Viele Bhikkhus leben dort. Dies ist unsere Zeit für die Robenherstellung, ehrwürdiger Herr.“
+
+„Ānanda, ein Bhikkhu glänzt nicht dadurch, dass er an Gesellschaft Gefallen findet, dass er Gefallen an Gesellschaft hat, dass er sich dem Gefallen an Gesellschaft hingibt; dadurch, dass er an Geselligkeit Gefallen findet, dass er Gefallen an Geselligkeit hat, dass er an Geselligkeit Freude empfindet. In der Tat, Ānanda, es ist nicht möglich, dass ein Bhikkhu, der an Gesellschaft Gefallen findet, Gefallen an Gesellschaft hat und sich dem Gefallen an Gesellschaft hingibt, der an Geselligkeit Gefallen findet, Gefallen an Geselligkeit hat und an Geselligkeit Freude empfindet, jemals nach Belieben, ohne Mühe oder Schwierigkeit, die Freude des Entsagens, die Freude der Abgeschiedenheit, die Freude des Friedens, die Freude des Erwachens erlangen wird. Aber es ist zu erwarten, dass, wenn ein Bhikkhu allein lebt, zurückgezogen von der Gesellschaft, er nach Belieben, ohne Mühe oder Schwierigkeit, die Freude des Entsagens, die Freude der Abgeschiedenheit, die Freude des Friedens, die Freude des Nibbāna erlangen wird …“
 #+end_quote
 
 *** DONE OWTJ
@@ -2326,10 +2434,18 @@ peace, the joy of Nibbāna …’
 #+end_quote
 
 
-** TODO SN 21.4 (pg. 95) [1/2]
-*** TODO Deutsch
+** DONE SN 21.4 (pg. 95) [2/2]
+CLOSED: [2025-11-02 Sun 12:58]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 12:58]
 #+begin_quote
+Der Erhabene sagte dann zu einem Bhikkhu: „Ist es wahr, Bhikkhu, dass du nach der Rückkehr vom Almosengang nach der Mahlzeit deine Behausung betrittst und deine Zeit damit verbringst, in Untätigkeit zu leben und zu schweigen, und dass du den Bhikkhus zur Zeit der Robenherstellung keinen Dienst erweist?“
 
+„Ich tue meine eigene Pflicht, ehrwürdiger Herr.“
+
+Da richtete sich der Erhabene, nachdem er mit seinem eigenen Geist die Überlegung im Geist jenes Bhikkhu erkannt hatte, folgendermaßen an die Bhikkhus:
+
+„Bhikkhus, findet nicht an diesem Bhikkhu Fehler. Dieser Bhikkhu ist einer, der nach Belieben, ohne Mühe oder Schwierigkeit, die vier Durchdringungen erlangt, die den höheren Geist ausmachen und ein angenehmes Verweilen in diesem sehr Leben gewähren. Und er ist einer, der, indem er es für sich selbst mit unmittelbarem Wissen verwirklicht, in diesem sehr Leben in das unübertroffene Ziel des heiligen Lebens eintritt, um dessentwillen Menschen aus dem Haushälterleben in die Hauslosigkeit fortziehen …“
 #+end_quote
 
 *** DONE OWTJ
