@@ -25,7 +25,7 @@
 The following is a quotation from a sutta, and a reliable, phenomenologically-informed translation. Please translate this AS IT IS WRITTEN into german. That is to say, you are translating the translation. This is meant to capture the different terminology used by the english translator, which often deviates from standard english buddhist terminology (e.g. he would not use "contact" for phassa, instead going with "pressure") the idea is to preserve this feature, and find the best german words to MATCH the english translation provided. Essentially stay as true to the english here as you can while making a solid, readable german translation, as if written by someone with no knowledge whatsoever of German buddhist vernacular. Your response should be ONLY the translated text, no other message for the user.
 #+end_prompt
 
-#+OPTIONS: num:nil
+#+OPTIONS: num:nil todo:nil
 #+HTML_HEAD_EXTRA: <style>h1 .todo,h2 .todo,h3 .todo,h4 .todo,h5 .todo,h6 .todo,h1 .done,h2 .done,h3 .done,h4 .done,h5 .done,h6 .done{display:none!important}#table-of-contents .todo,#table-of-contents .done{display:inline!important}</style>
 * DONE Chapter 1  [4/4]
 CLOSED: [2025-10-19 Sun 15:12]
@@ -3116,6 +3116,206 @@ thinking and pondering and with the joy and happiness born of
 withdrawal.
 #+end_quote
 
+* DONE Chapter 12 [5/5]
+CLOSED: [2025-11-02 Sun 13:54]
+** DONE AN 6.60 (pg. 130) [2/2]
+CLOSED: [2025-11-02 Sun 13:51]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:51]
+#+begin_quote
+,Es ist, als ob, nachdem es heftig am Kreuzweg geregnet hätte, der Staub verschwände und Schlamm auftauchte. Wenn jemand sagen würde: "Nun wird Staub niemals wieder an diesem Kreuzweg erscheinen", wäre dies richtig gesprochen?‘
+
+,Nein, in der Tat, Freund. Denn es bleibt, dass Menschen, Vieh und dergleichen über den Kreuzweg hinübergehen werden, dass Wind und Sonne die Feuchtigkeit verdunsten werden, so dass der Staub wieder erscheinen mag.‘
+
+,So auf die gleiche Weise, Freunde, kann es eine Person geben, die, zurückgezogen von sinnlichen Begierden, zurückgezogen von unheilsamen Zuständen, in die erste Durchdringung eintritt: Freude und Vergnügen, geboren aus Zurückgezogenheit, mit Denken und Überlegen …
+
+Mit dem Gedanken
+"Ich erlange die erste Durchdringung", verkehrt sie
+mit Mönchen, Nonnen, Laienmännern, Laienfrauen, Herrschern und Ministern, mit
+Lehrern anderer Pfade und ihren Schülern.
+
+Auf diese Weise verkehrend, wird sie vertraut und freundschaftlich, verbringt
+Zeit mit leerem Geschwätz, und so lebend, wird ihr Geist von Begierde infiziert.
+Ihr Geist, der von Begierde infiziert ist, gibt die Übung auf
+und kehrt zum niedrigeren Leben zurück.‘
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:49]
+#+begin_quote
+‘It is as if there having been heavy rain at the crossroads, the dust were
+to vanish and mud appear. If one were to say, “Now dust will never
+again appear at this crossroads,” would this be speaking rightly?’
+‘No indeed, friend. For it remains that people, cattle and the like
+will cross over the crossroad, that the wind and sun will evaporate the
+moisture, so that the dust may again appear.’
+‘So in the same way, friends, there can be a person who, withdrawn
+from sensual desires, withdrawn from unwholesome states, enters
+upon the first comprehension: joy and pleasure born of withdrawal,
+with thinking and pondering …
+With the thought
+“i obtain the first comprehension,” he associates
+with monks, nuns, laymen, laywomen, rulers and ministers, with
+teachers of other paths and their disciples.
+Being associated in this way, he becomes close and friendly, spends
+time in idle chatter, and living in this way, his mind becomes infected
+with lust. His mind being infected with lust, he gives up the training
+and returns to the lower life.’
+#+end_quote
+
+
+** DONE DN 2 (pg. 130) [2/2]
+CLOSED: [2025-11-02 Sun 13:52]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:52]
+#+begin_quote
+So, Großer König, ein so in Tugend vollendeter Bhikkhu sieht nichts,
+was er von irgendwoher fürchten müsste, in Bezug auf seine Zurückhaltung in der Tugend. Gerade wie ein
+Krieger-König, der seine Feinde besiegt hat, nichts zu fürchten sieht von
+irgendeiner Richtung in Bezug auf irgendeinen seiner Feinde; auf genau diese Weise sieht ein
+Mönch, der so in Tugend vollendet ist, nichts zu fürchten von irgendwoher in Bezug auf seine Zurückhaltung in der Tugend. Indem er mit diesem
+vollständigen Aggregat von Tugend ausgestattet ist, erfährt er in sich selbst eine tadellose
+Glückseligkeit. Das, großer König, ist, wie ein Bhikkhu in Tugend vollendet ist.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:50]
+#+begin_quote
+So, Great King, a bhikkhu thus accomplished in virtue sees nothing
+to fear from anywhere with respect to his restraint in virtue. Just as a
+warrior-king who has defeated his enemies sees nothing to fear from
+any direction with respect to any of his enemies; in just this way, a
+monk thus accomplished in virtue sees nothing to fear from anywhere
+with respect to his restraint in virtue. Being endowed with this
+complete aggregate of virtue, he experiences in himself a blameless
+happiness. That, great king, is how a bhikkhu is accomplished in
+virtue.
+#+end_quote
+
+
+** DONE MN 117 (pg. 131) [2/2]
+CLOSED: [2025-11-02 Sun 13:52]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:52]
+#+begin_quote
+,Bhikkhus, ich werde euch rechten Samādhi mit seinen Stützen und
+seinen Requisiten lehren. Hört zu und achtet genau auf das, was ich sagen werde.‘—‚Ja,
+ehrwürdiger Herr‘, antworteten die Bhikkhus. Der Erhabene sagte dies:
+‚Was, Bhikkhus, ist rechter Samādhi mit seinen Stützen und seinen Requisiten
+–
+rechte Ansicht, rechte Absicht, rechte Rede, rechte Handlung, rechter
+Lebenserwerb, rechte Anstrengung und rechte Vergegenwärtigung? Ein Geist, der mit
+diesen sieben Faktoren vereinheitlicht ist, wird rechter Samādhi genannt.
+
+Darin, Bhikkhus, kommt rechte Ansicht zuerst. Und wie kommt rechte Ansicht
+zuerst? Man versteht falsche Ansicht als falsche Ansicht und rechte Ansicht
+als rechte Ansicht: dies ist die rechte Ansicht.‘
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:50]
+#+begin_quote
+‘Bhikkhus, I shall teach you right samādhi with its supports and
+its requisites. Listen and attend closely to what I shall say.’—‘Yes,
+venerable sir,’ the bhikkhus replied. The Blessed One said this:
+‘What, bhikkhus, is right samādhi with its supports and its requisites
+–
+right view, right intention, right speech, right action, right
+livelihood, right effort, and right recollection? A mind unified with
+these seven factors is called right samādhi.
+Therein, bhikkhus, right view comes first. And how does right view
+come first? One understands wrong view as wrong view and right view
+as right view: this is one’s right view.’
+#+end_quote
+
+
+** DONE AN 11.11 (pg. 132) [2/2]
+CLOSED: [2025-11-02 Sun 13:53]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:53]
+#+begin_quote
+Weiterhin, Mahānāma, erinnert sich ein edler Jünger an seine eigene Tugend:
+vollständig, makellos, unzerrissen, ungetrübt, von den Weisen gelobt,
+nicht missverstanden, Samādhi fördernd. Während ein edler Jünger
+sich an seine Tugend erinnert, ist zu dieser Zeit sein Geist nicht durchzogen von
+Begierde, noch von Abneigung, noch von Zerstreutheit. Zu dieser Zeit ist sein Geist
+unerschütterlich, basierend auf seiner Tugend. Und, Mahānāma, ein edler Jünger
+mit einem unerschütterlichen Geist erlangt Glückseligkeit in der Praxis, Glückseligkeit
+in der Lehre und Glückseligkeit in der Natur der Dinge. Glückselig sein,
+entsteht Freude; mit einem freudvollen Geist beruhigt sich der Körper; wenn der Körper
+ruhig ist, erfährt er Gelassenheit; gelassen sein, sein Geist ist gesammelt.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:50]
+#+begin_quote
+Furthermore, Mahānāma, a noble disciple recollects his own virtue:
+complete, unblemished, untorn, untarnished, praised by the wise,
+not misapprehended, conducive to samādhi. While a noble disciple
+is recollecting his virtue, at that time his mind is not pervaded by
+lust, nor by aversion, nor by distraction. At that time his mind is
+unwavering, based on his virtue. And, Mahānāma, a noble disciple
+with an unwavering mind obtains happiness in the practice, happiness
+in the teaching, and happiness in the nature of things. Being happy,
+joy arises; with a joyful mind, the body calms down; when the body
+is calm, he experiences ease; being at ease, his mind is composed.
+#+end_quote
+
+
+** DONE AN 10.2 (pg. 133) [2/2]
+CLOSED: [2025-11-02 Sun 13:53]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:53]
+#+begin_quote
+Bhikkhus, einer, der tugendhaft ist; der in Tugend vollendet ist, muss nicht
+einen Willensakt vollziehen: ‚Möge Nicht-Reue in mir entstehen.‘ Es liegt in der
+Natur der Dinge, dass Nicht-Reue in einem entsteht, der tugendhaft und
+in Tugend vollendet ist.
+
+Einer, der ohne Reue ist, muss nicht einen Willensakt vollziehen:
+‚Möge Glückseligkeit in mir entstehen.‘ Es liegt in der Natur der Dinge, dass Glückseligkeit
+in einem entsteht, der ohne Reue ist.
+
+Einer, der glückselig ist, muss nicht einen Willensakt vollziehen: ‚Möge Freude
+in mir entstehen.‘ Es liegt in der Natur der Dinge, dass Freude in einem
+entstehen sollte, der glückselig ist.
+
+Einer mit einem freudvollen Geist muss nicht einen Willensakt vollziehen: ‚Möge
+mein Körper sich beruhigen.‘ Es liegt in der Natur der Dinge, dass der Körper sich
+in einem mit freudvollem Geist beruhigen wird.
+
+Einer, dessen Körper beruhigt ist, muss nicht einen Willensakt vollziehen: ‚Möge
+ich gelassen sein.‘ Es liegt in der Natur der Dinge, dass einer, dessen Körper beruhigt ist,
+gelassen sein wird.
+
+Einer, der gelassen ist, muss nicht einen Willensakt vollziehen: ‚Möge mein
+Geist gesammelt sein.‘ Es liegt in der Natur der Dinge, dass der Geist
+in einem, der gelassen ist, gesammelt sein wird.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:50]
+#+begin_quote
+Bhikkhus, one who is virtuous; who is accomplished in virtue, does not
+have to make an act of will: ‘May non-remorse arise in me.’ It is in the
+nature of things that non-remorse arises in one who is virtuous and
+accomplished in virtue.
+One who is without remorse does not have to make an act of will:
+‘May happiness arise in me.’ It is in the nature of things that happiness
+arises in one who is without remorse.
+One who is happy does not have to make an act of will: ‘May joy
+arise in me.’ It is in the nature of things that joy should arise in one
+who is happy.
+One with a joyful mind does not need to make an act of will: ‘May
+my body calm down.’ It is in the nature of things that the body will
+calm down in one with a joyful mind.
+One whose body is calmed does not have to make an act of will: ‘May
+I be at ease.’ It is in the nature of things that one whose body is calmed
+will be at ease.
+One who is at ease does not have to make an act of will: ‘May my
+mind be composed.’ It is in the nature of things that the mind will be
+composed in one who is at ease.
+#+end_quote
 
 
 
