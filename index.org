@@ -2122,7 +2122,6 @@ have become invisible to the Evil One by depriving Mara’s eye of its
 opportunity.
 #+end_quote
 
-
 * DONE Chapter 8 [7/7]
 CLOSED: [2025-11-02 Sun 12:59]
 ** DONE Thag. 19.1 (pg. 85) [2/2]
@@ -2465,6 +2464,184 @@ this very life. And he is one who, by realising it for himself with direct
 knowledge, in this very life enters upon that unsurpassed goal of the
 holy life for the sake of which people go forth from the household life
 into homelessness …’
+#+end_quote
+
+* DONE Chapter 9 [5/5]
+CLOSED: [2025-11-02 Sun 13:17]
+** DONE MN 108 (pg. 100) [2/2]
+CLOSED: [2025-11-02 Sun 13:14]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:14]
+#+begin_quote
+Der Erhabene, Brahmane, lobte nicht jede Art von Meditation, noch
+verurteilte er jede Art von Meditation. Welche Art von Meditation lobte
+der Erhabene nicht? Hier, Brahmane, weilt jemand mit seinem
+Geist, der von sinnlicher Begierde besessen ist, eine Beute der sinnlichen Begierde, und er versteht nicht das Entrinnen aus entstandener Begierde. Während er Begierde in sich hegt,
+meditiert er, prämeditiert er, über-meditiert er und falsch-meditiert er. Er
+weilt mit seinem Geist, der von Übelwollen besessen ist, eine Beute des Übelwollens … mit seinem
+Geist, der von Trägheit und Müdigkeit besessen ist, eine Beute der Trägheit und Müdigkeit … mit seinem Geist, der von Rastlosigkeit und Angst besessen ist, eine Beute
+der Rastlosigkeit und Angst … mit seinem Geist, der von Zweifel besessen ist, eine Beute
+des Zweifels, und er versteht nicht das Entrinnen aus entstandenem Zweifel.
+Während er Zweifel in sich hegt, meditiert er, prämeditiert er, über-
+meditiert er und falsch-meditiert er. Der Erhabene lobte diese Art
+von Meditation nicht.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:10]
+#+begin_quote
+The Blessed One, brahmin, did not praise every type of meditation, nor
+did he condemn every type of meditation. What kind of meditation did
+the Blessed One not praise? here, brahmin, someone abides with his
+mind obsessed with sensual lust, a prey to sensual lust, and he does not
+understand the escape from arisen lust. While he harbours lust within,
+he meditates, premeditates, over-meditates, and mis-meditates. He
+abides with his mind obsessed with ill will, a prey to ill will … with his
+mind obsessed with indolence and tiredness, a prey to slindolence and
+tiredness … with his mind obsessed with restlessness and anxiety, a prey
+to restlessness and anxiety … with his mind obsessed with doubt, a prey
+to doubt, and he does not understand the escape from arisen doubt.
+While he harbours doubt within, he meditates, premeditates, over-
+meditates, and mis-meditates. The Blessed One did not praise that kind
+of meditation.
+#+end_quote
+
+
+** DONE SN 36.6 (pg. 100) [2/2]
+CLOSED: [2025-11-02 Sun 13:14]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:14]
+#+begin_quote
+Wenn er Abneigung gegenüber schmerzhafter Empfindung hegt, liegt die zugrunde liegende Neigung zur Abneigung gegenüber schmerzhafter Empfindung dahinter. Indem er von einer schmerzhaften Empfindung berührt wird, sucht er Freude an sinnlichem Vergnügen. Aus welchem Grund? Weil die gewöhnliche Person kein anderes Entrinnen aus schmerzhafter Empfindung kennt als sinnliches Vergnügen.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:11]
+#+begin_quote
+When he harbours aversion toward painful feeling, the underlying
+tendency to aversion toward painful feeling lies behind this. Being
+contacted by a painful feeling, he seeks delight in sensual pleasure.
+For what reason? Because the ordinary person does not know of any
+escape from painful feeling other than sensual pleasure.
+#+end_quote
+
+
+** DONE MN 139 (pg. 101) [2/2]
+CLOSED: [2025-11-02 Sun 13:14]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:14]
+#+begin_quote
+Hier, ihr Bhikkhus, zurückgezogen von Sinnesbegierde, zurückgezogen von
+unheilsamen Zuständen, tritt ein Bhikkhu in die erste Durchdringung ein
+… die zweite … die dritte … die vierte Durchdringung. Dies wird genannt
+die Freude des Entsagens, die Freude der Abgeschiedenheit, die Freude
+des Friedens, die Freude des Erwachens. Ich sage von dieser Art von Freude, dass
+sie verfolgt werden sollte, dass sie entfaltet werden sollte, dass sie
+gepflegt werden sollte und dass sie nicht gefürchtet werden sollte.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:11]
+#+begin_quote
+Here, bhikkhus, withdrawn from sense desire, withdrawn from
+unwholesome states, a bhikkhu enters upon the first comprehension
+… the second … the third … the fourth comprehension. This is called
+the pleasure of renunciation, the pleasure of seclusion, the pleasure
+of peace, the pleasure of awakening. I say of this kind of pleasure that
+it should be pursued, that it should be developed, that it should be
+cultivated, and that it should not be feared.
+#+end_quote
+
+
+** DONE MN 105 (pg. 103) [2/2]
+CLOSED: [2025-11-02 Sun 13:15]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:15]
+#+begin_quote
+Wir nehmen Zuflucht zu Meister Gotama, zur Lehre und zur Sangha der Mönche. Von diesem Tag an möge Meister Gotama uns als Laienanhänger erachten, die lebenslang Zuflucht genommen haben.
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:11]
+#+begin_quote
+We go for refuge to Master Gotama, to the teaching, and to the Sangha
+of monks. From this day forth, may Master Gotama remember us as lay
+followers who have taken refuge for life.
+#+end_quote
+
+
+** DONE MN 75 (pg. 105) [2/2]
+CLOSED: [2025-11-02 Sun 13:17]
+*** DONE Deutsch
+CLOSED: [2025-11-02 Sun 13:17]
+#+begin_quote
+,Angenommen, Māgandiya, da wäre ein Leprakranker mit Wunden und Blasen an seinen
+Gliedmaßen, von Würmern zerfressen, der die Schorf von den Öffnungen
+seiner Wunden mit seinen Nägeln abkratzt, seinen Körper über einer brennenden
+Kohlegrube versengt. Dann brächten seine Freunde und Gefährten und Verwandten einen Arzt, um ihn zu behandeln.
+Der Arzt würde Medizin für ihn herstellen,
+und durch diese Medizin würde der Mann von seinem Lepra geheilt werden
+und würde gesund und glücklich werden, unabhängig, Herr seiner selbst,
+fähig, dorthin zu gehen, wohin er möchte. Dann würden zwei starke Männer ihn an
+beiden Armen packen und ihn in Richtung einer brennenden Kohlegrube zerren.
+Was denkst du, Māgandiya? Würde dieser Mann seinen Körper hin und her winden?‘
+,Ja, Meister Gotama. Warum ist das so? Weil dieses Feuer in der Tat
+schmerzhaft zu berühren ist, heiß und brennend.‘
+,Was denkst du, Māgandiya? Ist es nur jetzt, dass dieses Feuer
+schmerzhaft zu berühren ist, heiß und brennend, oder war früher auch dieses Feuer
+schmerzhaft zu berühren, heiß und brennend?‘
+,Meister Gotama, dieses Feuer ist jetzt schmerzhaft zu berühren, heiß und
+brennend, und früher war dieses Feuer ebenfalls schmerzhaft zu berühren, heiß und
+brennend. Aber als dieser Mann ein Leprakranker mit Wunden und Blasen
+an seinen Gliedmaßen war, von Würmern zerfressen, der die Schorf von den
+Öffnungen seiner Wunden mit seinen Nägeln abkratzte, waren seine Fähigkeiten beeinträchtigt;
+so erwarb er, obwohl das Feuer tatsächlich schmerzhaft zu berühren war, eine
+falsche Wahrnehmung davon als angenehm.‘
+,Ebenso, Māgandiya, waren in der Vergangenheit sinnliche Freuden schmerzhaft
+zu berühren, heiß und brennend; in der Zukunft werden sinnliche Freuden
+schmerzhaft zu berühren, heiß und brennend sein; und jetzt in der Gegenwart sind sinnliche
+Freuden schmerzhaft zu berühren, heiß und brennend. Aber diese Wesen,
+die nicht frei von Begierde nach sinnlichen Freuden sind, die von
+Gier nach sinnlichen Freuden zerfressen werden, die mit Fieber für sinnliche
+Freuden brennen, haben Fähigkeiten, die beeinträchtigt sind;
+so erwerben sie, obwohl sinnliche Freuden tatsächlich schmerzhaft zu berühren sind, eine falsche
+Wahrnehmung von ihnen als angenehm.‘
+#+end_quote
+
+*** DONE OWTJ
+CLOSED: [2025-11-02 Sun 13:12]
+#+begin_quote
+‘Suppose, Māgandiya, there was a leper with sores and blisters on his
+limbs, being devoured by worms, scratching the scabs off the openings
+of his wounds with his nails, cauterising his body over a burning
+charcoal pit. Then his friends and companions and relatives, brought
+a physician to treat him. The physician would make medicine for him,
+and by means of that medicine the man would be cured of his leprosy
+and would become well and happy, independent, master of himself,
+able to go where he likes. Then two strong men would seize him by
+both arms and drag him towards a burning charcoal pit. What do you
+think, Māgandiya? Would that man twist his body this way and that?’
+‘Yes, Master Gotama. Why is that? Because that fire is indeed
+painful to touch, hot, and scorching.’
+‘What do you think, Māgandiya? is it only now that that fire is
+painful to touch, hot, and scorching, or previously too was that fire
+painful to touch, hot, and scorching?’
+‘Master Gotama, that fire is now painful to touch, hot, and
+scorching, and previously too that fire was painful to touch, hot, and
+scorching. But when that man was a leper with sores and blisters
+on his limbs, being devoured by worms, scratching the scabs off the
+openings of his wounds with his nails, his faculties were impaired;
+thus, though the fire was actually painful to touch, he acquired a
+mistaken perception of it as pleasant.’
+‘So too, Māgandiya, in the past sensual pleasures were painful
+to touch, hot, and scorching; in the future sensual pleasures will
+be painful to touch, hot, and scorching; and now at present sensual
+pleasures are painful to touch, hot, and scorching. But these beings
+who are not free from lust for sensual pleasures, who are devoured
+by craving for sensual pleasures, who burn with fever for sensual
+pleasures, have faculties that are impaired; thus, though sensual
+pleasures are actually painful to touch, they acquire a mistaken
+perception of them as pleasant.’
 #+end_quote
 
 
